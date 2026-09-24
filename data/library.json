@@ -1,0 +1,517 @@
+{
+  "tags": {
+    "remittances": {
+      "label": "Remittances",
+      "track": "capstone"
+    },
+    "bonds": {
+      "label": "Bonds",
+      "track": "capstone"
+    },
+    "workforce": {
+      "label": "Workforce",
+      "track": "capstone"
+    },
+    "comparators": {
+      "label": "Comparators",
+      "track": "capstone"
+    },
+    "nigeria-system": {
+      "label": "Nigeria system",
+      "track": "capstone"
+    },
+    "aid-dependency": {
+      "label": "Aid dependency",
+      "track": "capstone"
+    },
+    "diaspora-return": {
+      "label": "Diaspora return",
+      "track": "capstone"
+    },
+    "investment": {
+      "label": "Investment",
+      "track": "capstone"
+    },
+    "us-health-care": {
+      "label": "US health care",
+      "track": "career"
+    },
+    "consulting-craft": {
+      "label": "Consulting craft",
+      "track": "career"
+    },
+    "life-sciences": {
+      "label": "Life sciences",
+      "track": "career"
+    },
+    "health-systems": {
+      "label": "Health systems",
+      "track": "career"
+    },
+    "development-finance": {
+      "label": "Development finance",
+      "track": "career"
+    },
+    "sdoh": {
+      "label": "SDOH",
+      "track": "career"
+    }
+  },
+  "items": [
+    {
+      "id": "b-adeyi",
+      "type": "book",
+      "title": "Global Health in Practice: Investing Amidst Pandemics, Denial of Evidence, and Neo-dependency",
+      "creator": "Olusoji Adeyi",
+      "year": 2022,
+      "tags": [
+        "aid-dependency",
+        "nigeria-system"
+      ],
+      "note": "Likely the single most relevant book. Adeyi (Nigerian, former World Bank health director) argues the core problem is neo-dependency on the Global North. Pairs with Dead Aid."
+    },
+    {
+      "id": "b-plaza-ratha",
+      "type": "book",
+      "title": "Diaspora for Development in Africa",
+      "creator": "Sonia Plaza & Dilip Ratha, eds.",
+      "year": 2011,
+      "tags": [
+        "bonds",
+        "workforce"
+      ],
+      "free": true,
+      "note": "At minimum: Ketkar & Ratha's chapter on diaspora bonds, and Clemens's chapter on the financial consequences of African doctors emigrating."
+    },
+    {
+      "id": "b-kuznetsov",
+      "type": "book",
+      "title": "Diaspora Networks and the International Migration of Skills",
+      "creator": "Yevgeny Kuznetsov, ed.",
+      "year": 2006,
+      "tags": [
+        "comparators"
+      ],
+      "free": true,
+      "note": "India and Israel comparators. Frames diaspora networks as a bridge between insiders with risk-mitigating knowledge and outsiders with capital."
+    },
+    {
+      "id": "b-ketkar-ratha",
+      "type": "book",
+      "title": "Innovative Financing for Development",
+      "creator": "Suhas Ketkar & Dilip Ratha, eds.",
+      "year": 2009,
+      "tags": [
+        "bonds"
+      ],
+      "free": true,
+      "note": "Foundational text on diaspora bonds, including India's and Israel's programs."
+    },
+    {
+      "id": "b-balogun",
+      "type": "book",
+      "title": "The Nigerian Healthcare System: Pathway to Universal and High Quality Health Care",
+      "creator": "Joseph Abiodun Balogun",
+      "year": 2022,
+      "tags": [
+        "nigeria-system"
+      ],
+      "note": "Reference text for system structure. Skim rather than read cover to cover."
+    },
+    {
+      "id": "b-rosenthal",
+      "type": "book",
+      "title": "An American Sickness",
+      "creator": "Elisabeth Rosenthal",
+      "tags": [
+        "us-health-care"
+      ],
+      "note": "How each sector (hospitals, insurers, pharma, devices) makes money. The best single primer."
+    },
+    {
+      "id": "b-porter",
+      "type": "book",
+      "title": "Redefining Health Care",
+      "creator": "Michael Porter & Elizabeth Teisberg",
+      "tags": [
+        "us-health-care",
+        "consulting-craft"
+      ],
+      "note": "Origin of the value-based care vocabulary consultants use constantly."
+    },
+    {
+      "id": "b-minto",
+      "type": "book",
+      "title": "The Pyramid Principle",
+      "creator": "Barbara Minto",
+      "tags": [
+        "consulting-craft"
+      ],
+      "note": "How consultants structure arguments. Worth reading before starting full time."
+    },
+    {
+      "id": "b-reid",
+      "type": "book",
+      "title": "The Healing of America",
+      "creator": "T.R. Reid",
+      "tags": [
+        "health-systems"
+      ],
+      "note": "Compares national health system models; bridges into the global work."
+    },
+    {
+      "id": "b-roberts",
+      "type": "book",
+      "title": "Getting Health Reform Right",
+      "creator": "Roberts, Hsiao, Berman & Reich",
+      "tags": [
+        "health-systems",
+        "development-finance"
+      ],
+      "tracks": [
+        "career",
+        "capstone"
+      ],
+      "note": "The control knobs framework (financing, payment, organization, regulation, behavior). Common language on World Bank health teams, and useful for the capstone framework too."
+    },
+    {
+      "id": "b-zelazny",
+      "type": "book",
+      "title": "Say It with Charts",
+      "creator": "Gene Zelazny",
+      "tags": [
+        "consulting-craft"
+      ],
+      "note": "How to build slides that make one point each."
+    },
+    {
+      "id": "b-rasiel",
+      "type": "book",
+      "title": "The McKinsey Way",
+      "creator": "Ethan Rasiel",
+      "tags": [
+        "consulting-craft"
+      ],
+      "note": "Quick read on consulting problem-solving habits."
+    },
+    {
+      "id": "b-mallaby",
+      "type": "book",
+      "title": "The World's Banker",
+      "creator": "Sebastian Mallaby",
+      "tags": [
+        "development-finance"
+      ],
+      "note": "Inside the World Bank under Wolfensohn. Good YPP prep on the institution's culture and politics."
+    },
+    {
+      "id": "b-werth",
+      "type": "book",
+      "title": "The Billion Dollar Molecule",
+      "creator": "Barry Werth",
+      "tags": [
+        "life-sciences"
+      ],
+      "note": "Narrative of drug development; read if pursuing life sciences."
+    },
+    {
+      "id": "t-ratha-ted",
+      "type": "talk",
+      "title": "The hidden force in global economics: sending money home",
+      "creator": "Dilip Ratha · TED",
+      "length": "17 min",
+      "tags": [
+        "remittances"
+      ],
+      "url": "https://www.ted.com/talks/dilip_ratha_the_hidden_force_in_global_economics_sending_money_home",
+      "note": "Watch this first: the primer on why remittances matter."
+    },
+    {
+      "id": "f-newsnight",
+      "type": "film",
+      "title": "Nigerian doctors working in the UK say they're being exploited",
+      "creator": "BBC Newsnight",
+      "year": 2022,
+      "tags": [
+        "workforce"
+      ],
+      "url": "https://www.youtube.com/watch?v=9BtEf98rcgY",
+      "note": "Surveyed 188 resident medical officers: 92% recruited from Africa, 81% from Nigeria. Useful for the recruiting-agencies angle."
+    },
+    {
+      "id": "f-stranded",
+      "type": "film",
+      "title": "Stranded: Exposing the UK's immigration scammers",
+      "creator": "BBC Africa Eye",
+      "year": 2025,
+      "tags": [
+        "workforce"
+      ],
+      "url": "https://www.youtube.com/playlist?list=PLajyiGz4JeyO2qgCvioQO-BzP1XCajJqt",
+      "note": "Olaronke Alo investigates rogue agents exploiting gaps in the UK care-sector job market."
+    },
+    {
+      "id": "t-brookings-adeyi",
+      "type": "talk",
+      "title": "Reinventing global health in Africa and the developing world",
+      "creator": "Brookings webinar",
+      "year": 2022,
+      "tags": [
+        "aid-dependency"
+      ],
+      "url": "https://www.brookings.edu/events/reinventing-global-health-in-africa-and-the-developing-world/",
+      "note": "Launch event for Adeyi's book; panel included CUGH's Keith Martin. Transcript available if you'd rather read."
+    },
+    {
+      "id": "f-back-motherland",
+      "type": "film",
+      "title": "Back to the Motherland",
+      "creator": "Pamela Sakyi",
+      "tags": [
+        "diaspora-return",
+        "comparators"
+      ],
+      "note": "How government actors pitch diaspora engagement; features Ghana's High Commissioner to the UK."
+    },
+    {
+      "id": "f-way-back",
+      "type": "film",
+      "title": "The Way Back",
+      "creator": "Shana Simmons Zougbo",
+      "year": 2024,
+      "length": "100 min",
+      "tags": [
+        "diaspora-return"
+      ],
+      "note": "Follows one diasporan family returning under Ghana's Year of Return. Lighter on policy; good for identity questions."
+    },
+    {
+      "id": "f-sick-around",
+      "type": "film",
+      "title": "Sick Around the World",
+      "creator": "PBS Frontline",
+      "tags": [
+        "health-systems"
+      ],
+      "note": "Compares how five wealthy countries run universal coverage."
+    },
+    {
+      "id": "f-unnatural",
+      "type": "film",
+      "title": "Unnatural Causes",
+      "creator": "PBS series",
+      "tags": [
+        "sdoh"
+      ],
+      "note": "The classic on social determinants of health; relevant to the Fund for Health role."
+    },
+    {
+      "id": "f-poverty-inc",
+      "type": "film",
+      "title": "Poverty, Inc.",
+      "tags": [
+        "development-finance",
+        "aid-dependency"
+      ],
+      "note": "Critique of the aid industry. Pairs with Dead Aid and Adeyi; connects career and capstone."
+    },
+    {
+      "id": "f-escape-fire",
+      "type": "film",
+      "title": "Escape Fire",
+      "tags": [
+        "us-health-care"
+      ],
+      "note": "Critique of US health care incentives; a companion to An American Sickness."
+    },
+    {
+      "id": "f-crime-century",
+      "type": "film",
+      "title": "The Crime of the Century",
+      "creator": "HBO",
+      "tags": [
+        "life-sciences"
+      ],
+      "note": "Pharma, regulators, and the opioid crisis. Watch if life sciences is on the table."
+    },
+    {
+      "id": "p-ghm-adeyi",
+      "type": "episode",
+      "show": "Global Health Matters",
+      "title": "Dialogues: a conversation with Olusoji Adeyi",
+      "date": "2024-03",
+      "tags": [
+        "aid-dependency"
+      ],
+      "url": "https://tdr.who.int/global-health-matters-podcast/dialogues-a-conversation-with-olusoji-adeyi",
+      "note": "WHO/TDR podcast."
+    },
+    {
+      "id": "p-foresight-adeyi",
+      "type": "episode",
+      "show": "Foresight Africa",
+      "title": "African solutions to African health system challenges",
+      "date": "2022-02",
+      "tags": [
+        "aid-dependency"
+      ],
+      "note": "Adeyi on ending dependency on foreign public-health funding, and why it weakens leaders' financial responsibility."
+    },
+    {
+      "id": "p-cure-telemed",
+      "type": "episode",
+      "show": "The Cure",
+      "title": "The Telemedicine Renaissance in Nigeria, Part 1",
+      "tags": [
+        "investment"
+      ],
+      "url": "https://thecurepodafrica.buzzsprout.com/2521858/episodes/18335733-the-telemedicine-renaissance-in-nigeria-part-1",
+      "note": "Temitope Coker's show on founders, investors, and policymakers shaping African health systems."
+    },
+    {
+      "id": "p-bbc-return",
+      "type": "episode",
+      "show": "BBC World Service",
+      "title": "The Return",
+      "tags": [
+        "diaspora-return",
+        "comparators"
+      ],
+      "spotify": false,
+      "url": "https://globalplayer.com/podcasts/episodes/7Drhg9k",
+      "note": "Audio documentary. Dr. Ashley Milton travels from Cape Coast to Tema meeting African Americans now living in Ghana."
+    }
+  ],
+  "stories": [
+    {
+      "id": "s-uba-anpa",
+      "title": "UBA and ANPA Diaspora Healthcare Investment Platform",
+      "date": "May 2026",
+      "summary": "UBA presented a framework at the ANPA Carolinas Symposium to channel diaspora funding into specialist hospitals, diagnostics, telemedicine, and medical training. A live case of the investment-not-donation thesis.",
+      "url": "https://leadership.ng/uba-introduces-healthcare-investment-platform-to-nigerian-american-physicians/",
+      "keywords": [
+        "UBA",
+        "ANPA",
+        "diaspora healthcare investment",
+        "diaspora health investment",
+        "Nigerian-American physicians",
+        "Association of Nigerian Physicians in the Americas"
+      ],
+      "related": [
+        "b-plaza-ratha",
+        "b-ketkar-ratha",
+        "p-cure-telemed"
+      ],
+      "tags": [
+        "investment",
+        "bonds"
+      ],
+      "require": [
+        "health",
+        "medical",
+        "hospital",
+        "doctor",
+        "physician",
+        "nurse",
+        "clinic",
+        "telemedicine",
+        "diagnostic"
+      ]
+    },
+    {
+      "id": "s-diaspora-day",
+      "title": "Nigerians in Diaspora Day 2026",
+      "date": "July 24, 2026",
+      "summary": "This year's theme: harnessing global diaspora medical expertise to strengthen local health systems.",
+      "url": "https://leadership.ng/nidcom-leveraging-diaspora-investment-for-transformation-in-nigerias-health-sector/",
+      "keywords": [
+        "NIDCOM",
+        "Diaspora Day",
+        "Dabiri-Erewa",
+        "Nigerians in Diaspora Commission",
+        "diaspora medical expertise"
+      ],
+      "related": [
+        "f-newsnight",
+        "b-plaza-ratha",
+        "p-bbc-return"
+      ],
+      "tags": [
+        "workforce",
+        "diaspora-return"
+      ],
+      "require": [
+        "health",
+        "medical",
+        "hospital",
+        "doctor",
+        "physician",
+        "nurse",
+        "clinic",
+        "telemedicine",
+        "diagnostic"
+      ]
+    },
+    {
+      "id": "s-pate-insurance",
+      "title": "Minister Pate on diaspora health insurance",
+      "date": "September 2025",
+      "summary": "Suggested diasporans pay for relatives' health insurance rather than sending money when someone falls ill. Shifts remittances from consumption toward investment.",
+      "url": "https://allafrica.com/stories/202509050068.html",
+      "keywords": [
+        "Minister Pate",
+        "Ali Pate",
+        "Muhammad Pate",
+        "Coordinating Minister of Health",
+        "NHIA",
+        "diaspora health insurance"
+      ],
+      "related": [
+        "t-ratha-ted",
+        "b-balogun",
+        "b-adeyi"
+      ],
+      "tags": [
+        "remittances",
+        "nigeria-system"
+      ]
+    },
+    {
+      "id": "s-amce",
+      "title": "African Medical Centre of Excellence, Abuja",
+      "date": "Ongoing",
+      "summary": "A quaternary hospital developed by Afreximbank and King's College Hospital London. A strong case study for the medical tourism thread.",
+      "keywords": [
+        "AMCE",
+        "African Medical Centre of Excellence",
+        "African Medical Center of Excellence",
+        "King's College Hospital",
+        "medical tourism"
+      ],
+      "related": [
+        "b-balogun",
+        "p-cure-telemed"
+      ],
+      "tags": [
+        "investment",
+        "nigeria-system"
+      ]
+    },
+    {
+      "id": "s-walls-nations",
+      "title": "Coming soon: The Walls of Nations by Michael Clemens",
+      "date": "Forthcoming",
+      "summary": "Listed as forthcoming from Columbia University Press. It will move to your Books list when it's out.",
+      "keywords": [
+        "Walls of Nations",
+        "Michael Clemens"
+      ],
+      "related": [
+        "b-plaza-ratha"
+      ],
+      "tags": [
+        "workforce"
+      ]
+    }
+  ]
+}

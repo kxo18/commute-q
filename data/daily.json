@@ -1,0 +1,305 @@
+{
+ "updated": "2026-09-24T20:42:11+00:00",
+ "days": [
+  {
+   "date": "2026-09-24",
+   "capstone": {
+    "listenNew": {
+     "id": "e-dff9c4d368",
+     "kind": "episode",
+     "title": "Trailblazers with Garry: a conversation with Priti Patnaik",
+     "date": "2026-09-22",
+     "summary": "\"Trailblazers with Garry\" is a series from Global Health Matters, where host Garry Aslanyan sits down with trailblazers — thinkers, leaders, and influencers shaping the future of global health — for short face-to-face conversations,…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 43
+    },
+    "listenOld": {
+     "ref": "p-ghm-adeyi"
+    },
+    "read": [
+     {
+      "id": "a-4609ec02fd",
+      "kind": "article",
+      "title": "Accra Reset’s Plan for Health Sovereignty Includes Closing Some Global Health Bodies",
+      "url": "https://healthpolicy-watch.news/accra-resets-plan-for-health-sovereignty/",
+      "date": "2026-09-22",
+      "summary": "A blueprint to empower countries in the Global South to end their dependence on health aid, which includes the possible closure of international global health organisations, was launched by the Accra Reset on the sidelines of the UN…",
+      "tags": [
+       "comparators",
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-e439e4b6e7",
+      "kind": "article",
+      "title": "Health Workers Begins Indefinite Strike Over Director’s Reinstatement",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmxkbHVNbUpBNi1qZ0V1OTFVbC0xV2YxNWlSMHFSWlBFdzZ2WnlhUXNTVHRLZXlyaXVrZ0x2UHFSdDVIMVQxVndQMHdaZjE2SlZyZkt1YlNCR1o4bFhZbWpOdnpQVzdfWFVydWVHZkJOcU1UMUt3c1g3eld0R00yMDhkRWJlNWhreDltVE13OEFucnlJR0E?oc=5",
+      "date": "2026-09-24",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-a6a8118e4d",
+      "kind": "article",
+      "title": "Revitalised Ungwan Dosa PHC Still Faces Access Gaps",
+      "url": "https://nigeriahealthwatch.com/articles/community-health-watch/revitalised-ungwan-dosa-phc-still-faces-access-gaps/",
+      "date": "2026-09-24",
+      "summary": "Rabi Mustapha Pregnant women in Ungwan Dosa, Kaduna North Local Government Area of Kaduna State, are experiencing improved healthcare services following the revitalisation of their primary healthcare centre. However, a deteriorating access…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-9c9f8a5a56",
+     "kind": "episode",
+     "title": "Healthcare a Vague but Potent Issue for Election 2026",
+     "url": "https://play.prx.org/listen?ge=prx_14448_7056df6d-ea5c-415c-8afe-474bd8b147ee&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-09-24",
+     "summary": "Healthcare in general, and health costs in particular, are a top issue for voters in 2026. But it remains unclear exactly how voters want lawmakers to fix the problem. As a result, candidates in both parties are offering a wide variety of…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 42
+    },
+    "listenOld": {
+     "id": "e-0a139925fb",
+     "kind": "episode",
+     "title": "(Almost) Everyone Is Doing It",
+     "url": "https://play.acast.com/s/tradeoffs/-almost-everyoneisdoingit",
+     "date": "2020-04-16",
+     "summary": "What's the best way to convince people to practice social distancing? Guests: Syon Bhanot , PhD, Assistant Professor of Economics, Swarthmore College Susanne Schwarz Katy Milkman , PhD, Professor of Operations, Information and Decisions,…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 14
+    },
+    "read": [
+     {
+      "id": "a-2692b65e5c",
+      "kind": "article",
+      "title": "The FDA’s Overton era, and dispatches from Shanghai",
+      "url": "https://www.statnews.com/2026/09/24/chronicling-chinese-drug-development-from-shanghai-readout-loud/?utm_campaign=rss",
+      "date": "2026-09-24",
+      "summary": "The Readout LOUD is going international this week with a dispatch from Shanghai, along with notes on the FDA's Overton era.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-76a4ad8f9d",
+      "kind": "article",
+      "title": "Real-World Brinkmanship In Hospital-Insurer Negotiations",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EQ2RsNmpVcDU5OWEwbm9PVVNnckpXYlNDd2pZaUUyUlE5bUlQM0F3MTE1aFVLSTJJbTY0a3hBSDh6WklFYllhSWxWcnRVWWZSaG1DeVp4Y3pJUUlQMzhMVkxMUTBiNmlvNmk2NA?oc=5",
+      "date": "2026-09-23",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-562f646013",
+      "kind": "article",
+      "title": "We should copy New Zealand's malpractice policy",
+      "url": "https://www.outofpocket.health/p/copy-new-zealands-malpractice-policy",
+      "date": "2026-09-22",
+      "summary": "A surgeon's POV on malpractice",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  }
+ ],
+ "radar": {
+  "s-pate-insurance": [
+   {
+    "id": "a-1da72745fe",
+    "kind": "article",
+    "title": "Nigeria Needs a Stronger Evidence System to Track Progress Towards Universal Health Coverage",
+    "url": "https://nigeriahealthwatch.com/articles/thought-leadership/for-nearly-two-decades-under-the-national-health-insurance-scheme-coverage-remained-below-5-of-the-population/",
+    "date": "2026-09-17",
+    "summary": "Yasir Jamal Bakare and Toluwani Oluwatola (Lead writers) The National Health Insurance Authority(NHIA) announced in July 2026 that enrolment had reached 22.03 million people. For nearly two decades under the National Health Insurance…",
+    "tags": [
+     "nigeria-system"
+    ],
+    "tracks": [
+     "capstone"
+    ],
+    "source": "Nigeria Health Watch",
+    "attached": "2026-09-24"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "id": "cgd",
+   "name": "CGD",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "id": "devex",
+   "name": "Devex",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "id": "brookings-agi",
+   "name": "Brookings",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "id": "hpw",
+   "name": "Health Policy Watch",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "id": "giin",
+   "name": "GIIN",
+   "ok": true,
+   "count": 0
+  },
+  {
+   "id": "ifc",
+   "name": "IFC",
+   "ok": true,
+   "count": 0
+  },
+  {
+   "id": "peoplemove",
+   "name": "World Bank People Move",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "id": "nhw",
+   "name": "Nigeria Health Watch",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "id": "leadership",
+   "name": "Leadership.ng",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "id": "nairametrics",
+   "name": "Nairametrics",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "id": "eudif",
+   "name": "EU Global Diaspora Facility",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "id": "stat",
+   "name": "STAT",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "id": "oop",
+   "name": "Out-Of-Pocket",
+   "ok": true,
+   "count": 100
+  },
+  {
+   "id": "haf",
+   "name": "Health Affairs Forefront",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "id": "cure",
+   "name": "The Cure",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "id": "foresight",
+   "name": "Foresight Africa",
+   "ok": true,
+   "count": 86
+  },
+  {
+   "id": "ghm",
+   "name": "Global Health Matters",
+   "ok": true,
+   "count": 91
+  },
+  {
+   "id": "rhv",
+   "name": "Relentless Health Value",
+   "ok": true,
+   "count": 400
+  },
+  {
+   "id": "tradeoffs",
+   "name": "Tradeoffs",
+   "ok": true,
+   "count": 332
+  },
+  {
+   "id": "wth",
+   "name": "KFF Health News: What the Health?",
+   "ok": true,
+   "count": 468
+  },
+  {
+   "id": "readout",
+   "name": "The Readout LOUD",
+   "ok": true,
+   "count": 418
+  }
+ ]
+}

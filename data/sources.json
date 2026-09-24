@@ -1,0 +1,520 @@
+{
+  "_help": "Sources the daily job reads. mode 'focused' keeps every new item; 'filter' keeps only items that mention one of the topic keywords below. 'feed' is a direct RSS address; 'news' is a Google News search used when a site has no public feed or blocks readers. A keyword ending in * matches any ending (invest* = invest, investing, investment). ALL-CAPS keywords are matched case-sensitively. 'archive': false keeps a news-roundup podcast out of the older-episode slot.",
+  "keywords": {
+    "remittances": [
+      "remittance",
+      "diaspora remittance",
+      "personal transfers",
+      "money transfer",
+      "sending money home",
+      "KNOMAD",
+      "cost of sending"
+    ],
+    "bonds": [
+      "diaspora bond",
+      "eurobond",
+      "sukuk",
+      "bond issu*",
+      "social bond",
+      "health bond",
+      "impact bond",
+      "green bond"
+    ],
+    "workforce": [
+      "health worker",
+      "healthcare worker",
+      "health workforce",
+      "brain drain",
+      "japa",
+      "resident doctor",
+      "medical doctor",
+      "junior doctor",
+      "nurses and midwives",
+      "medical migration",
+      "NARD",
+      "NANNM",
+      "care worker",
+      "recruitment agenc*",
+      "doctors emigrat*",
+      "exodus of doctors",
+      "exodus of health",
+      "emigration of health",
+      "migrant health worker",
+      "health professionals abroad"
+    ],
+    "comparators": [
+      "diaspora policy",
+      "diaspora engagement",
+      "Year of Return",
+      "Beyond the Return",
+      "Accra Reset",
+      "diaspora affairs",
+      "diaspora strategy"
+    ],
+    "nigeria-system": [
+      "Nigeria",
+      "Nigerian",
+      "NHIA",
+      "NPHCDA",
+      "BHCPF",
+      "primary health care",
+      "PHC",
+      "Lagos",
+      "Abuja",
+      "Kaduna",
+      "Kano",
+      "state health insurance"
+    ],
+    "aid-dependency": [
+      "health aid",
+      "foreign aid",
+      "aid cut*",
+      "donor",
+      "USAID",
+      "PEPFAR",
+      "Global Fund",
+      "Gavi",
+      "ODA",
+      "official development assistance",
+      "aid dependency",
+      "health financing",
+      "domestic resource mobili*",
+      "health sovereignty",
+      "self-reliance",
+      "Lusaka Agenda",
+      "foreign assistance",
+      "development assistance for health"
+    ],
+    "diaspora-return": [
+      "diaspora return",
+      "returnee",
+      "reverse migration",
+      "return migration",
+      "repatriat*",
+      "homecoming",
+      "diaspora professionals"
+    ],
+    "investment": [
+      "diaspora invest*",
+      "impact invest*",
+      "private equity",
+      "venture capital",
+      "blended finance",
+      "health invest*",
+      "invest in health",
+      "investing in health",
+      "healthcare invest*",
+      "healthtech",
+      "health-tech",
+      "startup",
+      "private sector",
+      "public-private partnership",
+      "PPP",
+      "medical tourism",
+      "private hospital",
+      "specialist hospital",
+      "diagnostic centre",
+      "diagnostic center",
+      "telemedicine"
+    ],
+    "us-health-care": [
+      "Medicare",
+      "Medicaid",
+      "ACA",
+      "Affordable Care Act",
+      "payer",
+      "insurer",
+      "health plan",
+      "PBM",
+      "pharmacy benefit",
+      "employer",
+      "value-based",
+      "CMS",
+      "HHS",
+      "Medicare Advantage",
+      "hospital",
+      "health system",
+      "prior authorization",
+      "price transparency",
+      "RFK",
+      "Kennedy",
+      "physician",
+      "private equity",
+      "340B",
+      "site-neutral",
+      "uninsured",
+      "premium"
+    ],
+    "consulting-craft": [
+      "consulting",
+      "McKinsey",
+      "Deloitte",
+      "BCG",
+      "Bain",
+      "Mercer",
+      "Accenture",
+      "strategy consult*"
+    ],
+    "life-sciences": [
+      "FDA",
+      "biotech",
+      "pharma*",
+      "drug",
+      "clinical trial",
+      "therapy",
+      "therapies",
+      "vaccine",
+      "GLP-1",
+      "biosimilar",
+      "drugmaker",
+      "patent",
+      "gene therap*",
+      "cell therap*"
+    ],
+    "health-systems": [
+      "universal health coverage",
+      "UHC",
+      "single-payer",
+      "single payer",
+      "NHS",
+      "national health insurance",
+      "health reform",
+      "primary care",
+      "health system performance",
+      "health spending"
+    ],
+    "development-finance": [
+      "development finance",
+      "DFI",
+      "World Bank",
+      "IMF",
+      "multilateral",
+      "development bank",
+      "AfDB",
+      "concessional",
+      "blended finance",
+      "impact invest*",
+      "Afreximbank",
+      "sovereign debt",
+      "debt relief",
+      "MDB"
+    ],
+    "sdoh": [
+      "social determinants",
+      "SDOH",
+      "food insecurity",
+      "housing",
+      "health equity",
+      "poverty",
+      "social needs"
+    ]
+  },
+  "sources": [
+    {
+      "id": "cgd",
+      "name": "CGD",
+      "kind": "article",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "filter",
+      "news": "site:cgdev.org when:7d",
+      "exclude": "^Subscribe"
+    },
+    {
+      "id": "devex",
+      "name": "Devex",
+      "kind": "article",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "filter",
+      "news": "site:devex.com/news when:7d",
+      "exclude": "(?i)\\b(consultant|consultancy|internship|intern|officer|specialist|manager|coordinator|advisor|adviser|expert|vacancy|tender|request for|RFP|EOI|procurement|director|analyst|associate)\\b"
+    },
+    {
+      "id": "brookings-agi",
+      "name": "Brookings",
+      "kind": "article",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "filter",
+      "require": [
+        "Africa",
+        "African",
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "diaspora",
+        "remittance"
+      ],
+      "news": "site:brookings.edu (Africa OR African OR Nigeria OR diaspora) when:14d"
+    },
+    {
+      "id": "hpw",
+      "name": "Health Policy Watch",
+      "kind": "article",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "filter",
+      "feed": "https://healthpolicy-watch.news/feed/"
+    },
+    {
+      "id": "giin",
+      "name": "GIIN",
+      "kind": "article",
+      "tracks": [
+        "capstone",
+        "career"
+      ],
+      "mode": "focused",
+      "tags": [
+        "investment",
+        "development-finance"
+      ],
+      "news": "site:thegiin.org when:30d",
+      "exclude": "(?i)\\b(associate|manager|director|officer|analyst|intern|internship|vacancy|careers?)\\b|\\([A-Z]{2}\\d{4}\\)"
+    },
+    {
+      "id": "ifc",
+      "name": "IFC",
+      "kind": "article",
+      "tracks": [
+        "capstone",
+        "career"
+      ],
+      "mode": "filter",
+      "news": "site:ifc.org when:14d",
+      "require": [
+        "health",
+        "hospital",
+        "diaspora",
+        "remittance",
+        "impact invest*",
+        "blended finance",
+        "Nigeria"
+      ]
+    },
+    {
+      "id": "peoplemove",
+      "name": "World Bank People Move",
+      "kind": "article",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "focused",
+      "tags": [
+        "remittances"
+      ],
+      "news": "(site:blogs.worldbank.org OR site:knomad.org) (remittances OR diaspora OR migration) when:30d",
+      "require": [
+        "remittance",
+        "diaspora",
+        "migration",
+        "migrant",
+        "KNOMAD"
+      ]
+    },
+    {
+      "id": "nhw",
+      "name": "Nigeria Health Watch",
+      "kind": "article",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "focused",
+      "tags": [
+        "nigeria-system"
+      ],
+      "feed": "https://nigeriahealthwatch.com/feed/"
+    },
+    {
+      "id": "leadership",
+      "name": "Leadership.ng",
+      "kind": "article",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "filter",
+      "news": "site:leadership.ng (diaspora OR NIDCOM OR \"health insurance\" OR NHIA OR hospital OR \"medical tourism\" OR remittance OR doctors) when:7d",
+      "require": [
+        "health",
+        "hospital",
+        "medical",
+        "diaspora",
+        "remittance",
+        "NHIA",
+        "NIDCOM",
+        "nurse",
+        "resident doctor"
+      ],
+      "exclude": "(?i)veterinar|native doctor"
+    },
+    {
+      "id": "nairametrics",
+      "name": "Nairametrics",
+      "kind": "article",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "filter",
+      "news": "site:nairametrics.com (diaspora OR remittance OR health OR hospital) when:14d",
+      "require": [
+        "health",
+        "hospital",
+        "medical",
+        "diaspora",
+        "remittance",
+        "personal transfers"
+      ]
+    },
+    {
+      "id": "eudif",
+      "name": "EU Global Diaspora Facility",
+      "kind": "article",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "focused",
+      "tags": [
+        "comparators"
+      ],
+      "feed": "https://diasporafordevelopment.eu/feed/"
+    },
+    {
+      "id": "stat",
+      "name": "STAT",
+      "kind": "article",
+      "tracks": [
+        "career"
+      ],
+      "mode": "filter",
+      "feed": "https://www.statnews.com/feed/",
+      "exclude": "^STAT\\+"
+    },
+    {
+      "id": "oop",
+      "name": "Out-Of-Pocket",
+      "kind": "article",
+      "tracks": [
+        "career"
+      ],
+      "mode": "focused",
+      "tags": [
+        "us-health-care"
+      ],
+      "feed": "https://www.outofpocket.health/p/rss.xml"
+    },
+    {
+      "id": "haf",
+      "name": "Health Affairs Forefront",
+      "kind": "article",
+      "tracks": [
+        "career"
+      ],
+      "mode": "focused",
+      "tags": [
+        "us-health-care",
+        "health-systems"
+      ],
+      "news": "site:healthaffairs.org forefront when:7d",
+      "exclude": "Leading Publication"
+    },
+    {
+      "id": "cure",
+      "name": "The Cure",
+      "kind": "podcast",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "focused",
+      "tags": [
+        "investment"
+      ],
+      "feed": "https://rss.buzzsprout.com/2521858.rss"
+    },
+    {
+      "id": "foresight",
+      "name": "Foresight Africa",
+      "kind": "podcast",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "focused",
+      "tags": [
+        "investment"
+      ],
+      "feed": "https://rss.libsyn.com/shows/395525/destinations/3252284.xml"
+    },
+    {
+      "id": "ghm",
+      "name": "Global Health Matters",
+      "kind": "podcast",
+      "tracks": [
+        "capstone"
+      ],
+      "mode": "focused",
+      "tags": [
+        "aid-dependency"
+      ],
+      "feed": "https://rss.buzzsprout.com/1632040.rss"
+    },
+    {
+      "id": "rhv",
+      "name": "Relentless Health Value",
+      "kind": "podcast",
+      "tracks": [
+        "career"
+      ],
+      "mode": "focused",
+      "tags": [
+        "us-health-care"
+      ],
+      "feed": "https://rss.libsyn.com/shows/54094/destinations/197686.xml"
+    },
+    {
+      "id": "tradeoffs",
+      "name": "Tradeoffs",
+      "kind": "podcast",
+      "tracks": [
+        "career"
+      ],
+      "mode": "focused",
+      "tags": [
+        "us-health-care",
+        "health-systems"
+      ],
+      "feed": "https://feeds.acast.com/public/shows/170f7fea-3078-4315-9c6b-57b666e73855"
+    },
+    {
+      "id": "wth",
+      "name": "KFF Health News: What the Health?",
+      "kind": "podcast",
+      "tracks": [
+        "career"
+      ],
+      "mode": "focused",
+      "tags": [
+        "us-health-care"
+      ],
+      "feed": "https://whatthehealth.feeds.wamu.org",
+      "archive": false
+    },
+    {
+      "id": "readout",
+      "name": "The Readout LOUD",
+      "kind": "podcast",
+      "tracks": [
+        "career"
+      ],
+      "mode": "focused",
+      "tags": [
+        "life-sciences"
+      ],
+      "feed": "https://feeds.megaphone.fm/thereadoutloud",
+      "archive": false
+    }
+  ]
+}
