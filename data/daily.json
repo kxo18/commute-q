@@ -1,6 +1,155 @@
 {
- "updated": "2026-09-24T20:42:11+00:00",
+ "updated": "2026-09-25T10:11:05+00:00",
  "days": [
+  {
+   "date": "2026-09-25",
+   "capstone": {
+    "listenNew": {
+     "id": "e-1491ae5ca3",
+     "kind": "episode",
+     "title": "Shifting US perspectives on Africa: A conversation with Rep. Sara Jacobs",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2026-09-10",
+     "summary": "In the final episode of season 5, host Landry Signé sits with the Hon. Sara Jacobs, representative for California's 51st district and ranking member of the Subcommittee on Africa of the U.S. House Foreign Affairs Committee. Amidst the…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 18
+    },
+    "listenOld": {
+     "ref": "p-foresight-adeyi"
+    },
+    "read": [
+     {
+      "id": "a-4be5f5b2c5",
+      "kind": "article",
+      "title": "Kano Upgrades 5 PHCs To General Hospitals",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqTnhWNXlIOG9uNmFXc3pYNG9MdGg4dlhxV3VRdWFfVnNJRWRkR3F6VFl3ang4UFc5VV93YVJuOWlKRU9LaEVzWl9qOVZNeW5xRVREUjc5cnFGNFRVbGgxVEpzUVN1OWU2ZDFseEprSmRmdw?oc=5",
+      "date": "2026-09-25",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-f88c3c2812",
+      "kind": "article",
+      "title": "Maternal Health Roundtable Report: Investing in Mothers- Aligning Finance, Policy and Innovation for Improved Maternal Outcomes for Improved Maternal Outcome",
+      "url": "https://nigeriahealthwatch.com/article/resources/maternal-health-resources/maternal-health-roundtable-report-investing-in-mothers-investing-in-mothers-aligning-finance-policy-and-innovation-for-improved-maternal-outcomes-for-improved-maternal-outcome/",
+      "date": "2026-09-24",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-4af1d8ed66",
+      "kind": "article",
+      "title": "Impact investing goes mainstream, but who gets left behind?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcU1JQWNsLTVSM29XWnJBT2txdnRPXzJnakNjWHRhOVRNRGZxSnY5V0ZUdGhwaUc0ZXFPU2RGQi1yOXJuVHVteUx1bVNFNUItMTlINU9FVElpMFUyekZSZHRfN0tvYjZ0ZDRBQ25HOURtRFN2dk1DbmJqSnJKQmZPaFI4d2JvcTFOM3ltTE5wZHUxWk00ekE?oc=5",
+      "date": "2026-09-24",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-88bff981b0",
+     "kind": "episode",
+     "title": "A Wildly Underappreciated Point: Overpaying for Infusions Means Overpaying for Stop-Loss Coverage, With Jake Velie and Keith Hartman, RPh",
+     "url": "https://cc-lnk.com/EP530",
+     "date": "2026-09-23",
+     "summary": "The Hidden Link Between Expensive Infusions and Rising Stop-Loss Renewal Premiums. Episode 530. When an infusion claim lands on a self-insured plan's high-cost claims report, it's tempting to treat the price tag as fixed — but the exact…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 38
+    },
+    "listenOld": {
+     "id": "e-7f54e33eb2",
+     "kind": "episode",
+     "title": "Too Healthy for the Hospital, Too Sick for the Streets",
+     "url": "https://tradeoffs.org/2022/04/28/medical-respite-homelessness/",
+     "date": "2022-08-25",
+     "summary": "Why are a growing number of private insurance companies starting to invest in medical respite — a decades-old idea to care for homeless people who are too healthy to be in the hospital, but too sick to be on the streets? Guests: Henry…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 22
+    },
+    "read": [
+     {
+      "id": "a-9466b9ea58",
+      "kind": "article",
+      "title": "How Big Tobacco flooded the FDA with public comments to kill a menthol cigarette ban",
+      "url": "https://www.statnews.com/2026/09/25/fake-grassroots-campaign-jama-study-rutgers-researchers-fda-menthol-ban/?utm_campaign=rss",
+      "date": "2026-09-25",
+      "summary": "Virtually all of the 175,000 public comments on a 2022 FDA proposal to ban menthol cigarettes were form letters, most echoing tobacco industry talking points.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-7818986367",
+      "kind": "article",
+      "title": "Congress Weighs How, Not Whether, To Rein In Private Equity In Health Care",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVJJWFJXc3ZYdzhTa2ZVa21VOFJvVWtrcEswMVllaldjbWpvbGMxdUFfZGtTWE5MYThyZi0ybHZfUFk2enlGZjRrTmM3d0VOZ3QyNXRyY3FOamJudXRjY2tLNnk3RDZvdjluMl9yQVRiX0FUaEpFZnI4NlhzUTRKbGdEVkhsdDlwOVNMX1R2TUEwYlBsMkJhOG5uSnZQTnk2NGFhM2V1aFdyQTg?oc=5",
+      "date": "2026-09-24",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-49769911ff",
+      "kind": "article",
+      "title": "How much our baby’s birth was",
+      "url": "https://www.outofpocket.health/p/pregnancy-cost-breakdown",
+      "date": "2026-09-24",
+      "summary": "This is a fun exercise in learning how billing works!",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-09-24",
    "capstone": {
@@ -185,13 +334,13 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "hpw",
@@ -227,7 +376,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 4
+   "count": 8
   },
   {
    "id": "nairametrics",
@@ -238,14 +387,15 @@
   {
    "id": "eudif",
    "name": "EU Global Diaspora Facility",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "oop",
@@ -257,7 +407,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "id": "cure",
