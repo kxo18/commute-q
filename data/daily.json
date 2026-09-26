@@ -1,6 +1,158 @@
 {
- "updated": "2026-09-25T10:11:05+00:00",
+ "updated": "2026-09-26T10:10:54+00:00",
  "days": [
+  {
+   "date": "2026-09-26",
+   "capstone": {
+    "listenNew": {
+     "id": "e-ad13867955",
+     "kind": "episode",
+     "title": "Mid-season video trailer",
+     "date": "2026-09-17",
+     "summary": "In this video trailer, Host Garry Aslanyan shares a mid‑season update on Season 5 of Global Health Matters , highlighting the four types of episodes the show now offers — Signature deep‑dives, Dialogue interviews, Trailblazers recorded…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 2
+    },
+    "listenOld": {
+     "ref": "p-cure-telemed"
+    },
+    "read": [
+     {
+      "id": "a-6901c73738",
+      "kind": "article",
+      "title": "From $250m To $947m: CBN Reforms Transform Nigeria’s Diaspora Remittance Inflows",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm1YQmMzWURFZ0dXcjZXMEhkUlVscDRmV0ZvcTV1WUJkV3VqZDV0c0Z1V3hTOGQ3MVBDSGFZdjJ6QVFxcHJnWEpJcmZjZElVMS1uUVdhbmpfNDE2ckNaTGZCallYYkNTZFp0X2FnX2RWemhseHJRclIzVVdOdkJJQjgyRk5wRkpZMHJrNDhNeGc0ZG1RX0xxS2NlSFFKbmQy?oc=5",
+      "date": "2026-09-26",
+      "tags": [
+       "remittances",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-baa43d50f8",
+      "kind": "article",
+      "title": "World Contraception Day: A Safe Start Begins Long Before Birth",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership-africa/world-contraception-day-a-safe-start-begins-long-before-birth/",
+      "date": "2026-09-26",
+      "summary": "Marie Ba and Dr Alain Damiba (Guest writers) On 31 October, Dakar will open the 2026 Youth Olympic Games, the first Olympic sporting event ever held in Africa. When young athletes enter the arena, most spectators will see only the final…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-78672e27fe",
+      "kind": "article",
+      "title": "As WHO Nominations For Next Director-General Close, Six Contenders Emerge – But More May Remain Under Seal",
+      "url": "https://healthpolicy-watch.news/who-nominations-close-six-candidates/",
+      "date": "2026-09-25",
+      "summary": "Following the statutory WHO nomination deadline for the next Director-General, six candidates have now been publicly declared on the agency’s prospective candidate page. While oncologist Dr Gevorg Tamamyan has been proposed in a…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-061eff9fba",
+     "kind": "episode",
+     "title": "States Weigh In on Medicaid Fraud",
+     "url": "https://tradeoffs.org/2026/09/24/states-weigh-in-on-medicaid-fraud",
+     "date": "2026-09-24",
+     "summary": "A live conversation with a bipartisan group of state Medicaid leaders on the impact of the Trump administration’s aggressive anti-fraud push. Guests: Amir Bassiri , Medicaid Director, New York State Department of Health Paula Chatterjee ,…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 60
+    },
+    "listenOld": {
+     "id": "e-83f49dff48",
+     "kind": "episode",
+     "title": "The Aducanumab Aftermath: The Payer",
+     "url": "https://play.acast.com/s/tradeoffs/theaducanumabaftermath-thepayer",
+     "date": "2021-06-24",
+     "summary": "A controversial new $56,000 Alzheimer’s drug could wreak financial havoc on insurers, seniors and taxpayers. This episode is part of a special weeklong series examining the potentially sweeping consequences this drug, known as aducanumab,…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 15
+    },
+    "read": [
+     {
+      "id": "a-e8b8c4f3b5",
+      "kind": "article",
+      "title": "Federal judge rolls back landmark disability protections",
+      "url": "https://www.statnews.com/2026/09/25/health-news-federal-judge-rolls-back-landmark-disability-protections/?utm_campaign=rss",
+      "date": "2026-09-25",
+      "summary": "The Justice Department said in June that it would no longer enforce laws that prioritized people with disabilities living and receiving services in their communities, rather than in nursing homes…",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-1d014ac4a6",
+      "kind": "article",
+      "title": "Departicipation By Hospital Insurer Market Share",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0M5Z1NTWXlJNTMyWHZpd1hRdHJtWHBTODN3aFRnX1pNR3QwWXc4SXpCZVZNRmtua0hfUVgwc095bDdvNnpja2JUT09wY3VNamEtb3otRUJsWFNKVU8yZWhibllLeEdCNzZZc05LTHJadnp6Uk9yRW5uSkttRjl1NVM5dFZHOXpHcWhXaTZib3JnQzlEZUh2aGN2UUFKM3NUWkZFd21iNA?oc=5",
+      "date": "2026-09-25",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-3f33fa89b4",
+      "kind": "article",
+      "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+      "url": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
+      "date": "2026-09-25",
+      "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-09-25",
    "capstone": {
@@ -334,7 +486,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "brookings-agi",
@@ -346,13 +498,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "ifc",
@@ -370,13 +522,13 @@
    "id": "nhw",
    "name": "Nigeria Health Watch",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "id": "nairametrics",
@@ -389,13 +541,13 @@
    "name": "EU Global Diaspora Facility",
    "ok": false,
    "count": 0,
-   "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "error": "URLError: <urlopen error timed out>"
   },
   {
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 6
+   "count": 8
   },
   {
    "id": "oop",
@@ -407,7 +559,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 13
+   "count": 17
   },
   {
    "id": "cure",
