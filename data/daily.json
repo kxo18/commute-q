@@ -1,6 +1,153 @@
 {
- "updated": "2026-09-26T10:10:54+00:00",
+ "updated": "2026-09-27T10:10:36+00:00",
  "days": [
+  {
+   "date": "2026-09-27",
+   "capstone": {
+    "listenNew": {
+     "id": "e-de6a962f14",
+     "kind": "episode",
+     "title": "GHM & HSG Gender, Inclusion and the Future of Health Systems",
+     "date": "2026-09-15",
+     "summary": "Building stronger health systems requires more than technical solutions. It requires understanding the people, relationships and power dynamics that shape health outcomes. As countries work towards more equitable and resilient health…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 38
+    },
+    "listenOld": {
+     "ref": "p-bbc-return"
+    },
+    "read": [
+     {
+      "id": "a-89ef8ccf79",
+      "kind": "article",
+      "title": "Top 10 Nigeria Health Jobs",
+      "url": "https://nigeriahealthwatch.com/uncategorized/top-10-nigeria-health-jobs-3/",
+      "date": "2026-09-26",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-4df04d293f",
+      "kind": "article",
+      "title": "Tension At Plateau Specialist Hospital As Employee’s Arrest Disrupts Services",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODZmYmlZSUF0RFgzbnRnY0t5SVBWanBGd1BUb0RLZk5SRnp1OFJOaFRyQ0R5SnJfZHF0TWxHNWR2LWxTVVRkbXBxRktqRlNWLWZ5ekdLU1RvUFZNNG5wUDZvZUxiU0pZM2VUT1c0WFpPQXFLTjByeUZ2R1A2WGYwSk1uTjZWUk5yS3pOdTQ5aUZuZ2k1SEtTVGhYTjJQdUZp?oc=5",
+      "date": "2026-09-25",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-75fe8b9307",
+      "kind": "article",
+      "title": "Kano Takes Diphtheria Care To LGAs Over Late Hospital Presentation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaGpIVnB4dnNPNWJnci13T2NBU2E1R3NCOUFNeFdrTlN3ai1wcGRXU3RVQkg4bjdtbkVTZlJpcDRsLVRQaVBRS2hTMTdwR3cwQzQtd0tMUzFOZnVOOGZKYjBTVFF4NHlaVFlRbVRweU1RYkdGV1JkcVpHV2lybTJ5MmN1S25NRUU0SGtHX2ZHdHh0UFE?oc=5",
+      "date": "2026-09-25",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-3f0624ee12",
+     "kind": "episode",
+     "title": "The Health Risks of AI",
+     "url": "https://play.prx.org/listen?ge=prx_14448_9a637b06-2583-4090-baaa-cc956154d98a&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-09-17",
+     "summary": "Reports from a top artificial intelligence company that it found and stopped attempted uses of its product to manufacture a potential bioweapon caught the attention of lawmakers in Washington this week, although it is still unclear whether…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 38
+    },
+    "listenOld": {
+     "id": "e-1b8501922a",
+     "kind": "episode",
+     "title": "‘No Place Else To Go’: Inside a Former Abortion Clinic",
+     "url": "https://tradeoffs.org/2023/06/22/dobbs-anniversary-abortion-clinic",
+     "date": "2023-06-22",
+     "summary": "One year after the Supreme Court overturned Roe v. Wade, 15 states have effectively banned abortion. Dozens of clinics in those states have shut their doors or moved to states where abortion is still legal. This week, Politico’s Alice…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 17
+    },
+    "read": [
+     {
+      "id": "a-38d9725ef4",
+      "kind": "article",
+      "title": "Medicare Advantage: What Are We Paying For?",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1scVZwUEVYdXNkWkxlTV9oXy1jVUoyY2ZJSVlTMXBwUlh3SU82bmlONHZiaXhKcmpCM2RINk52TkRyWnpLazhrcG9YMDZadEhoZ09ySnBwRkJVSk5uS0NTZm5tMVNXYURHVVkzRzhlUHg?oc=5",
+      "date": "2026-09-25",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-f5eaf87c0e",
+      "kind": "article",
+      "title": "Opinion: FDA commissioner nominee Heidi Overton is ignoring the science on abortion drug",
+      "url": "https://www.statnews.com/2026/09/25/heidi-overton-confirmation-hearing-mifepristone-abortion-evasive/?utm_campaign=rss",
+      "date": "2026-09-25",
+      "summary": "“With this latest appointment, mifepristone has a new boss but an old problem,” writes Julie F. Kay, founder and CEO of Reproductive Futures.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-1d931a95bc",
+      "kind": "article",
+      "title": "The Referral Was Never The Point: Rereading The Retreat From Social Needs",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXpsLVVaNVFRU1dDbHRzY3VESUY3MGg3MWJ4WlZ3bml0T1RCYWpqVVlDMS01UFJNb2k2X3ZEeGkteEZkeFI4LXhMTm9iR29hQTVwRTY0WTRBd09CQ1pDMi1aOWsycU84djhHSWpoenpwOXEwdjFWaVY5enRnSTVwSjhOTGR6elJ0bkw0QlF6X3RJTTJMSllxQWhZMlRQWGp6?oc=5",
+      "date": "2026-09-25",
+      "tags": [
+       "sdoh"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-09-26",
    "capstone": {
@@ -486,13 +633,13 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 3
+   "count": 1
   },
   {
    "id": "hpw",
@@ -539,15 +686,14 @@
   {
    "id": "eudif",
    "name": "EU Global Diaspora Facility",
-   "ok": false,
-   "count": 0,
-   "error": "URLError: <urlopen error timed out>"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "oop",
@@ -559,7 +705,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 17
+   "count": 14
   },
   {
    "id": "cure",
