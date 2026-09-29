@@ -1,6 +1,168 @@
 {
- "updated": "2026-09-28T10:13:08+00:00",
+ "updated": "2026-09-29T10:12:23+00:00",
  "days": [
+  {
+   "date": "2026-09-29",
+   "capstone": {
+    "listenNew": {
+     "id": "e-63bfefb349",
+     "kind": "episode",
+     "title": "The Inside Track: Paywalls, Diamonds and Summer Tans",
+     "date": "2026-09-29",
+     "summary": "Who gets to read the science, and who pays for it? Fresh back from summer (tans included), Garry Aslanyan and co-hosts Catherine Kyobutungi and Ricardo Baptista Leite return for the fifth installment of The Inside Track . This time they're…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 52
+    },
+    "listenOld": {
+     "id": "e-bd948380d6",
+     "kind": "episode",
+     "title": "What's on the World Economic Forum's agenda for Africa?",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2024-08-21",
+     "summary": "The African Union's Agenda 2063 and the African Free Continental Trade Agreement (AfCFTA) are two examples of landmark efforts to positively transform the continent. Host Landry Signé is joined by Chido Munyati, the head of Africa at the…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 21
+    },
+    "read": [
+     {
+      "id": "a-0e226ecf5d",
+      "kind": "article",
+      "title": "Firm Chief Applauds Shettima’s Openness To Diaspora Investors At UNGA",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHdHcG1xQ095NlVJS1ZIcDVhdWdFcU5UeFg2bzYwNDE2QklTRU82MlAzZTZkMW5oSVNTYk1XWll0c3RReXM0OS1YSEQ3aDl1V2VZNi1SOGp4d3RhQ0RGZlQ5VF9tckpwTUN0LWl3WUxIRzFjbmhMQzh5M1E0b3JtYnYyemVSWXk2TkZLWnJmb0dSRC1pRXc?oc=5",
+      "date": "2026-09-29",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-a733109ef2",
+      "kind": "article",
+      "title": "Remittances & Migration",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBCVXFfbWNJTmFtdEdpTWNRMVdhay1PYllod1NjcW9rcGdORmYzNU1EdHpQY0x3RW01QTRN?oc=5",
+      "date": "2026-09-29",
+      "tags": [
+       "remittances"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "World Bank People Move"
+     },
+     {
+      "id": "a-78957d61c0",
+      "kind": "article",
+      "title": "Financial Boost for Global Health on Sidelines of UN General Assembly",
+      "url": "https://healthpolicy-watch.news/financial-boost-for-global-health-on-sidelines-of-un-general-assembly/",
+      "date": "2026-09-28",
+      "summary": "Several significant pledges for global health – covering reproductive health, ‘transition’ and Ebola – were made on the fringes of last week’s United Nations General Assembly amid massive donor withdrawal from the sector. Reproductive…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-92336a89bb",
+     "kind": "episode",
+     "title": "Why two promising heart drugs flopped and what's next",
+     "date": "2026-09-10",
+     "summary": "On this week’s episode of “The Readout LOUD”: The pharma industry invested billions of dollars to develop drugs heralded as the next era in the treatment of heart disease — but why did they fail? And what does this mean for the development…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 31
+    },
+    "listenOld": {
+     "id": "e-41003b518f",
+     "kind": "episode",
+     "title": "EP407: Considering Comprehensive Primary Care at Humana, With Vivek Garg, MD, MBA",
+     "url": "https://healthvalue.libsyn.com/ep407",
+     "date": "2023-06-08",
+     "summary": "Humana is a payer with its own PBM and a financial incentive to deny care — and it also now owns CenterWell and Conviva, primary care organizations serving roughly 250,000 seniors. In this episode, Stacey Richter presses Vivek Garg, MD,…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 35
+    },
+    "read": [
+     {
+      "id": "a-48ef6a1349",
+      "kind": "article",
+      "title": "Why MAHA wants to make health data much more accessible",
+      "url": "https://www.statnews.com/2026/09/29/why-maha-wants-to-make-health-data-much-more-accessible/?utm_campaign=rss",
+      "date": "2026-09-29",
+      "summary": "At a MAHA Institute event, Kennedy and others argued that health data should be more accessible to researchers can study vaccines, chronic diseases, and autism",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-4f3f9896bb",
+      "kind": "article",
+      "title": "Buy Right: Key Choices To Getting Value-Based Payment Right",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZE5DLWNYMWN0TmVWbnZCcHVJVExKWWZZREM1c2cxU1RXN3lBVURtU3BiZ09RaHJqeE1iN1M0UlUxVDdvTHVoRl9IdDAyeDJkNl9udmgyOEVTcXJLM0szZVhzcDVDWVJ4VGFtd0RwZGJSMTNqaUItT3p0NWozb1lWb2dzTzkzU2NnMllHSmM3dTVhS29PTXAxc2ROTGhTNHBUNWdBOVZn?oc=5",
+      "date": "2026-09-28",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-2d67e3b3a3",
+      "kind": "article",
+      "title": "She’s spent two decades talking to parents who don’t vaccinate their children. Here’s what she’s learned",
+      "url": "https://www.statnews.com/2026/09/29/understanding-vaccine-skepticism-in-parents/?utm_campaign=rss",
+      "date": "2026-09-29",
+      "summary": "Jennifer Reich has spent two decades speaking to families about their immunization decisions. In an interview, she unpacks what she's learned.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-09-28",
    "capstone": {
@@ -793,7 +955,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "devex",
@@ -811,13 +973,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "ifc",
@@ -829,7 +991,7 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "nhw",
@@ -841,13 +1003,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "eudif",
@@ -859,7 +1021,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "id": "oop",
@@ -871,7 +1033,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 14
+   "count": 16
   },
   {
    "id": "cure",
@@ -889,7 +1051,7 @@
    "id": "ghm",
    "name": "Global Health Matters",
    "ok": true,
-   "count": 91
+   "count": 92
   },
   {
    "id": "rhv",
@@ -913,7 +1075,7 @@
    "id": "readout",
    "name": "The Readout LOUD",
    "ok": true,
-   "count": 418
+   "count": 419
   }
  ]
 }
