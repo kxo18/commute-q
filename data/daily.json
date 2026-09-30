@@ -1,6 +1,168 @@
 {
- "updated": "2026-09-29T10:12:23+00:00",
+ "updated": "2026-09-30T10:13:09+00:00",
  "days": [
+  {
+   "date": "2026-09-30",
+   "capstone": {
+    "listenNew": {
+     "id": "e-ccac1b5727",
+     "kind": "episode",
+     "title": "UNGA 2026: How Africa is setting agendas amidst strained multilateral consensus",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2026-08-28",
+     "summary": "Ahead of the 81st General Assembly of the United Nations, host Landry Signé is joined by the UN's Under-Secretary-General and Special Adviser on Africa, Ahunna Eziakonwa. Their discussion highlights the UN's work to coordinate African…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 42
+    },
+    "listenOld": {
+     "id": "e-4ff64aaa10",
+     "kind": "episode",
+     "title": "Risking lives to save lives: Health workers in conflict zones",
+     "date": "2023-09-21",
+     "summary": "The Safeguarding Health in Conflict coalition recently published a report that documented 232 health workers killed, more than 700 incidents where health facilities were damaged and almost 300 health personnel kidnapped in 2022. This…",
+     "tags": [
+      "workforce"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 39
+    },
+    "read": [
+     {
+      "id": "a-5e5705faf6",
+      "kind": "article",
+      "title": "Between here and home: reflections on integration and diaspora engagement",
+      "url": "https://diasporafordevelopment.eu/between-here-and-home-reflections-on-integration-and-diaspora-engagement/",
+      "date": "2026-09-29",
+      "summary": "Diaspora youth intern Mary Otieno, challenges the assumption that people must choose between fully belonging to their country of residence...",
+      "tags": [
+       "comparators"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "EU Global Diaspora Facility"
+     },
+     {
+      "id": "a-b1aeb5710d",
+      "kind": "article",
+      "title": "A Rule for Private Sector Subsidies: Additionality and Competitive Allocation at the World Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbk1SV3I0N0NaVTVqWnpHLTlqT1NwSlV2M0tTdnBoQXptZFBpeV9OWGtTMnRFd2cxZEg4cjJadHJOR3VuMlNmY2ozOWNjWk81eXVBRk1kV3NYMXd2cGpHMWhpMHpFY2JuSDZIRmNGWVp0OGR2djRoLURQalM3UklpRklSTVhfRE56ZUJISXF5UGoyMy1ySl9YY3RoUHdzMnVMb0Nyc25CZWJKYmpwaldYOVdxYUgxOTc1blZ5el9n?oc=5",
+      "date": "2026-09-29",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-1c3dd12b63",
+      "kind": "article",
+      "title": "LAUTECH Resident Doctors’ Strike Over Welfare Demand Enters 32 Days",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbEdEbDhZbmU0dDlGNDEzcExrM1hLVWtJb2hpQ0FYVnYyMS04elZwUmluNlg0ZUhxQU90djUwU2V3M3dRR0V5NHlKbFhpWTh6RnQ4Wjd4QmlyNllMREMzQzJYWWdoSjFmN1duWmpoYTg5eENTNjlpTEZhb1BTZDc4SEJEeXgwMDM2UWY5STBqNnAtdG8?oc=5",
+      "date": "2026-09-29",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-35f6201d75",
+     "kind": "episode",
+     "title": "With Millions Expected to Lose Coverage, States Look for New Ways to Prevent Medical Debt",
+     "url": "https://tradeoffs.org/2026/06/25/with-millions-expected-to-lose-coverage-states-look-for-new-ways-to-prevent-medical-debt",
+     "date": "2026-09-30",
+     "summary": "As millions of Americans are expected to lose health insurance coverage following federal cuts to Medicaid and the Affordable Care Act, states are searching for new ways to prevent medical debt before it starts. In this episode of…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 23
+    },
+    "listenOld": {
+     "id": "e-e142239bc4",
+     "kind": "episode",
+     "title": "Encore! EP308: How Financial Toxicity Wreaks Havoc on Value-Based Payment Success, With Mark Fendrick, MD",
+     "url": "https://healthvalue.libsyn.com/encore-ep308-dr-mark-fendrick",
+     "date": "2022-06-30",
+     "summary": "How Financial Toxicity Wreaks Havoc on Value-Based Payment Success, With Mark Fendrick, MD (Encore! EP308) In this Encore, Stacey Richter revisits her conversation with Mark Fendrick, MD, director of the University of Michigan Center for…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 35
+    },
+    "read": [
+     {
+      "id": "a-05e2b66d27",
+      "kind": "article",
+      "title": "Opinion: America’s biotech race with China must be won at home",
+      "url": "https://www.statnews.com/2026/09/30/china-america-biotech-race-security/?utm_campaign=rss",
+      "date": "2026-09-30",
+      "summary": "“The surest way to secure our biotech lead is to build up our own capabilities,” write Gary Locke and Patrick McHenry.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-3bede6d33f",
+      "kind": "article",
+      "title": "The Category Error: Value-Based Care Is Not A Payment Model",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclVfeVR6b09YdFp6bzF1NDlFRFlvSWU1V1RNdHlNUnBieHlJcGJjd21pWTFBcjhYb2VlR0kxb0ljaU91R3lqVnBSaFVVWC14d0lmTXNsdG53aXhER1YxcmpyUHV6SzJRWVoxbi13Y092Z1dtS0xrcjNrVnFudUgtaXN6QnFNRFpxS1pEd01IbjhSTjZLcWs4ZDZnS0lhUQ?oc=5",
+      "date": "2026-09-28",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-bf5817150d",
+      "kind": "article",
+      "title": "Referrals still run on fax and that’s bad",
+      "url": "https://www.outofpocket.health/p/referrals-still-run-on-fax",
+      "date": "2026-09-29",
+      "summary": "Walking through how a referral works today, and what Medsender is trying to do to fix it",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-09-29",
    "capstone": {
@@ -955,13 +1117,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 2
+   "count": 4
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 4
+   "count": 2
   },
   {
    "id": "brookings-agi",
@@ -1009,7 +1171,7 @@
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "eudif",
@@ -1021,7 +1183,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "oop",
@@ -1033,7 +1195,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 16
+   "count": 13
   },
   {
    "id": "cure",
