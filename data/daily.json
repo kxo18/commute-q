@@ -1,6 +1,169 @@
 {
- "updated": "2026-09-30T10:13:09+00:00",
+ "updated": "2026-10-01T10:13:29+00:00",
  "days": [
+  {
+   "date": "2026-10-01",
+   "capstone": {
+    "listenNew": {
+     "id": "e-ebf79e094e",
+     "kind": "episode",
+     "title": "Who Shows Up When It All Goes Wrong, The Tech-Enabled System Behind Emergency Response in Africa- Part 2",
+     "date": "2026-08-21",
+     "summary": "When emergencies happen, who actually shows up? In this episode, Folake Owodunni (Emergency Response Africa) breaks down why emergency response is one of the biggest gaps in African healthcare and what it takes to fix it. Because in those…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 74
+    },
+    "listenOld": {
+     "id": "e-821c5ddc92",
+     "kind": "episode",
+     "title": "Following the Money: What Capital Flows Reveal About African Healthcare - Part 1",
+     "date": "2026-02-03",
+     "summary": "Healthcare doesn’t exist in isolation. It moves with capital, data, and economics. On this episode of The Cure, we follow the money to understand what capital flows reveal about the future of African healthcare. Temitope Coker, host of The…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 84
+    },
+    "read": [
+     {
+      "id": "a-a3881ce77f",
+      "kind": "article",
+      "title": "Here are the contenders fighting to lead the Global Fund",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZXR1WFlHRUVpRjdPTkRVN2s5eDFJeW9UTE92S2U2eE1OV0RqOS1FQVp5SHdmYXBwLTh2T0g5N203V3BlWEp3WGtGekh3THMySGFrU2hBRWEwQVFIUG5DeDRNOU92QU45REdHUjBIRm1QUXBCSEtpYzJzVEhrV0V1TTVyREJNdVRTcUFwZ1otWDVsaHE5?oc=5",
+      "date": "2026-09-30",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-f3fab33746",
+      "kind": "article",
+      "title": "We Don’t Know the Impact of Humanitarian Aid Cuts. We Should Fix That.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2VUWHoxdE9jZmNKQXhHMjRYRmpPWThUa0treEwtTFdzOHZtUDRhSGhScFo0QmxtSmdkNmgwQ09TeWJTc0NrWHUyVGFVU1R3Zy1lNTBWekR5VTV1c0YxeHlOcDgyejNwRzJtVXRKZ2NSVzJjU3hMR0gwS1VhZWh1cTBrQnRLT25WOEE?oc=5",
+      "date": "2026-09-30",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-43af43368e",
+      "kind": "article",
+      "title": "World Heart Day: Nigeria can bring sickle cell care closer to children",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/onescd-the-first-global-partnership-dedicated-to-sickle-cell-disease-scd/",
+      "date": "2026-09-30",
+      "summary": "Jagat Narula and Bente Mikkelsen (Guest writers) Last week at the United Nations, the Governments of Nigeria and Uganda, with the World Health Organization (WHO), UNICEF, Africa CDC, St. Jude Children’s Research Hospital, and the World…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-d5072c1c0a",
+     "kind": "episode",
+     "title": "EP531: Slaying the Three-Headed Monster of Health Plan Networks, With Evan Anderson",
+     "url": "https://cc-lnk.com/EP531",
+     "date": "2026-09-30",
+     "summary": "Discount Illusions, Billing Errors, and Site-of-Care Markups: A Carrier Network Primer for Employers with Evan Anderson of Handl Health. Episode 531. Whatever the plan was at the very beginning, the big status quo carrier networks have…",
+     "tags": [
+      "us-health-care",
+      "life-sciences",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 38
+    },
+    "listenOld": {
+     "id": "e-a85b79b6fb",
+     "kind": "episode",
+     "title": "EP433: The Mystery of the Weekly Claims Wire: What Are Plan Sponsors Actually Paying For Each Week? With Justin Leader",
+     "url": "https://cc-lnk.com/EP433",
+     "date": "2024-04-18",
+     "summary": "Every week, self-funded employers get hit with a claims wire — a charge from their TPA or ASO vendor to cover plan expenses in weekly increments — and depending on how sophisticated the plan or its advisor is, that invoice might be a…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 40
+    },
+    "read": [
+     {
+      "id": "a-d7c6bf2f13",
+      "kind": "article",
+      "title": "More Industry Losses In Medicare Drug Prices Litigation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDFGeHNYSHZGSUpSSTQxRktPV2M5VlZUVEptX3ktVHdfaDFwYnlRdnpNdlZkWmhSZlVpQUlBSkhLb1dMcnhQS3B6b2Nta3hFbzQ3MjN3V19OR3hLSXV3NWg0NGtXQlBPVWpxUmJRY1U1VlRfMkxtR2ptUUdPX0RQS1BXdHZTVUJuaHlyWTZ1U2hqT1BwakQtajBjY0szWGpnTEE?oc=5",
+      "date": "2026-09-29",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-e3797cb57c",
+      "kind": "article",
+      "title": "Opinion: I studied GLP-1 use in children. The results are reassuring",
+      "url": "https://www.statnews.com/2026/10/01/glp-1-weight-loss-drugs-children-research-obesity-disease/?utm_campaign=rss",
+      "date": "2026-10-01",
+      "summary": "“Intervening in childhood could save children from decades of irreversible damage,” a transplant surgeon writes of GLP-1 weight loss drugs.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-09655ada6c",
+      "kind": "article",
+      "title": "U.S. poised to boot legal immigrants from Medicaid, including refugees and sex-trafficking victims",
+      "url": "https://www.statnews.com/2026/09/30/legal-immigrants-risk-losing-medicaid-coverage-trump/?utm_campaign=rss",
+      "date": "2026-09-30",
+      "summary": "Hundreds of thousands of immigrants with legal status, including refugees and sex-trafficking victims, are at risk of losing government health coverage starting Oct. 1.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-09-30",
    "capstone": {
@@ -1117,13 +1280,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 2
+   "count": 5
   },
   {
    "id": "brookings-agi",
@@ -1153,25 +1316,25 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "nhw",
    "name": "Nigeria Health Watch",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 14
+   "count": 16
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 2
+   "count": 0
   },
   {
    "id": "eudif",
@@ -1195,7 +1358,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "id": "cure",
@@ -1225,7 +1388,7 @@
    "id": "tradeoffs",
    "name": "Tradeoffs",
    "ok": true,
-   "count": 332
+   "count": 333
   },
   {
    "id": "wth",
