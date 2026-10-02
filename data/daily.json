@@ -1,6 +1,170 @@
 {
- "updated": "2026-10-01T10:13:29+00:00",
+ "updated": "2026-10-02T10:11:47+00:00",
  "days": [
+  {
+   "date": "2026-10-02",
+   "capstone": {
+    "listenNew": {
+     "id": "e-cac6a6b2f8",
+     "kind": "episode",
+     "title": "Encore - Dialogues: A conversation with Daisy Hernández",
+     "date": "2026-09-01",
+     "summary": "Dialogues is a series from the Global Health Matters podcast that includes interviews with some of the world’s sharpest global health minds and brightest thinkers. The goal of each Dialogue is to go beyond the echo chambers that exist in…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 32
+    },
+    "listenOld": {
+     "id": "e-b8d69a95a1",
+     "kind": "episode",
+     "title": "Measuring African perspectives on democracy and governance",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2024-05-15",
+     "summary": "Africa experienced a wave of democratic unrest from 2020-23, with seven countries—Mali, Chad, Guinea, Sudan, Burkina Faso, Niger, and Gabon—falling to military coups during this time. Why? Host Landry Signé and his guest Joseph Asunka. CEO…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 39
+    },
+    "read": [
+     {
+      "id": "a-05f07e09ce",
+      "kind": "article",
+      "title": "Lagos LG, Group Offer Free Medical Services",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcUY0Zm1hRmdoM1VHUEJuWDNqSzBLeHMxSmllRGVEZi1HdkRMTGhiS1BkQ09JUktRU1hMQjlzZkxYcGVVamFpN3V2dGxrbFl6djU0TnVHTGZvNzY5NURUZG5TeXpOMERoQWsxdGRwYVBCVVU?oc=5",
+      "date": "2026-10-02",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-fbb148cb49",
+      "kind": "article",
+      "title": "Watchdog finds holes in the US foreign aid review story",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0xNdmgtNDZqNUpTR19Fd3FIY2lfdHFqRDhLZU4zTU9yWnE2V1BRVmZrWU94SFhNeU52Y0ZOSDc5M1hQbnJwcURkVjZvUE5ucnVtQTlwS29LcHFhNTZrMXdHa0V0UXljUWZKYUNfSTBsUVR2aVVTa1FtaGVxMC1IcmQ0clF5QXk5Rl81Uld1MFNWSWc?oc=5",
+      "date": "2026-10-01",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-8d6af81fca",
+      "kind": "article",
+      "title": "Global Fund Leadership Shortlist Unveiled Amid Donor Friction and Push for Reform",
+      "url": "https://healthpolicy-watch.news/global-fund-shortlist-unveiled/",
+      "date": "2026-10-01",
+      "summary": "The shortlist of five finalists to serve as the next Executive Director of the Global Fund to Fight AIDS, Tuberculosis and Malaria was published on Wednesday (30 September), launching the final phase of its leadership search. By narrowing…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-857761d98e",
+     "kind": "episode",
+     "title": "The MAHA Metamorphosis",
+     "url": "https://play.prx.org/listen?ge=prx_14448_d770aac3-b647-4e2c-bcc9-589130a2c414&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-10-01",
+     "summary": "The “Make America Healthy Again” movement held a big shindig in Washington, D.C., this week. But rather than moms arguing to get pesticides and processing chemicals out of their kids’ food, the room was full of Trump administration…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 43
+    },
+    "listenOld": {
+     "id": "e-004e6b51be",
+     "kind": "episode",
+     "title": "3 Health Care Decisions Awaiting the Next President",
+     "url": "https://tradeoffs.org/2024/10/24/health-policy-decisions-next-president",
+     "date": "2024-10-24",
+     "summary": "The next U.S. president will have to make consequential choices about the Affordable Care Act, prescription drug prices and abortion. We compare the positions of candidates Kamala Harris and Donald Trump on these major health policy…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 26
+    },
+    "read": [
+     {
+      "id": "a-de35b124c5",
+      "kind": "article",
+      "title": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses",
+      "url": "https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss",
+      "date": "2026-10-02",
+      "summary": "The law has to catch up on the 340B drug discount program, writes a pharmacist.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-ee87250882",
+      "kind": "article",
+      "title": "Experts: Hospital Price Caps Could Improve Affordability But Might Bring Unintended Consequences",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOakstYzF0a1kyamVkaWp4N0JXVkktWnpBYUhuakVzTXlYYjFFQTJhQml0TkRNczF6N1JwY3JSd0RDanN6MXUwV3FfVGZSSWxCMU9DeVF4QV9hM2NNc1BqVmdkQnhORjE4eEhyaENhbnFXbXJuX3FwdHlpZDBlX1p0ZGxoSU9GSThLb0d2cU5hV3AxckVyVVZwckQ1c3ZCa3RxdUVzZ3dsVEwyZkZIWXhlc1ZBb3pOcF9WSC1JaWQ5Q0pZR3IzenRES2lR?oc=5",
+      "date": "2026-09-30",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-8c87eb6423",
+      "kind": "article",
+      "title": "Mistrust in science and a juicy gene-editing lawsuit",
+      "url": "https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/?utm_campaign=rss",
+      "date": "2026-10-01",
+      "summary": "Why have so many Americans lost trust in science? And what's the deal with a new gene-editing lawsuit? Find out on this week's episode of \"The Readout LOUD\" podcast.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-01",
    "capstone": {
@@ -1286,13 +1450,13 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 5
+   "count": 7
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "hpw",
@@ -1328,7 +1492,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "id": "nairametrics",
@@ -1346,7 +1510,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "id": "oop",
@@ -1358,7 +1522,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 11
+   "count": 31
   },
   {
    "id": "cure",
@@ -1394,13 +1558,13 @@
    "id": "wth",
    "name": "KFF Health News: What the Health?",
    "ok": true,
-   "count": 468
+   "count": 469
   },
   {
    "id": "readout",
    "name": "The Readout LOUD",
    "ok": true,
-   "count": 419
+   "count": 420
   }
  ]
 }
