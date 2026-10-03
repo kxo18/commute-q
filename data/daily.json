@@ -1,6 +1,165 @@
 {
- "updated": "2026-10-02T10:11:47+00:00",
+ "updated": "2026-10-03T10:10:39+00:00",
  "days": [
+  {
+   "date": "2026-10-03",
+   "capstone": {
+    "listenNew": {
+     "id": "e-c70f1ed4ad",
+     "kind": "episode",
+     "title": "Leading to zero",
+     "date": "2026-08-25",
+     "summary": "In global health, control means keeping a disease in check and accepting that some cases will remain. Zero is a different proposition altogether: it demands that every village, every community and every child is equally worth reaching.…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 46
+    },
+    "listenOld": {
+     "id": "e-e12fa89c9e",
+     "kind": "episode",
+     "title": "The Inside Track: the pope, the Force and the hope",
+     "date": "2026-04-07",
+     "summary": "The Inside Track is a new series from Global Health Matters offering context, clarity and foresight that you won’t find in traditional news shows. Each episode brings host Garry Aslanyan together with two recurring voices: Catherine…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 49
+    },
+    "read": [
+     {
+      "id": "a-6d29aeed8d",
+      "kind": "article",
+      "title": "The Long Life We Wished For: Can Older Nigerians Get the Care They Need?",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/the-long-life-we-wished-for-can-older-nigerians-get-the-care-they-need/",
+      "date": "2026-10-03",
+      "summary": "Beti Baiye (Guest Writer) LLNP, or Long Life and Prosperity, is a common birthday wish expressing hope for a long, fulfilling life. However, given that Nigeria’s life expectancy at birth ranks among the lowest globally, we need to ask if…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-5ac8e731f7",
+      "kind": "article",
+      "title": "Devex Newswire: The US race to save billions in foreign aid before deadline",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVk5PcjR1QlA5UllwZXZsWURRdTN1N1Q4YkZRYmlhdkxCSFdTNXpNLXc2WjA0YV9HalRWMk5HWUx1TzQ0RHZ4RGphSXhWNkFDR01zbERzWHVDWFJmcWkxMjBjRHlXTXpNNWlZMGlXSmtDSlY0RVdBMmU1TkxIcVVIZVdIMkVFWnl4RkMycjRlNHdpenNPMk9OWVJuUm12c095bWE5OTJCRXJ2UWxnWFdhZWJn?oc=5",
+      "date": "2026-10-02",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-3a421a332c",
+      "kind": "article",
+      "title": "Dangote Refinery IPO: Why diaspora Nigerians are still struggling to invest – Zinnc CEO",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ01mcTN4a2hVd05BUU54ZTgwYl9OcEJJRnZIUzU2eWNwdDlzRVNyUFhJTDdISHNmUWRZN0NJYmZ5N3pFYjlHQ1lLa25LSnJJY1NZakNTOVNkaWh5NTVFQk4xOE9SZ2VLdDY0SmJ2TVlBaFBTU0tHa0hmUjBKcTd3a3BNS1VDbzNLT2VjYW94c3o2YnFVaW51V1BqcEZ2QlIyU3dwUy0teWk0UHRhYTB4LXNuTEVybTZPQU9nQjB3?oc=5",
+      "date": "2026-10-02",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nairametrics"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-f256253160",
+     "kind": "episode",
+     "title": "415: Mistrust in science and a juicy gene-editing lawsuit",
+     "date": "2026-10-01",
+     "summary": "On this week’s episode of \"The Readout LOUD\": Why have so many Americans lost trust in science? And how have our policy leaders fueled that mistrust? We speak to STAT’s new trust-in-science reporter Nicholas Florko about the impact of…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 31
+    },
+    "listenOld": {
+     "id": "e-b94c25fe41",
+     "kind": "episode",
+     "title": "Trump Forced Hospitals and Insurers to Reveal Their Prices. What Happened?",
+     "url": "https://tradeoffs.org/2024/12/19/trump-price-transparency-rules",
+     "date": "2025-08-21",
+     "summary": "A mandate to make health care prices public was one of President Trump’s signature health policies in his first term. But forcing hospitals to publish prices hasn’t yet helped patients shop around for medical care. Guest: Melanie Evans ,…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 16
+    },
+    "read": [
+     {
+      "id": "a-8cb12dcee8",
+      "kind": "article",
+      "title": "The Troubling Termination Of 760,000 ACA Marketplace Members",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GYVdkbS1pa2dGRlRhc2w1c0dsLUJkV0FMMnBuRE9rX2dkU000V2Q0bnBadjg0b0h1MGlZMmdFVF9BS2lJTVFyT2pGdWQ5S1ZUWDNnMElOb3hOT0RhQW9RZnFoMWhtMXl4Vjg4dEZqemtUMVEz?oc=5",
+      "date": "2026-10-02",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-ab5395c359",
+      "kind": "article",
+      "title": "Access to addiction meds for young people has improved — but retention hasn’t",
+      "url": "https://www.statnews.com/2026/10/02/youth-opioid-treatment-retention-study-barriers-to-care/?utm_campaign=rss",
+      "date": "2026-10-02",
+      "summary": "Only a small fraction of young people with opioid use disorder receive addiction medications, and few stay on them for long, a study finds.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-1f01edbcbe",
+      "kind": "article",
+      "title": "Trump administration appeals ruling blocking limits on international student visas",
+      "url": "https://www.statnews.com/2026/10/01/health-news-trump-administration-appeals-ruling-blocking-student-visa-limits/?utm_campaign=rss",
+      "date": "2026-10-01",
+      "summary": "DHS has appealed a court ruling blocking it from restricting how long international students and postdoctoral researchers can remain in the U.S.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-02",
    "capstone": {
@@ -1450,7 +1609,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "id": "brookings-agi",
@@ -1462,13 +1621,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 1
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "ifc",
@@ -1492,13 +1651,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 17
+   "count": 14
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "eudif",
@@ -1522,7 +1681,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 31
+   "count": 35
   },
   {
    "id": "cure",
