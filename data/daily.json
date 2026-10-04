@@ -1,6 +1,168 @@
 {
- "updated": "2026-10-03T10:10:39+00:00",
+ "updated": "2026-10-04T16:06:17+00:00",
  "days": [
+  {
+   "date": "2026-10-04",
+   "capstone": {
+    "listenNew": {
+     "id": "e-314fcd845a",
+     "kind": "episode",
+     "title": "Who Shows Up When It All Goes Wrong, The Tech-Enabled System Behind Emergency Response in Africa- Part 1",
+     "date": "2026-08-20",
+     "summary": "When emergencies happen, who actually shows up? In this episode, Folake Owodunni (Emergency Response Africa) breaks down why emergency response is one of the biggest gaps in African healthcare and what it takes to fix it. Because in those…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 71
+    },
+    "listenOld": {
+     "id": "e-97ca7481e1",
+     "kind": "episode",
+     "title": "The African Continental Free Trade Area is a game changer for both African and global economies",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2025-03-19",
+     "summary": "The African Continental Free Trade Agreement (AfCFTA) provides a blueprint for the continent to overcome development challenges through int ra-African trade that is economically and environmentally sustainable. On this episode of Foresight…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 23
+    },
+    "read": [
+     {
+      "id": "a-7ab5b6d833",
+      "kind": "article",
+      "title": "66 Years Of Promises: From Mission Hospitals To Medical Tourism",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUlB0ZVVwcmFFZmVaTnB2OVc3TkNZMUJIZnNTZHd0MnN1TERxZm9WZzllWHp1b291NGl6T1puQXlUbXl1R2NjSFh2RkN4MUQ5TjhSaWU2Y1gwQVFYWHB4bE9VaktwdVhTb3RTeExwY2xtbnRYakJEVVE3Wk1wY1lOd2RyUzRFUHZRVE1kcHV3?oc=5",
+      "date": "2026-10-04",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-34f4150c21",
+      "kind": "article",
+      "title": "Future of Health Conference 2026 From Innovation to Impact: The Future of Health is Now",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/future-of-health-conference-2026-from-innovation-to-impact-the-future-of-health-is-now/",
+      "date": "2026-10-02",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-58e7300c32",
+      "kind": "article",
+      "title": "State Dept. obligates billions in foreign aid before year's end",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWFmN1R0V0M3MkVMemtteFJfaWc0dlBBckJuSV81ak1ySWtyMzNMT3NnVXEwOWFGUWlCQ2ZXc2JmMjRZUkZfcEJoeXNVUUx4cTNicWZUT2VYRURTUktLaElncnlFVUpJd2VSWmEyczNVeEZldVYwa18tTjdLV3l2clpsNHZULTFDUmdBRzFfMUY4WkxVZV9YbDk2bjU?oc=5",
+      "date": "2026-10-02",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-7d5f954674",
+     "kind": "episode",
+     "title": "Hidden Help: A New Push for Hospitals to Prevent Medical Debt",
+     "url": "https://tradeoffs.org/2026/10/01/hidden-help-a-new-push-for-hospitals-to-prevent-medical-debt",
+     "date": "2026-10-01",
+     "summary": "Hospitals can automatically wipe out the cost of care for low-income patients. A Tradeoffs analysis finds that hospitals in Texas could be doing more to protect people from unaffordable bills. See the full series at…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 32
+    },
+    "listenOld": {
+     "id": "e-cfef8dbb2a",
+     "kind": "episode",
+     "title": "The Best Way to Fight Meth Addiction? Gift Cards",
+     "url": "https://tradeoffs.org/2024/10/03/contingency-management-methamphetamine-cocaine-california",
+     "date": "2024-10-03",
+     "summary": "For decades, the most effective treatment for addiction to methamphetamine or cocaine has been mired in stigma and mostly limited to small research studies. But with deaths involving meth and cocaine on the rise, policymakers across the…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 27
+    },
+    "read": [
+     {
+      "id": "a-3139e5d471",
+      "kind": "article",
+      "title": "- Health Affairs",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVhzMnFvdWlUWl9hbUtWLU9qVDNjVEtxMllKY09CUEVHNWFvcDlCdXJFc1ljMlVTZzZ1VUw5c3dVRWxRZ2dMRFA1ZFRwYTZhemtpZzBIbzRnZTF6ZzltTVZZbk1FZGpvRjFwNlF5SlNoazZNODZxS1JEUUVyMERfVmtLVThFMk1aRlg1SWNWb2M4ZTBYQUptMWpXUWJGZlE2cDVpZ1lQRkhINVk2ckJmSWdOaUUxbDBFSUw4dmhtUU1YRl9nQ2l1T3JyZDk1MWlWdE91R05DTE5wdw?oc=5",
+      "date": "2026-10-03",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-cd7d654313",
+      "kind": "article",
+      "title": "In The Child Wars, There Are No Civilians",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZE5UYlBwQ0drWkRnd1plSjRvVEJXczlGUE9LRFNhVTNVOHkxck04ekN5SHhoNTZGN2Y5OURyMXg3S1VhcXIwZ3V3TWRKN1JTbTVOd0JILVBKaGRmUU05d09hRGU0ZDAxQ0U1MzhUeU1CMm42ZExJcEM5UnBvUkhtdlpjWQ?oc=5",
+      "date": "2026-10-02",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-650853bc8e",
+      "kind": "article",
+      "title": "The New Dietary Guidelines Bet On Meat. The Evidence Didn’t Change; The Politics Did.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHd0YlV0VW1BVUxKRk5kdDM0MjRBN0t0MGFvYVA0bWlDcWlDbEFaVEt1clJfUHpEODBBd0hmRVRSMEhJZ0xYQ2pwbkoyZXdUaXZjWDNHVnVOUG1NNDU3REhvbmxOYzBSYzJ1aVZSX1VucXFfV1EtSlJkeURTbUF1NF9JcmVuSEhLZGJIOWtEOURVS0dWdTY3d1FfZnpwNzlKSnVKM2ozV25xeFhDODB1OGtGVU4yZw?oc=5",
+      "date": "2026-10-02",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-03",
    "capstone": {
@@ -1596,6 +1758,23 @@
     "source": "Nigeria Health Watch",
     "attached": "2026-09-24"
    }
+  ],
+  "s-amce": [
+   {
+    "id": "a-7ab5b6d833",
+    "kind": "article",
+    "title": "66 Years Of Promises: From Mission Hospitals To Medical Tourism",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUlB0ZVVwcmFFZmVaTnB2OVc3TkNZMUJIZnNTZHd0MnN1TERxZm9WZzllWHp1b291NGl6T1puQXlUbXl1R2NjSFh2RkN4MUQ5TjhSaWU2Y1gwQVFYWHB4bE9VaktwdVhTb3RTeExwY2xtbnRYakJEVVE3Wk1wY1lOd2RyUzRFUHZRVE1kcHV3?oc=5",
+    "date": "2026-10-04",
+    "tags": [
+     "investment"
+    ],
+    "tracks": [
+     "capstone"
+    ],
+    "source": "Leadership.ng",
+    "attached": "2026-10-04"
+   }
   ]
  },
  "sources": [
@@ -1603,7 +1782,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 5
+   "count": 3
   },
   {
    "id": "devex",
@@ -1627,7 +1806,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "ifc",
@@ -1651,7 +1830,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "nairametrics",
