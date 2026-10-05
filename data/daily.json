@@ -1,6 +1,153 @@
 {
- "updated": "2026-10-04T16:06:17+00:00",
+ "updated": "2026-10-05T10:14:25+00:00",
  "days": [
+  {
+   "date": "2026-10-05",
+   "capstone": {
+    "listenOld": {
+     "id": "e-52f41928fc",
+     "kind": "episode",
+     "title": "Africa’s Bold Plan for Health Independence",
+     "date": "2026-06-11",
+     "summary": "What will it take for Africa to become self-reliant in healthcare? We spoke with Professor Aliko Ahmed, representing the Africa CDC West African Regional Collaborating Center, live at WHX Lagos 2026. From coordinating health systems across…",
+     "tags": [
+      "nigeria-system",
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 8
+    },
+    "read": [
+     {
+      "id": "a-10efa3b04b",
+      "kind": "article",
+      "title": "Strike: Resident Doctors’ 14-Day Ultimatum To FG Begins Today",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQczFRSHdOZGdUVzN2MTNWV1dKeENpRExHVDhfNVVocWhFaDFlNU9reEdIdmpBdU0zcnVtZWpDVHBjaFpHODRoNVhtbmxQbkUxZXVfX1h6WGN3bmg3QlRtakN4Z0U2cVAwd3dvQXc3STdYX3F2alpCbkpfWkczTGJ2U2lEVjhWam1abGc?oc=5",
+      "date": "2026-10-01",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-40a264b359",
+      "kind": "article",
+      "title": "What Would We Have Done Differently? Insider Lessons for the Future of US Foreign Assistance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPblVTYl9CaHU1MU45bkhrbGlEdnFSeWM0OEFUQlUtWkRGSUN4T1JJSXY1ZldjaWwwVFRNdUxGbUUyeEtJcGdIaWZMczBvcFhZeHZwN3JCZk5uREdXaFY3dThiUFRpVHRFUGFMd2h5NUJoWUJTd1M0N1NpNWZ5aHB4Z0REYnZaV0g5bkVScGlzU2h5S1FxcnhRNHV2aC1KVFFqWGV3bDdSbUhmNHJtdHpsQzhRcnI?oc=5",
+      "date": "2026-10-01",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-b254e97b65",
+      "kind": "article",
+      "title": "Devex Newswire: The race to be next chief of the Global Fund is on",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVlEbkVEeGNjUm15bEtqOHRIeWp3N2dMYTdLUWN6dFRkUDI5V0tJSlpFeWx6aEtISThJbWZYaGc3bkQyQlhKdEZ2Z1paNzhFRzJKeTFEVFBWZzBpTGtrTlNBU3NjZDlPTDRXVTZMWmNSOW1sNmxSZW4zSjI5OXpCWHQ4cWhTZ2s4TDhmb0h2OS1HNEJPYzlvQW81REtpb1c1?oc=5",
+      "date": "2026-10-01",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-e913119c6d",
+     "kind": "episode",
+     "title": "Definium's new psychedelics data, and a reprieve for international scientists",
+     "date": "2026-09-17",
+     "summary": "International researchers got a reprieve in the courts this week. But many are still considering leaving the states for opportunities elsewhere. What does that mean for the future of American medical research? We discuss that, plus the…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 28
+    },
+    "listenOld": {
+     "id": "e-936b990b80",
+     "kind": "episode",
+     "title": "EP272: Why This Pandemic Is a Game Changer for PCPs and the Employers and Plans Who Pay Them, With Guy Culpepper, MD",
+     "url": "https://healthvalue.libsyn.com/ep272",
+     "date": "2020-04-28",
+     "summary": "In this episode, Stacey Richter talks with Guy Culpepper, MD, founder and CEO of an independent physician group in North Texas, about why the COVID-19 pandemic is a game changer for primary care physicians and the employers and health…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 35
+    },
+    "read": [
+     {
+      "id": "a-1284ad0f83",
+      "kind": "article",
+      "title": "Hospital and pharmaceutical prices are smothering America’s businesses",
+      "url": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/?utm_campaign=rss",
+      "date": "2026-10-05",
+      "summary": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industry’s high and inscrutable prices.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-b8356df8ef",
+      "kind": "article",
+      "title": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
+      "url": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
+      "date": "2026-10-05",
+      "summary": "“Are we entering a world in which some (or all) Nobels will be awarded to Claude, ChatGPT, or their AI successors, rather than human scientists?” asks Jeffrey Flier.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-aea37f6fb8",
+      "kind": "article",
+      "title": "Trump announces $90 payments for seniors’ Medicare premium costs ahead of midterm elections",
+      "url": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
+      "date": "2026-10-04",
+      "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-04",
    "capstone": {
@@ -1782,7 +1929,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 3
+   "count": 5
   },
   {
    "id": "devex",
@@ -1794,7 +1941,7 @@
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "hpw",
@@ -1823,14 +1970,15 @@
   {
    "id": "nhw",
    "name": "Nigeria Health Watch",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "id": "nairametrics",
@@ -1848,7 +1996,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "oop",
@@ -1860,7 +2008,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 35
+   "count": 27
   },
   {
    "id": "cure",
