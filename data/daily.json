@@ -1,6 +1,155 @@
 {
- "updated": "2026-10-05T10:14:25+00:00",
+ "updated": "2026-10-06T10:12:11+00:00",
  "days": [
+  {
+   "date": "2026-10-06",
+   "capstone": {
+    "listenOld": {
+     "id": "e-70d073dad5",
+     "kind": "episode",
+     "title": "Private Sector, Public Impact: Building the Partnerships That Make Care Work - Part 1",
+     "date": "2026-06-29",
+     "summary": "The private sector delivers up to 70% of healthcare in Nigeria, so why are partnerships with the public sector still so hard to scale? In this episode, Njide Ndili joins us to break down what it actually takes to move public-private…",
+     "tags": [
+      "nigeria-system",
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 76
+    },
+    "read": [
+     {
+      "id": "a-c4c6849416",
+      "kind": "article",
+      "title": "Reclaiming ‘Health Sovereignty’: EU Gastein Forum Confronts a Fragmenting Global Order",
+      "url": "https://healthpolicy-watch.news/eu-ruptures-gastein/",
+      "date": "2026-10-05",
+      "summary": "Global health has moved from an area of mutual cooperation to one dominated by “high politics” and division, observed Ilona Kickbusch at the European Health Forum Gastein (EHFG) last Friday (2 October). Leading the closing panel, the…",
+      "tags": [
+       "comparators",
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-c80dbe4484",
+      "kind": "article",
+      "title": "Zambia and US reach health financing deal after monthslong stalemate",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkRreHJxZk1nWEh5Ty1xdmI0aXA3TzhhLXJIMFJ5WEtGQUs3TU16LU1raTYtaFNZYnhIRVNrTVkxWGxZd3hjZmVoU0puaFgwaFRPUC0xLXFmMkdReDVTam5FV1JlOHp3NHJmVVBLMlZPR3FMWE1Db01nakF0UGFwZkstUmsyX1EteThaTzdTV0tfeVpCN1RRS3VNQlZmOHluTU5GNQ?oc=5",
+      "date": "2026-10-05",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-5a08b4e8dc",
+      "kind": "article",
+      "title": "Nigeria Health Watch Launches Nigeria Health Watchers Network: Inaugural Cohort of Student Ambassadors",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/nigeria-health-watch-launches-nigeria-health-watchers-network-inaugural-cohort-of-student-ambassadors/",
+      "date": "2026-10-05",
+      "summary": "Nigeria Health Watch has launched the Nigeria Health Watchers Network, a student ambassador programme designed to equip students across Nigeria with practical skills and exposure to public health advocacy, communication, storytelling and…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-baebc0b068",
+     "kind": "episode",
+     "title": "911 Fails People in Mental Health Crises. Here's a Plan to Fix It.",
+     "url": "https://tradeoffs.org/2026/09/17/911-fails-people-in-mental-health-crises-heres-a-plan-to-fix-it/",
+     "date": "2026-09-17",
+     "summary": "911 calls related to mental health are the most likely to involve police use of force. A new book offers a blueprint for a 911 redesign that could save lives. Guests: Rebecca Neusteter , Executive Director, University of Chicago Health…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 19
+    },
+    "listenOld": {
+     "id": "e-ce0ed649f6",
+     "kind": "episode",
+     "title": "EP442: A Short Rumination on Saving Money, Except Not Saving Money. Oncology Side Effect Management as a Case Study, With Andreas Mang",
+     "url": "https://cc-lnk.com/EP442",
+     "date": "2024-06-27",
+     "summary": "The number one cause of hospital readmissions during chemotherapy is dehydration — which is treatable with a simple, inexpensive anti-nausea medication. Stacey Richter plays an outtake from her earlier conversation with Andreas Mang of…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 19
+    },
+    "read": [
+     {
+      "id": "a-15e392edd0",
+      "kind": "article",
+      "title": "In this hospital, pulse oximeters went from overestimating to underestimating blood oxygen. Why?",
+      "url": "https://www.statnews.com/2026/10/06/pulse-oximeters-overestimate-and-underestimate-blood-oxygen-study/?utm_campaign=rss",
+      "date": "2026-10-06",
+      "summary": "Researchers found pulse oximeters went from overestimating blood oxygen levels to underestimating them; inaccuracies were worse in patients of color.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-ca03b11a6d",
+      "kind": "article",
+      "title": "Provider-Sponsored Health Plans Negotiated Lower Prices For Health Services Compared With Traditional Insurers, 2024",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Bek11V3k2Q2lmczlHaHctQnRjOWVyc0tpUmlybXFYc0RZemROcTA0RFNHa0l2REdmQUtGMHRGZWlMdDhzOEJNTElTa2RrQ3Uxb0lnSUY5R0xXVGNGSE9TRWxiWFZMUjh5anFkeA?oc=5",
+      "date": "2026-10-05",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-e3a75dbeb2",
+      "kind": "article",
+      "title": "Opinion: I’m a doctor. Here’s what I want the public to know about AI tools and health care costs",
+      "url": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/?utm_campaign=rss",
+      "date": "2026-10-06",
+      "summary": "“We can document honestly and still wind up inflating hospital bills,” writes a frustrated doctor.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-05",
    "capstone": {
@@ -1929,13 +2078,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 5
+   "count": 3
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "id": "brookings-agi",
@@ -1947,7 +2096,7 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "giin",
@@ -1970,21 +2119,20 @@
   {
    "id": "nhw",
    "name": "Nigeria Health Watch",
-   "ok": false,
-   "count": 0,
-   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+   "ok": true,
+   "count": 10
   },
   {
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 11
+   "count": 8
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "eudif",
@@ -1996,7 +2144,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 5
+   "count": 7
   },
   {
    "id": "oop",
@@ -2008,7 +2156,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 27
+   "count": 24
   },
   {
    "id": "cure",
