@@ -1,6 +1,153 @@
 {
- "updated": "2026-10-06T10:12:11+00:00",
+ "updated": "2026-10-07T10:13:12+00:00",
  "days": [
+  {
+   "date": "2026-10-07",
+   "capstone": {
+    "listenOld": {
+     "id": "e-c07e38219b",
+     "kind": "episode",
+     "title": "Toward a new era for U.S.-Africa trade",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2026-02-25",
+     "summary": "Following the reauthorization of the African Growth and Opportunity Act (AGOA) on February 3, 2026, host Landry Signé kicks off the fifth season of Foresight Africa podcast with a conversation on the trade program's past and future. He is…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 32
+    },
+    "read": [
+     {
+      "id": "a-26fcf22c47",
+      "kind": "article",
+      "title": "Abuja Airport Enforces Health Declaration Forms Amid Ebola Alert",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1pwZ0U2ZE96MnZoLVZndUlnM2NoaEI4ZUxvdDVFSVNQeTdZekxKZlpmblp1eGhnd3BtZkFsV09nSTlCVlVNVDdid3BBdjhGT2FMRkpXdmZ1RDBrbXU2dFI1Q2JXblRFRmpwX292NTJSUks3a3hPcTZLOVRhc1NXd2RmYUdsSmZJam9Nc19IZXc?oc=5",
+      "date": "2026-10-07",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-405fc18c8d",
+      "kind": "article",
+      "title": "Extreme Heat Is Making Pregnancy More Dangerous for Mothers and Newborns",
+      "url": "https://healthpolicy-watch.news/extreme-heat-is-making-pregnancy-more-dangerous-for-mothers-and-newborns/",
+      "date": "2026-10-06",
+      "summary": "Nearly three in four maternal healthcare workers say extreme heat-related complications among pregnant women have increased over the past five years, according to a five-country survey released as climate ministers gathered in Fiji for the…",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-642fcd830e",
+      "kind": "article",
+      "title": "Architects of 'journey to self-reliance' reflect on lessons learned",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3FTbjQyeFJEeHpZM0ZjNWtHdkw4bXl1X2F6TDBlU2IzcFROaGdkcEQtZTB0Y3llNnktMDZfcXdfcGh0SUxJcWRoZllidlFPYTNiZTk2MVRKT1UwY3lZeXItZ0Q3T1JzS1kyaEp0dllGWUdqT2p1dUtybHF2NDE4MmVWVlpmeWxVNUI5dlpqNmdJeGdBd3k2bEx3SEVHaTlrYU9Ubld3?oc=5",
+      "date": "2026-10-06",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-c97ce4ff78",
+     "kind": "episode",
+     "title": "Private Equity in Primary Care: What the Data Actually Shows, With Yashaswini Singh, PhD. Episode 528.",
+     "url": "https://cc-lnk.com/EP528",
+     "date": "2026-09-09",
+     "summary": "Private Equity in Primary Care: Just Another Inflationary Business Model? What Does the Data Actually Show, With Yashaswini Singh, PhD (EP528) Private equity has been buying up primary care practices for years, promising the capital that…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 39
+    },
+    "listenOld": {
+     "id": "e-a910685fac",
+     "kind": "episode",
+     "title": "What Cuts to Medicaid and Obamacare Could Mean for Hospitals, Insurers and You",
+     "url": "https://tradeoffs.org/2025/05/22/what-cuts-to-medicaid-and-obamacare-could-mean-for-hospitals-insurers-and-you",
+     "date": "2025-05-22",
+     "summary": "As Republicans consider major changes to Medicaid and Obamacare, we asked a leading economist about the shockwaves these sharp policy shifts could send throughout the entire health care system. Guests: Jonathan Gruber , Ford Professor of…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 26
+    },
+    "read": [
+     {
+      "id": "a-13cff566a8",
+      "kind": "article",
+      "title": "Opinion: My oncologist recommended active surveillance for prostate cancer. Life insurers called it ‘untreated cancer’",
+      "url": "https://www.statnews.com/2026/10/07/active-surveillance-prostate-cancer-life-insurance-policy/?utm_campaign=rss",
+      "date": "2026-10-07",
+      "summary": "“I reject the idea that a man who keeps every prostate cancer surveillance appointment has ‘untreated cancer,’” writes Howard Wolinsky.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-f1726438ef",
+      "kind": "article",
+      "title": "Beyond A Seat At The Table: Meaningful Patient Representation On Pharmacy And Therapeutics Committees",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMThWQkduTEFsVVVGc1FIR0ZLdmNjUFRzUms2VVFDY3BOUl9SY182SjZINktHNllDUzNMakNqOVZ1amp0djNBUGN1aTliRXFzaUhxTmhyWkxmZVdiQVlseGFpSFZtNlNPYThkX1dQSmFHRHNXU2hJdDNiSTFTRmNRSjNZMVVkZFM5X0hLWXBIVkI2Rzl3c21GWnRIMEVmWmllVVQ5S04tc2RhcDMzZmFCQ1VoRHo3OFRkVkxDc01sYzNGSWs?oc=5",
+      "date": "2026-10-06",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-7a6a540ac2",
+      "kind": "article",
+      "title": "What are hospital longevity programs, and what can they tell you about your health?",
+      "url": "https://www.statnews.com/2026/10/06/hospital-longevity-programs-health-status-report-alex-hogan/?utm_campaign=rss",
+      "date": "2026-10-06",
+      "summary": "What can hospital longevity clinics can tell you about your health? STAT's Sarah Todd went to one to find out.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-06",
    "capstone": {
@@ -2078,7 +2225,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "devex",
@@ -2090,13 +2237,13 @@
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "giin",
@@ -2126,7 +2273,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 8
+   "count": 10
   },
   {
    "id": "nairametrics",
@@ -2144,7 +2291,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "oop",
@@ -2156,7 +2303,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 24
+   "count": 22
   },
   {
    "id": "cure",
