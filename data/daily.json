@@ -1,6 +1,155 @@
 {
- "updated": "2026-10-07T10:13:12+00:00",
+ "updated": "2026-10-08T10:13:37+00:00",
  "days": [
+  {
+   "date": "2026-10-08",
+   "capstone": {
+    "listenOld": {
+     "id": "e-dfd7cfe139",
+     "kind": "episode",
+     "title": "Dialogues: a conversation with Olusoji Adeyi",
+     "date": "2024-03-05",
+     "summary": "Dialogues: a conversation with Olusoji Adeyi Dialogues is a new series from the Global Health Matters podcast where we bring you interviews featuring fresh perspectives on global health issues. The goal of each Dialogue is to break through…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 40
+    },
+    "read": [
+     {
+      "id": "a-b6c7f4ab2c",
+      "kind": "article",
+      "title": "Funding Cuts to Women’s Organisations Put Women, Girls and Gender Equality at Risk",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/funding-cuts-to-womens-organisations-put-women-girls-and-gender-equality-at-risk/",
+      "date": "2026-10-07",
+      "summary": "For thousands of girls forced to leave school because of child marriage or adolescent pregnancy, Her Voice Foundation, a Nigerian-based non-profit, has offered a second chance to return to school, gain skills and build economic…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-e34d6c7017",
+      "kind": "article",
+      "title": "Health Crisis Looms for Zimbabwe Following US Withdrawal of Aid",
+      "url": "https://healthpolicy-watch.news/health-crisis-looms-for-zimbabwe-following-us-withdrawal-of-health-aid/",
+      "date": "2026-10-05",
+      "summary": "HARARE – In March, 27-year-old Jemitius Gangata succumbed to malaria in Mahombokombe village in Zimbabwe’s Mashonaland West Province, becoming part of the country’s growing malaria statistics. By mid-April, the country had recorded over…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-1af0635583",
+      "kind": "article",
+      "title": "FG completes 10 diagnostic centres, plans six specialty hospitals nationwide",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXlDRlUyYTFTZFdUV1RSaG9MRkhsdFlkbFpZWXFYVkxOT0RfZGhVUGpRUlJ6cWhoc2d2bmhWdDZRaUk2SEk2SnlmaWU4dWNEUlJ1SlM4Y0ozUmJoVnB2M2pLdVRWOFgyc1J4bzZ3cUYza0Z3XzNlWUpKZzdkUHI2bVM1bUwwVURlcGQtMVNOUUlOaXpSY3Zrb29IaDU0LWxFVF91WTczNzlIS1g3Y1V6aUhn?oc=5",
+      "date": "2026-10-05",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nairametrics"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-bf1051ba25",
+     "kind": "episode",
+     "title": "Why Avoidable ER Visits Aren't the Real Cost Problem: Revisiting Our 2016 Interview With HHS Nominee Chris Klomp",
+     "url": "https://cc-lnk.com/EP532",
+     "date": "2026-10-07",
+     "summary": "Emergency Department High Utilizers and Real-Time Care Coordination, With Chris Klomp (Episode 532) Today we are dipping into the archives for an essential replay from 2016, one decade ago, featuring Chris Klomp back when he served as CEO…",
+     "tags": [
+      "us-health-care",
+      "sdoh"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 37
+    },
+    "listenOld": {
+     "id": "e-242f1cedc9",
+     "kind": "episode",
+     "title": "1.5 Million People Have Lost Medicaid. How Worried Should We Be?",
+     "url": "https://tradeoffs.org/2023/06/29/medicaid-unwinding-procedural-termination",
+     "date": "2023-06-29",
+     "summary": "More than 1.5 million people have lost Medicaid coverage since April 1 as states start purging people from the rolls for the first time in three years. This week, we check in on the “Medicaid unwinding” with a leading researcher, and get…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 26
+    },
+    "read": [
+     {
+      "id": "a-143137e0d5",
+      "kind": "article",
+      "title": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program",
+      "url": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/?utm_campaign=rss",
+      "date": "2026-10-08",
+      "summary": "“A small, well-intended discount for safety net hospitals became a large institutional subsidy with expensive unintended consequences,” writes an HHS leader.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-d0b0807d1b",
+      "kind": "article",
+      "title": "Medicare’s Missing On-Ramp For Access To GLP-1s For Weight Management",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWTRvbTFnSXhNRUIweGIyLUxJaWs4UDdleTRmX3FhdkxKVUhRaEdEM0VYZFRfcl9rWHNaRnBwc3VqRmtKeDdyakZJM2FGN0VqdVFDNjNIVmxEYlBwUmhFTFlTSnRjWFlobnc0emxTMlZTU2xuVGZWYnlWRjlWMjlUSHNNMy05VTdVenRlMUthMzFQTl9wWjNtVWE5N2ZMSkF5ajhFdmtn?oc=5",
+      "date": "2026-10-07",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-c677dc5b97",
+      "kind": "article",
+      "title": "A weird corner of healthcare: indemnity insurance",
+      "url": "https://www.outofpocket.health/p/fixed-indemnity-insurance",
+      "date": "2026-10-07",
+      "summary": "the economics are especially interesting",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-07",
    "capstone": {
@@ -2231,7 +2380,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 7
+   "count": 4
   },
   {
    "id": "brookings-agi",
@@ -2243,13 +2392,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 0
+   "count": 2
   },
   {
    "id": "ifc",
@@ -2273,7 +2422,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "nairametrics",
@@ -2291,7 +2440,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "oop",
@@ -2303,7 +2452,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 22
+   "count": 27
   },
   {
    "id": "cure",
@@ -2333,7 +2482,7 @@
    "id": "tradeoffs",
    "name": "Tradeoffs",
    "ok": true,
-   "count": 333
+   "count": 334
   },
   {
    "id": "wth",
