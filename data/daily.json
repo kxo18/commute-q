@@ -1,6 +1,168 @@
 {
- "updated": "2026-10-08T10:13:37+00:00",
+ "updated": "2026-10-09T10:13:23+00:00",
  "days": [
+  {
+   "date": "2026-10-09",
+   "capstone": {
+    "listenNew": {
+     "id": "e-fe8db19544",
+     "kind": "episode",
+     "title": "Paperwork to Platform: Reinventing Drug Regulation with AI- Part 1",
+     "date": "2026-10-08",
+     "summary": "Paperwork to Platform: Reinventing Drug Regulation with AI Before any drug reaches a patient, it has to pass through regulation. But what happens when that system is slow, manual, and fragmented? In this episode, Irene Nwaukwa, Founder &…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 68
+    },
+    "listenOld": {
+     "id": "e-c3e9719871",
+     "kind": "episode",
+     "title": "Navigating digital health waves",
+     "date": "2022-01-11",
+     "summary": "Increasingly, digital technologies are transforming the delivery of health services and the functioning of health systems. Many of these technologies have also presented new ways of doing research and informed rapid decision-making. In…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 38
+    },
+    "read": [
+     {
+      "id": "a-cf0bcc46ae",
+      "kind": "article",
+      "title": "AI Can Help Bridge Nigeria’s Health Workforce Gap — AHFID",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkRiTlpKbkNUZHlFV19wWnZXY0c5S21wMVRZOVF4c0N6eTNYOUxGR1pYYjU1eDJrc3czWnFORHFwckhJTUFtOTNaSFZuTEIzeDAyNTRud1JHcnk1ZUxacEgyOU5IQW40bHBUc1dHZEttc2l1bS1IcGRKY1BqeGNXU2o2RQ?oc=5",
+      "date": "2026-10-08",
+      "tags": [
+       "workforce",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-38d9beef09",
+      "kind": "article",
+      "title": "US Finally Signs Health Deal with Zambia, But Still Pursues Minerals Agreement",
+      "url": "https://healthpolicy-watch.news/us-finally-signs-health-deal-with-zambia-but-still-pursues-minerals-agreement/",
+      "date": "2026-10-08",
+      "summary": "Zambia and the United States finally signed a bilateral health aid agreement on Thursday – after a 10-month delay as the US pushed for better access to the country’s minerals and changes to mining and agricultural regulations in exchange…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-bd30cc3eec",
+      "kind": "article",
+      "title": "Nigeria Health Watch Launches Health Professionals Communications & Advocacy Learning Programme to Build a New Generation of Health Champions",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/nigeria-health-watch-launches-health-professionals-communications-advocacy-learning-programme-to-build-a-new-generation-of-health-champions/",
+      "date": "2026-10-08",
+      "summary": "Nigeria Health Watch has launched the Health Professionals Communications & Advocacy Learning Programme (HPCALP), a specialised learning programme designed to equip health professionals with the communication and advocacy skills they need…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-f10fb8ccba",
+     "kind": "episode",
+     "title": "416: NIH funding uncertainty thwarts U.S. researchers",
+     "date": "2026-10-08",
+     "summary": "How has the National Institutes of Health been spending its budget? Why are biotech investors feeling gloomy? And what is the most quintessential Boston movie? We discuss all that and more on this week’s episode of “The Readout LOUD,”…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 34
+    },
+    "listenOld": {
+     "id": "e-e752982ede",
+     "kind": "episode",
+     "title": "AEE12: Steve Blumberg and I Discuss the 2020 Humana Value-based Care Report",
+     "url": "https://healthvalue.libsyn.com/aee-steve-blumberg",
+     "date": "2021-01-12",
+     "summary": "In this \"An Expert Explains\" minisode, Stacey Richter talks with Steve Blumberg, MBA, VP of practice transformation at GuideWell Health, about Humana's 2020 Value-based Care Report — and why a headline-grabbing 0.4% savings number doesn't…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 8
+    },
+    "read": [
+     {
+      "id": "a-ea4da91e3b",
+      "kind": "article",
+      "title": "NIH funding uncertainty thwarts U.S. researchers",
+      "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
+      "date": "2026-10-08",
+      "summary": "How has the NIH been spending its budget? And why are biotech investors feeling gloomy? Find out on this week's episode of \"The Readout LOUD\" podcast.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-7e245c735e",
+      "kind": "article",
+      "title": "Bringing Safety-Net Providers Into Value-Based Care",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQck81cHlzSUhrd1lQS2pzM1BiSkt5MV9nNmVZUTkzbUZRa3lQdkhEYTFyUzNpTE5aZFh5YWZMNl9VS0NILXp0LXA4ZXVXOU9vOFBmTllpaEk0TG4wcGhZaXBZU0xFaDNiakViTHlON1Q2MlUtNmNIWkpjQk83RTZUckpvVkFPUTd2bTdWdkhXY05QclVaT284SzJUcno1VkFLd2ZWNGx5T2pyVlYzVXUzWk5yNDF4T3oxRWlKM3NobU93ZVE?oc=5",
+      "date": "2026-10-07",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-724701a824",
+      "kind": "article",
+      "title": "Log in | GIIN Member Connect",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83MGREa2FwNFBfcUVQVFFMUmNNNXhaZ0dKbVdYZVMxNlpGMkdrTEFZQXJOWkFEYXpOZWVRa3QzVi1sN1dtaVV2LUZ3N0J6RWpPRzRYd2pLZw?oc=5",
+      "date": "2026-10-07",
+      "tags": [
+       "investment",
+       "development-finance"
+      ],
+      "tracks": [
+       "capstone",
+       "career"
+      ],
+      "source": "GIIN"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-08",
    "capstone": {
@@ -2374,7 +2536,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 2
+   "count": 0
   },
   {
    "id": "devex",
@@ -2422,7 +2584,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 8
+   "count": 6
   },
   {
    "id": "nairametrics",
@@ -2440,7 +2602,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 5
+   "count": 3
   },
   {
    "id": "oop",
@@ -2452,13 +2614,13 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "cure",
    "name": "The Cure",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "id": "foresight",
@@ -2488,13 +2650,13 @@
    "id": "wth",
    "name": "KFF Health News: What the Health?",
    "ok": true,
-   "count": 469
+   "count": 470
   },
   {
    "id": "readout",
    "name": "The Readout LOUD",
    "ok": true,
-   "count": 420
+   "count": 421
   }
  ]
 }
