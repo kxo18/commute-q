@@ -1,6 +1,168 @@
 {
- "updated": "2026-10-09T10:13:23+00:00",
+ "updated": "2026-10-10T10:10:15+00:00",
  "days": [
+  {
+   "date": "2026-10-10",
+   "capstone": {
+    "listenNew": {
+     "id": "e-637010f63a",
+     "kind": "episode",
+     "title": "Paperwork to Platform: Reinventing Drug Regulation with AI- Part 2",
+     "date": "2026-10-09",
+     "summary": "Paperwork to Platform: Reinventing Drug Regulation with AI Before any drug reaches a patient, it has to pass through regulation. But what happens when that system is slow, manual, and fragmented? In this episode, Irene Nwaukwa, Founder &…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 59
+    },
+    "listenOld": {
+     "id": "e-04e1af046a",
+     "kind": "episode",
+     "title": "Bringing health stories to the front page",
+     "date": "2024-03-26",
+     "summary": "In an age where misinformation and disinformation are valid threats to global health, reliable and trustworthy journalism is essential. In this episode, host Garry Aslanyan speaks with two health journalists who might tell the same story…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 36
+    },
+    "read": [
+     {
+      "id": "a-ceb71633e0",
+      "kind": "article",
+      "title": "Digital Currency Remittances: What Nigeria’s $21 Billion Market Already Proved",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdk95RGM4c0REN0IxWjZuaWRqY3B5blB4cTdlUGVpdEltLXZvU002UnlVN1FmcTBLZlJCb3BhSU1reHBSZUJzdndTeTdDWnMwOWpxZFRhLXZhZV9CazRNWU5NNFB2RWVqdGdPaHhNRXhLM21Od0J3V3pIakkwckUxTWF6REdrZEJxMklhNDEzaVM1b0NhRGkySlBnaGNzdkRVRjdiQ19PTkEyeEY2YXJyS2lR?oc=5",
+      "date": "2026-10-07",
+      "tags": [
+       "remittances",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nairametrics"
+     },
+     {
+      "id": "a-0e051f3132",
+      "kind": "article",
+      "title": "Lenacapavir Brings New Hope for HIV Prevention Among Young People in Zambia, but the Push for Increased Supply Continues",
+      "url": "https://nigeriahealthwatch.com/articles/torchlight-africa/lenacapavir-brings-new-hope-for-hiv-prevention-among-young-people-in-zambia-but-the-push-for-increased-supply-continues/",
+      "date": "2026-10-10",
+      "summary": "At 29, Ruth Manga had thought carefully about her risk of acquiring HIV. She had seen friends struggle to negotiate safer sex and wanted a prevention option she could choose for herself. “I have known that I am at substantial risk of…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-96a5b7421d",
+      "kind": "article",
+      "title": "Kaduna Begins Mental Health Law Implementation, Targets 23 LGAs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2pveGswa1hCaDdTSlF4SW1VYmZobGNyOU9zVFBSdURITExwcnQzM3pubExLSDhidE5FdFROSXhOSkJYemRCaXFFOEd6X3VSenBrTFA4N0tXcV9uN0VCLUhqZERYMlkzUEtDOWcwQkJqV1hwZzRnODAxb3p5YXVjSzhyaXhXdHduNHZJVFdR?oc=5",
+      "date": "2026-10-09",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-2d89f2a422",
+     "kind": "episode",
+     "title": "Midterm Madness",
+     "url": "https://play.prx.org/listen?ge=prx_14448_0bbfd339-fef9-4fea-8d43-caa5508ae45b&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-10-08",
+     "summary": "A new poll from KFF suggests that rising health costs are still a top concern for voters this November and that Democrats have a substantial edge over Republicans on the issue. In an apparent attempt to close the gap, President Donald…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 37
+    },
+    "listenOld": {
+     "id": "e-b8011ee0f0",
+     "kind": "episode",
+     "title": "3 Problematic Hospital Myths: There Is No Healthcare Market, With Shane Cerone and Dr. Sam Flanders. EP490",
+     "url": "https://cc-lnk.com/EP490-Part1",
+     "date": "2025-10-23",
+     "summary": "The myth is that we have a functioning marketplace. We don't. We don't have a broken market — it's closer to a nonexistent market. That's Shane Cerone speaking, a former CEO of multiple hospital systems, and it is the central argument of…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 36
+    },
+    "read": [
+     {
+      "id": "a-a922e2ae7c",
+      "kind": "article",
+      "title": "FDA says its safety review of abortion pill will continue into next year",
+      "url": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
+      "date": "2026-10-08",
+      "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-6ac19e59bf",
+      "kind": "article",
+      "title": "HIPAA At 30: The “P” Isn’t For Privacy",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lMlpIYXNyOFdvNHNLLS1hckdQNkgwTTJFeVFLbWxfTmNCSlpTb19MTktJZFVBdjFVb1ZvNndlbVE2UVY4X0lKeFR4eFU0MVVfTnEzLWZiUVZtNFdUdWt6Rm95SUhmSkZLaDRIcU8wZUNKUWthRmZuT0Z6WEI?oc=5",
+      "date": "2026-10-08",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-ea6586d788",
+      "kind": "article",
+      "title": "Toby Douglas",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CeU5nRXJWV3VWV2ZHZjI0NFhfVkFsZ1VhUHF2WkZaTXBkTXhiRGVTR2NSUkdKUGNPNWYzZzRhUy13YmNYSWt0LWVmWjRoREFXWjNPSklOZ1pmNjVTRWJ2UDhSUTEweThFeGo3RGZaSDJISTN0NS1GYQ?oc=5",
+      "date": "2026-10-07",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-09",
    "capstone": {
@@ -2542,7 +2704,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "brookings-agi",
@@ -2554,13 +2716,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "ifc",
@@ -2584,13 +2746,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 6
+   "count": 9
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "eudif",
@@ -2602,7 +2764,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "oop",
@@ -2614,13 +2776,13 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 28
+   "count": 26
   },
   {
    "id": "cure",
    "name": "The Cure",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "id": "foresight",
