@@ -1,6 +1,155 @@
 {
- "updated": "2026-10-10T10:10:15+00:00",
+ "updated": "2026-10-11T10:11:09+00:00",
  "days": [
+  {
+   "date": "2026-10-11",
+   "capstone": {
+    "listenOld": {
+     "id": "e-aa21e16cb3",
+     "kind": "episode",
+     "title": "Private Sector, Public Impact: Building the Partnerships That Make Care Work - Part 2",
+     "date": "2026-07-01",
+     "summary": "The private sector delivers up to 70% of healthcare in Nigeria, so why are partnerships with the public sector still so hard to scale? In this episode, Njide Ndili joins us to break down what it actually takes to move public-private…",
+     "tags": [
+      "nigeria-system",
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 68
+    },
+    "read": [
+     {
+      "id": "a-fb08ae638f",
+      "kind": "article",
+      "title": "FG Urged To Improve Incentive For Health Workers",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWpnVGlhOGNRTUx0alVMQXNDNkRKSUhwNXJEeDlNNkhXcDZEUU5BSS1wN0hoSHZsMFgtd2Rha0RZTGhmU2VfYmU2MUxaV182Z2pQQjZhSFlkQWpUaVJ4UDNYaVU3bWRVOVhGRUI5QUFtRGJvci1MbkFjQmJyeWlxa1ZsVXQtVXhQejYxQjhUbFo5WTZvNFE?oc=5",
+      "date": "2026-10-11",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-059677462d",
+      "kind": "article",
+      "title": "West African Health Organisation Supports Roundtable on Financing Lassa Fever Vaccine Development during the World Health Summit in Berlin (Germany)",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/west-african-health-organisation-supports-roundtable-on-financing-lassa-fever-vaccine-development-during-the-world-health-summit-in-berlin-germany/",
+      "date": "2026-10-10",
+      "summary": "The West African Health Organisation (WAHO) is supporting a high-level roundtable in Berlin on Sunday, 11 October 2026, to explore a collaborative financing framework for Lassa fever vaccine development, research readiness and regional…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-37419c5521",
+      "kind": "article",
+      "title": "Germany Hosts the World Health Summit, But Has No Plan for the World’s Health",
+      "url": "https://healthpolicy-watch.news/germany-hosts-the-world-health-summit-but-has-no-plan-for-the-worlds-health/",
+      "date": "2026-10-09",
+      "summary": "The WHO lists Germany as its largest donor in 2020-21 and second largest since. Those days are ending. The Bundestag is considering a 2027 budget that grows by almost 6%, mostly for defence, while cutting the health ministry’s operational…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-0f6d0ee624",
+     "kind": "episode",
+     "title": "Hidden Help: What Happened When Oregon Forced Hospitals to Boost Financial Aid?",
+     "url": "https://tradeoffs.org/2026/10/08/hidden-help-what-happened-when-oregon-forced-hospitals-to-boost-financial-aid/",
+     "date": "2026-10-08",
+     "summary": "In the second episode of our special series on medical debt, we explore lessons from Oregon’s aggressive legislation to push hospitals to prevent patients from falling into medical debt. Guests: Sara R. Collins , Senior Scholar,…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 32
+    },
+    "listenOld": {
+     "id": "e-9413b4df33",
+     "kind": "episode",
+     "title": "Plan Sponsors Spend About $1.20 to Buy $1 of Healthcare, and Clinical Organizations Receive 80¢ for Every $1.20 Spent, With Mark Newman",
+     "url": "https://cc-lnk.com/EP496",
+     "date": "2026-01-08",
+     "summary": "Plan Sponsors Pay $1.20 to Buy $1 of Healthcare — and Providers Collect 80 Cents of That A self-insured employer pays $1.20–$1.30 to access a dollar of negotiated healthcare. Providers budget their business around collecting 70 to 80 cents…",
+     "tags": [
+      "us-health-care",
+      "consulting-craft"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 37
+    },
+    "read": [
+     {
+      "id": "a-ec528c375b",
+      "kind": "article",
+      "title": "Americans trust science more than peers around the world, survey shows",
+      "url": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
+      "date": "2026-10-10",
+      "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-d027e671c0",
+      "kind": "article",
+      "title": "Supplemental Rebates From Drug Makers To State Medicaid Programs Grew Fivefold From 2017 To 2024",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5scXVjNFFiLVh3N0xaTjVvdFVlTGtuTXVyQzdvZUxLUGt2dWhHdTQ5NGlKS0VLZU1VMXpVWl9EZ1llN3pEYWhjTXFqSEwtZHAyOUgzWVJBbEpNWkFIZlNEbnJzQVlteVN2dEZOYlFwOVJhdw?oc=5",
+      "date": "2026-10-05",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-8b5be2a436",
+      "kind": "article",
+      "title": "Spending Growth In A Large Massachusetts Insurer Driven By Volume And Intensity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtSnA0WFVPZWk1RzRFTFNqZG4yVElqNVEwM1NHTFdTdk1jTzctRTZHQjVEbVNHSDA2ZllFVEt0WldHMlZydi0tOUs4YUFTMXJETWZGY1dnbTl4RzJHZmxqcDdibUVPUEVjWjBZRw?oc=5",
+      "date": "2026-10-05",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-10",
    "capstone": {
@@ -2764,7 +2913,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "oop",
@@ -2776,7 +2925,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 26
+   "count": 19
   },
   {
    "id": "cure",
