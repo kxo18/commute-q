@@ -1,6 +1,153 @@
 {
- "updated": "2026-10-11T10:11:09+00:00",
+ "updated": "2026-10-12T10:15:00+00:00",
  "days": [
+  {
+   "date": "2026-10-12",
+   "capstone": {
+    "listenOld": {
+     "id": "e-bff5aa7abc",
+     "kind": "episode",
+     "title": "Building the brain economy",
+     "date": "2026-01-27",
+     "summary": "Brain health influences whether people can live productive and meaningful lives and whether the economies of countries can thrive. In this episode, host Garry Aslanyan is joined by two pioneers who advocate not only for brain health, but…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 44
+    },
+    "read": [
+     {
+      "id": "a-ff7179b487",
+      "kind": "article",
+      "title": "WHO Pandemic Hub sets ambitious goal to detect new outbreaks within 24 hours",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/who-pandemic-hub-sets-ambitious-goal-to-detect-new-outbreaks-within-24-hours/",
+      "date": "2026-10-12",
+      "summary": "The World Health Organization (WHO) launched a new five-year strategy for its Hub for Pandemic and Epidemic Intelligence, charting a path towards a world where every country can detect and understand emerging health threats within 24 hours…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-04510a338e",
+      "kind": "article",
+      "title": "Dabiri-Erewa Attracting Diaspora Talents To Nigeria’s Development — Tinubu",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjFPZG5la0ZiMVltcmNsNGtTNlZsVWhqRFJzTU9yeWZEMDJTQ2xkQ1E5cDJrQjVFR2JLQTIxbzA4NTAyQXlfWHZnZkp2U1hfQy15Njc2cVptd1hjajdOSk1ETFVvdVFRSXhhSkNWeGNCTzRrM3E4dTV3Q1NhS3gwUEZPa3NvcHo2bXNWOHowSGZDNUlSaFJINXl3?oc=5",
+      "date": "2026-10-12",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-293318fb33",
+      "kind": "article",
+      "title": "WHO Director-General Candidates Address Global Health Reform in First Public Campaign Event",
+      "url": "https://healthpolicy-watch.news/who-director-general-forum/",
+      "date": "2026-10-11",
+      "summary": "BERLIN – The WHO Director-General election process ignited its first public candidate conversation on Sunday (11 October) at the 2026 World Health Summit in Berlin, as four of the race’s seven declared contenders tackled the thorny…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-7196d09542",
+     "kind": "episode",
+     "title": "Beyond Finger Pointing: The Fight to Lower Health Care Costs",
+     "url": "https://tradeoffs.org/2026/09/03/beyond-finger-pointing-the-fight-to-lower-health-care-costs",
+     "date": "2026-09-03",
+     "summary": "In a live conversation recorded at Aspen Ideas: Health, executives from a hospital, insurer and pharmacy join a top Trump administration official and leading health economist to discuss how to collectively bring down health care costs.…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 58
+    },
+    "listenOld": {
+     "id": "e-171f6f8b10",
+     "kind": "episode",
+     "title": "Prior Authorizations & Pharma Rebate Contracts — How Financial Motives Keep Generics Off Formularies (EP517)",
+     "url": "https://cc-lnk.com/EP517",
+     "date": "2026-06-24",
+     "summary": "What if a prior authorization has less to do with your medical need than with how big a rebate check a PBM is collecting on a competing drug? In this solo deep dive — a direct follow-up to last week's conversation with Ophelia Johnson on…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 27
+    },
+    "read": [
+     {
+      "id": "a-0b63eb05d0",
+      "kind": "article",
+      "title": "Childhood Housing Assistance Associated With Lower Rates Of Adult Diabetes And Hypertension, 1970–2021",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ycFNyTXRXeWRYc3RMRUtOaGx4MjhieGt5REpwdmFrWlNXbFBXSUFQdTRWUzZTRS1BMG9fc3BraGVQdUpxVllFczRFbC02Umw2QVZLRnduV01wMF90b3dVQS1QYlFXSGc5X3ZfUg?oc=5",
+      "date": "2026-10-05",
+      "tags": [
+       "sdoh"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-da09094ed4",
+      "kind": "article",
+      "title": "Improving Medicaid Program Integrity: The Potential Of Managed Care",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUk0X084am1BaHhQbDdaeE8xZW5yT0pqWUsxZnl0d25XN1BYRjIwdmJET3d1QXZ5MnN5TFhQakQ4aWxmV2V6MHJLNXpxS05JZzZ4RlpLR2pCNEFsb2tuM1ZnbGkyNzNmOFZyWFB6QlZUb3BJcHlaZmFXcm5fSFVTbndyM1FrWXlWbTh6aG9LLVlyNFhXZHRXdXpGOXhZZkUwZWZQMTdISm93RmM?oc=5",
+      "date": "2026-10-05",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-1c420db13a",
+      "kind": "article",
+      "title": "Tragedy of the Commons: Health Care's Coming Breaking Point",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rVXZlaTBYakc4cnExWU5odnZySmFMOFgwRVFfdEpMZzV5R0dqTXNPR3hudHFIbmx0X0wyanBybTRXMUwwSkRyWk9waUdPUE4zRkl0a0dLR09JZHZJRWRxeGxmU3FiMzNweGc?oc=5",
+      "date": "2026-10-08",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-11",
    "capstone": {
@@ -2865,7 +3012,7 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "giin",
@@ -2895,13 +3042,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "eudif",
@@ -2925,7 +3072,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "cure",
