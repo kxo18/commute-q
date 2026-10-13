@@ -1,6 +1,167 @@
 {
- "updated": "2026-10-12T10:15:00+00:00",
+ "updated": "2026-10-13T10:14:41+00:00",
  "days": [
+  {
+   "date": "2026-10-13",
+   "capstone": {
+    "listenNew": {
+     "id": "e-78e6d91c5b",
+     "kind": "episode",
+     "title": "Realizing childhood cancer care without borders",
+     "date": "2026-10-13",
+     "summary": "Childhood cancer is one of the most treatable cancers — in wealthy countries, more than 80% of children survive. Yet in much of the world, a child's chances depend not on the disease but on where they are born. In parts of Nigeria, a child…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 44
+    },
+    "listenOld": {
+     "id": "e-bd8e465c93",
+     "kind": "episode",
+     "title": "A successful election in Nigeria would send a powerful message",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2023-02-15",
+     "summary": "Joseph Siegle, director of research at the Africa Center for Strategic Studies, joins host Aloysius Uche Ordu for a conversation on Nigeria's upcoming presidential election, on February 25, and other elections in Africa this year. Dr.…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 30
+    },
+    "read": [
+     {
+      "id": "a-4736adad3b",
+      "kind": "article",
+      "title": "The Geography of Remittances: An Updated Global Bilateral Remittances Matrix",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2xDRUhodzVaZlpGejZ1TXBPSjZVRzRWSUNQalo3Ym1qQTRXTU1pMDBFeHhKTzBHQ0RnVHp1OXhxZFNuN0JDSVFJa1ZfV09qcU8ydnRyeExTWkJNRzBxNld1NGxDOE1wMGZJM2ZYWjlIa0JxNERBMlZWbmJYX2cwMkltUE1aaFFnMWloNGJMalMtdW5EdVhxM0NTd0t5akJ4?oc=5",
+      "date": "2026-10-12",
+      "tags": [
+       "remittances"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-d1cf8215a4",
+      "kind": "article",
+      "title": "UCH Resident Doctors Begin 3-Day Warning Strike Over Electricity Crisis",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmtMMWVDVG15ZnRjVGdzbXBmdWp2NWdaNFcyckFsem9CMUpyV0xQb1o0VFFLVERsbFA4VUo2MXdrcUE4NmlZSG5JVFJjb0piQlFjaGF6Y0k3UWN4anh2aENOVWUzeVhKMGh4M2pPSkI3azVjbnA4VmNmWnplcVFxbTlwemlrdG1rUGczWUQ5NGdaNGJvbzFqWnpB?oc=5",
+      "date": "2026-10-12",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-cfc55197b1",
+      "kind": "article",
+      "title": "Exclusive: Global Fund eyes new funding mechanism for malaria",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejdoc0lGUm5UeS1MMGNQUExrRVg2anY3VnZjNUl3UXlveFJUMWhpclFDUFpEelhhd3B2Q01mcGFwN0RhajFZRXFTeVNXc3NQQktYeFRWVlNkczhZUDdRdEc3eGlXOEx0NTQxZmY2eDg4Y3BJNGw0M0RiZHdKUjNDZTNOZnkzQnE4bEcyck1tVkU2UGdzZGJ1SEVR?oc=5",
+      "date": "2026-10-12",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-29ef240ee6",
+     "kind": "episode",
+     "title": "Anger Over Health Costs Clouds Midterms",
+     "url": "https://play.prx.org/listen?ge=prx_14448_856380d7-a20b-4e62-8148-17b712134346&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-09-10",
+     "summary": "Amid a campaign already focusing on affordability, anxious voters are unlikely to be assuaged by headlines about healthcare costs rising even more next year. And a lawsuit that could cut off access nationwide to the abortion pill…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 51
+    },
+    "listenOld": {
+     "id": "e-0bf27fb925",
+     "kind": "episode",
+     "title": "EP305: The 1% Most Expensive Claimants Racking Up Massive FFS Bills and Still Not Getting the Help They Need From Our Health Care System, With Darrell Moon, CEO of Orriant",
+     "url": "https://healthvalue.libsyn.com/ep305",
+     "date": "2021-01-14",
+     "summary": "In Episode 305, Stacey Richter talks with Darrell Moon, CEO of Orriant, about the 1% most expensive claimants who rack up massive fee-for-service bills year after year without ever actually getting better — and what behavioral science…",
+     "tags": [
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 33
+    },
+    "read": [
+     {
+      "id": "a-27c1983c0a",
+      "kind": "article",
+      "title": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution",
+      "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
+      "date": "2026-10-13",
+      "summary": "“The legal and medical issues in the Christa Pike case are on a collision course,” writes bioethicist M. Sara Rosenthal.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-62ee8d6500",
+      "kind": "article",
+      "title": "If you’re starting at a new job at a healthtech company",
+      "url": "https://www.outofpocket.health/p/starting-a-new-job-at-a-healthtech-company",
+      "date": "2026-10-12",
+      "summary": "Their onboarding is only 50% of what you should be doing",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     },
+     {
+      "id": "a-02181a8be8",
+      "kind": "article",
+      "title": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
+      "url": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss",
+      "date": "2026-10-13",
+      "summary": "“Hordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,” writes STAT columnist Frances Mei Hardin.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-12",
    "capstone": {
@@ -2994,13 +3155,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 0
+   "count": 6
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "brookings-agi",
@@ -3042,13 +3203,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 11
+   "count": 14
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "eudif",
@@ -3060,7 +3221,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "oop",
@@ -3072,7 +3233,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 20
+   "count": 9
   },
   {
    "id": "cure",
@@ -3090,7 +3251,7 @@
    "id": "ghm",
    "name": "Global Health Matters",
    "ok": true,
-   "count": 92
+   "count": 93
   },
   {
    "id": "rhv",
