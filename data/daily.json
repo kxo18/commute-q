@@ -1,6 +1,154 @@
 {
- "updated": "2026-10-13T10:14:41+00:00",
+ "updated": "2026-10-14T10:25:27+00:00",
  "days": [
+  {
+   "date": "2026-10-14",
+   "capstone": {
+    "listenOld": {
+     "id": "e-dcf56524d8",
+     "kind": "episode",
+     "title": "Lessons from trailblazers across generations - History matters part 2",
+     "date": "2023-07-17",
+     "summary": "In the second of our history matters episodes suggested by you, our listeners, our two guests reflect on their personal experiences and engage in an intergenerational discussion on the evolution of sexual and reproductive health. Host…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 36
+    },
+    "read": [
+     {
+      "id": "a-11b441ff7a",
+      "kind": "article",
+      "title": "Private Sector Mobilisation: Are We Missing the Bigger Picture?",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXFaUmQxR1I2V2RuVjR5TlJ4Q0ZoTTNVbThYOFNkM2hTNTA5RWx2VHdWeUlZQy1JWm1jUy1Vc0s0UmZLUFU4Y0VXdGFYMmJqdllDRFpnSnIyb1VtT0ZJNGtnMDBCZmctRGE2eWZ5U3U5eld1RUdleVJ2M2kxXzZ4ZS11SzI5SlVCTTA0Zw?oc=5",
+      "date": "2026-10-13",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-a02fb36773",
+      "kind": "article",
+      "title": "Experts Recommend Ways to Stretch Vaccine Supplies in Face of Dwindling Budgets",
+      "url": "https://healthpolicy-watch.news/experts-recommend-ways-to-stretch-vaccine-supplies-in-face-of-dwindling-budgets/",
+      "date": "2026-10-13",
+      "summary": "In the face of dwindling health budgets, the World Health Organization’s (WHO) expert committee on immunisation has made several suggestions to enable countries to optimise existing vaccine supplies. Countries can continue giving a single…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-454ab357bc",
+      "kind": "article",
+      "title": "NHRC Raises Alarm Over Abuse, Neglect Of Nigerians With Mental Health Conditions",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEF6Z0FseFdDR2VZT09KZl9yelJrSzZnYVE4RF95c05yVXJWd182ZTlNOWVHb2FzWjFLOTE1WTFkMkR0YXUxMFRDVEticXF2ZmVjTC13dXZoVUVLTDNxRG42Nl9ZRnFmQkNGQ1NtNWFXTVJZWmZsRHNrTGxndjZ6WXFLMVpnS0pQbGNzRWV3MXRMZGdpVTRCY3FmZUlUeUdsX0ZjRg?oc=5",
+      "date": "2026-10-12",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-ac8be4f5bb",
+     "kind": "episode",
+     "title": "As SNAP Shrinks, What's the Future of Food Aid in America?",
+     "url": "https://tradeoffs.org/2026/09/10/as-snap-shrinks-whats-the-future-of-food-aid-in-america",
+     "date": "2026-09-10",
+     "summary": "Cash-strapped states and struggling families are wrestling with the consequences of major reforms to the SNAP program passed as part of Republicans’ Big Beautiful Bill. Guests: Romina Boccia , Director of Budget and Entitlement Policy,…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 22
+    },
+    "listenOld": {
+     "id": "e-ceababbbd4",
+     "kind": "episode",
+     "title": "Biden’s Medicaid Director Reflects on Lessons Learned and Worries for the Future",
+     "url": "https://shows.acast.com/tradeoffs/episodes/dan-tsai-medicaid-cms-lessons",
+     "date": "2025-01-16",
+     "summary": "With Medicaid poised for potential cuts from Republicans in Washington, Dan Tsai reflects on what he's learned running Medicaid for the Biden administration — and his hopes and concerns for the program's future. Guest: Dan Tsai , Deputy…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 26
+    },
+    "read": [
+     {
+      "id": "a-430e7163c4",
+      "kind": "article",
+      "title": "Opinion: How states can resist the potential Trump vaccine shortages",
+      "url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
+      "date": "2026-10-14",
+      "summary": "“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-9dd595c199",
+      "kind": "article",
+      "title": "Diagnosing Dementia: Confidence Gaps Across the Health Care Workforce",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aMXhmS3poS1hhUU5GS1FXZWdFekNHTFRMQ2dNdldjT3RGZEJnZFlhSUNWbmNoX2VUZXBxMVhHZWlPN2dGdUE4anVyRmJNMHdUeno1N0tldlVwX1R1R01pZGw0bklhaWZVcVc1dldoTGtGQQ?oc=5",
+      "date": "2026-10-13",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-b947cb06a6",
+      "kind": "article",
+      "title": "Announcing Build @ Deerfield, powered by Out-Of-Pocket",
+      "url": "https://www.outofpocket.health/p/announcing-build-at-deerfield",
+      "date": "2026-10-13",
+      "summary": "A five-week hackathon for early-stage healthcare teams with $250K+ in grants and prizes. Apply by Nov 19.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-13",
    "capstone": {
@@ -3155,31 +3303,31 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "ifc",
@@ -3203,7 +3351,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "nairametrics",
@@ -3221,7 +3369,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 4
+   "count": 6
   },
   {
    "id": "oop",
@@ -3233,7 +3381,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "id": "cure",
