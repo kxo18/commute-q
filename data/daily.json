@@ -1,6 +1,155 @@
 {
- "updated": "2026-10-14T10:25:27+00:00",
+ "updated": "2026-10-15T10:24:09+00:00",
  "days": [
+  {
+   "date": "2026-10-15",
+   "capstone": {
+    "listenOld": {
+     "id": "e-afa4d1496d",
+     "kind": "episode",
+     "title": "Young Ugandan climate activists on their work and vision",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2022-06-08",
+     "summary": "Two young Ugandan climate activists discuss their work on meeting the challenges of climate change in their country, their region, and continent-wide. Hilda Flavia Nakabuye, founder of Fridays for Future Uganda, and Morris Nyombi, CEO of…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 39
+    },
+    "read": [
+     {
+      "id": "a-2b42b163d2",
+      "kind": "article",
+      "title": "Nigeria Must Turn Maternal Health Commitments into Functioning Care",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/nigeria-must-turn-maternal-health-commitments-into-functioning-care/",
+      "date": "2026-10-14",
+      "summary": "A maternal death is a preventable loss for a woman, her family and her community. Yet Nigeria’s challenge is to commit to preventing these deaths, and to ensure that funding, the health workforce, medicines, transport and emergency care…",
+      "tags": [
+       "workforce",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-e3f24484ad",
+      "kind": "article",
+      "title": "Ultimatum: Resident Doctors To Decide Next Move Saturday As Talks With FG Progress",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORE1EOVItQmFqMnA2Zzg1VGlRdG03WU5wdFRnUGl6U2JnczlSOTY3RDM0d2lzWGpjSFdlbDIzVllwb1FkeUJNMFdVU3cyY0M5b0I4V1lMX0pEaUN6NjdZMXQwUkU0eV9kbUplTzRHdUwzLWlCS2F0TFhBc0QzVjBJS2F5eFVzMWNwOEtxMzAxMzhMbmRQdUY4N1dRdFNXN3o3LTVlbVhmTQ?oc=5",
+      "date": "2026-10-14",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-3ad6184668",
+      "kind": "article",
+      "title": "The lessons and warnings of PEPFAR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xcUoxb0VVUmZxdlViOGRVYmxjN0Z3REFBZ2pyeDNSTWh1LVN2a01OV3JRUUZNQ0dPOXJORGxQT1hJUkdqREZoZ0NGMEFFZ0dDVjd5VGdrcU9HbjBNbjMySzQ1Uk50aDRubjBnWkVKVGlya242WHdJ?oc=5",
+      "date": "2026-10-14",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-9dd23ad89b",
+     "kind": "episode",
+     "title": "Level Funding Is Self-funding: 5 Avoidable Contract Risks, With Frank Pennachio",
+     "url": "https://cc-lnk.com/EP533",
+     "date": "2026-10-14",
+     "summary": "Level-Funded Health Plan Risks: ERISA Contract Traps, Stop-Loss Gaps, and Surplus Fine Print. Episode 533. An employer with a fully insured plan told Stacey Richter his renewal this year was 69% — his broker negotiated it down to 50%,…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 37
+    },
+    "listenOld": {
+     "id": "e-d42e9b08f9",
+     "kind": "episode",
+     "title": "EP230: The Best Way to Improve Patient Outcomes and Satisfaction and Reduce Burnout, With John Lynn, Founder of Healthcare Scene, Expo.Health, and HITMC",
+     "url": "https://healthvalue.libsyn.com/ep230",
+     "date": "2019-06-06",
+     "summary": "The Best Way to Improve Patient Outcomes, Satisfaction, and Reduce Burnout, With John Lynn (EP230) \"Organizational Culture Eats Strategy for Breakfast, Lunch, and Dinner.\" Episode 230. Ambulatory patients spend about 84 minutes on average…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 31
+    },
+    "read": [
+     {
+      "id": "a-8d95df0aba",
+      "kind": "article",
+      "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
+      "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
+      "date": "2026-10-14",
+      "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced…",
+      "tags": [
+       "life-sciences",
+       "sdoh"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-9b3796dc1c",
+      "kind": "article",
+      "title": "AI Will Accelerate Inflation Because It Cannot Deliver Value In Today’s Health Care Market",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTm16VzRpUm5aY2dFamZ5d1hYQU9FcHRKdTB0WjdVcHJYQUhUSTJvUWZMRVhTdkpOeEQxNEV3MFI2b0dfQWFUSEtoWlN5OWxTRUp2SEMydGhWVGdfRXdLUmEtWlJOZmZpMDJVb3pyQ0lqVkplUW5NbHdxaGNDazJFMUlENDdJQl9obU04SjJMajN3eExMa0JZMWpqX0cwbDJoQTQtcHdsN1lPU2NKbFhtVFR4cV9Ua0cwWm9UcnhhNEpJT09NbVE?oc=5",
+      "date": "2026-10-14",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-521ebb1054",
+      "kind": "article",
+      "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
+      "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
+      "date": "2026-10-15",
+      "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-14",
    "capstone": {
@@ -3303,25 +3452,25 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 3
+   "count": 5
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "giin",
@@ -3351,7 +3500,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "id": "nairametrics",
@@ -3369,7 +3518,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 6
+   "count": 8
   },
   {
    "id": "oop",
@@ -3381,7 +3530,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "cure",
@@ -3411,7 +3560,7 @@
    "id": "tradeoffs",
    "name": "Tradeoffs",
    "ok": true,
-   "count": 334
+   "count": 335
   },
   {
    "id": "wth",
