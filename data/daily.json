@@ -1,6 +1,157 @@
 {
- "updated": "2026-10-15T10:24:09+00:00",
+ "updated": "2026-10-16T10:25:08+00:00",
  "days": [
+  {
+   "date": "2026-10-16",
+   "capstone": {
+    "listenOld": {
+     "id": "e-9336815ccd",
+     "kind": "episode",
+     "title": "The Telemedicine Renaissance in Nigeria - Part 2",
+     "date": "2025-12-18",
+     "summary": "A few years ago, telemedicine felt like a dream that Africa wasn’t ready for. Today, that dream is becoming reality. Join Temitope Coker, host of The Cure Podcast , in conversation with Dr. Neto Ikpeme, founder of WellaHealth , as they…",
+     "tags": [
+      "nigeria-system",
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 67
+    },
+    "read": [
+     {
+      "id": "a-ee10a9d220",
+      "kind": "article",
+      "title": "Stop the blame game: Time to restore bipartisanship in foreign aid",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmlfYXZ2b2szUjU5d0UyMXQzblNUbTd5dG11UTNYQUsyQU1RRld6YnctRWxKb0lLaXF0UC15bDhfcTJ4UE9JZDIxVUd4OHVqRUIxcjN3WUNpZ3F5ejVxT0pJWUhPNGVGZ3BCZ1hxbnV3eElCallIaXRDa2U1dUVZQ1hyXzNqb2lGcTF4WURSaTdINkxHSHdZeFBpeFd6X2pf?oc=5",
+      "date": "2026-10-15",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-01dc9da6ef",
+      "kind": "article",
+      "title": "UCH Resident Doctors Call Off 3-Day Warning Strike, Direct Members To Resume Duty",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSk1heUNBN0hheGc2X2hGcGZ0R3pKcUprc2p3YzlvNU0zVDctSGJ0b0JlSWV0SlZfN2hlYUt2YjF3WWozT1NNSXZwcjJZVzY5dUlRNHBMX243TGU3NnlXMzZBMmNtY0Z5TDN0X2Z2ZUh2UERzRkJXV1Z3WHFYLVF2Z2F3b2FWZFhWdU9SSENwbG5fOUd5cVlEdzR1TFo1RlJaYldHdThB?oc=5",
+      "date": "2026-10-15",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-f6579320e0",
+      "kind": "article",
+      "title": "Furanni Equips Women in Kano’s Ghari Community to Recognise Prolonged Labour and Seek Timely Care",
+      "url": "https://nigeriahealthwatch.com/articles/community-health-watch/furanni-equips-women-in-kanos-ghari-community-to-recognise-prolonged-labour-and-seek-timely-care/",
+      "date": "2026-10-15",
+      "summary": "Hadiza Musa For pregnant women, recognising the warning signs of complications and seeking medical attention early can mean the difference between life and death. Yet, knowing when to seek care remains an important challenge in preventing…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-1dd7897544",
+     "kind": "episode",
+     "title": "Early Voting Begins",
+     "url": "https://play.prx.org/listen?ge=prx_14448_f1886f5b-b731-46a5-b239-401ef9e6770b&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-10-15",
+     "summary": "As early voting begins in some states, the Trump administration is working to keep its crackdown on healthcare fraud, waste, and abuse in the headlines. Also, Health and Human Services Secretary Robert F. Kennedy Jr. has unveiled a new…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 40
+    },
+    "listenOld": {
+     "id": "e-e7e4bb161a",
+     "kind": "episode",
+     "title": "The Financialization of Health Benefits for Boards of Directors and C-Suites of Self-Insured Employers, With Andreas Mang. EP419",
+     "url": "https://cc-lnk.com/EP419",
+     "date": "2023-11-30",
+     "summary": "Are you on the board of directors of a company? A shareholder of a publicly traded one? A CEO or CFO who reports to a board? This episode is for you. Following up on last week's conversation with Mark Cuban (EP418), Stacey Richter talks…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 38
+    },
+    "read": [
+     {
+      "id": "a-72c0aa9838",
+      "kind": "article",
+      "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
+      "url": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
+      "date": "2026-10-15",
+      "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy…",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-dbbd257825",
+      "kind": "article",
+      "title": "Prosper Global Ventures",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44RnMxbnhFa001MWFZMHdDY09JaGdHdENvbmtmdURUR240Tmg3SHhmQzlkdVN4andDUkhYZTkwWmFQalRUWV9KcVRVZ2kyQ0RRU0RQSVF0NHZQVHFrb2l6UA?oc=5",
+      "date": "2026-10-15",
+      "tags": [
+       "investment",
+       "development-finance"
+      ],
+      "tracks": [
+       "capstone",
+       "career"
+      ],
+      "source": "GIIN"
+     },
+     {
+      "id": "a-679c84cd30",
+      "kind": "article",
+      "title": "Can Real-World Evidence Reliably Fill Evidence Gaps In Accelerated Approval?",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnRjYm1JelNldGEzX0FFVGRua2Q0SUNGX25jdHc0OEo4VTJYQVR1RWt0T3FhUTNRSkNBQ2I5bjB5RGNGZlNrbHhxSmk2X2ZPOTh6TUVLMHRoNzNOZFd2RnYtc3Q1QlowcXEwTHk2MWNIV2NaSHdZU0ZsQjl2dW1fakl4YTdTbVZXTXdwd0VRTjNfcFF1M2l0LVNCVmVlODY2ZndwN29MUkE5cGw3bjJpYkJwRncwbTlQMmNDQg?oc=5",
+      "date": "2026-10-13",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-15",
    "capstone": {
@@ -3452,13 +3603,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 5
+   "count": 3
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "brookings-agi",
@@ -3470,13 +3621,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "ifc",
@@ -3488,7 +3639,7 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "nhw",
@@ -3500,13 +3651,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "eudif",
@@ -3518,7 +3669,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 8
+   "count": 12
   },
   {
    "id": "oop",
@@ -3530,7 +3681,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 10
+   "count": 7
   },
   {
    "id": "cure",
@@ -3566,7 +3717,7 @@
    "id": "wth",
    "name": "KFF Health News: What the Health?",
    "ok": true,
-   "count": 470
+   "count": 471
   },
   {
    "id": "readout",
