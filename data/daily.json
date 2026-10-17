@@ -1,6 +1,156 @@
 {
- "updated": "2026-10-16T10:25:08+00:00",
+ "updated": "2026-10-17T10:18:38+00:00",
  "days": [
+  {
+   "date": "2026-10-17",
+   "capstone": {
+    "listenOld": {
+     "id": "e-d7cf96251a",
+     "kind": "episode",
+     "title": "Shifting the narrative on AI in Africa",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2024-07-24",
+     "summary": "Artificial intelligence's acceleration has increased the need for data regulation and privacy protections globally. Chinasa Okolo joins host Landry Signé to discuss AI's impact on the African continent and the continent's current policy…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 24
+    },
+    "read": [
+     {
+      "id": "a-e51c173dd8",
+      "kind": "article",
+      "title": "NHIA Moves Against Hospitals Denying Insured Patients Care",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXJuOUNtU3dLUEV0Q1QtSDJfS2xGSUpSVVRYUjlHVUswV0p6MC1VczNlWUlGTmFwUG82eWlXRUhJSTFSWEJmX1l6SEpvaDRiaUdfRDI2c1hwUzdiUVBrRmlwU3FDd3hPZ2NTamROVVhYdjNZLVNEejBhQXBrSzlQX18xaWM3Mngw?oc=5",
+      "date": "2026-10-17",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-edaae67f9a",
+      "kind": "article",
+      "title": "Use This Emergency Brake on Climate Change and Air Pollution, Experts Urge Finance Ministers",
+      "url": "https://healthpolicy-watch.news/use-this-emergency-brake-on-climate-change-and-air-pollution-experts-urge-finance-ministers/",
+      "date": "2026-10-17",
+      "summary": "BANGKOK- Act fast and use the super-pollutant emergency brake to save lives and limit global warming. This is the message to governments and the private sector delivered by experts at the UN-hosted Climate and Clean Air Coalition (CCAC)…",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-de19e469c7",
+      "kind": "article",
+      "title": "Pandemic Fund head: Investing in health creates job opportunities",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2o2VkhHU1kyQkIzWkxJWWNOaDFsM2FoREgxWXBBR3RZUHBSZ2FYa2VMRXlLeW9xeFBqVGdqbGoxVXk0ZmtrcFR0cnc0VUgxc0pFbHBnRHN2NW9qc0M3X0w2U2tLcEs5eXhiWkJVOEx3cG85TUxNYllheU5JQWpJbHMzLWJRanE2MzlWaWdzYzR6dzZXV2R1QXkxSmpiMDg?oc=5",
+      "date": "2026-10-14",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-b37dbffe4c",
+     "kind": "episode",
+     "title": "417: Hospitals' next lucrative bet — longevity clinics",
+     "date": "2026-10-16",
+     "summary": "Longevity medicine is now estimated to be a multitrillion dollar industry. But what are people paying for, and does it work? On this week's episode of “The Readout LOUD,” STAT's biotech podcast, we bring on STAT reporter Sarah Todd to…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 20
+    },
+    "listenOld": {
+     "id": "e-3c7d62826d",
+     "kind": "episode",
+     "title": "EP467: Connecting Sky-High ER Spend to Primary Care Access—Following the Dollar Through Carriers and Hospitals, With Stacey Richter",
+     "url": "https://cc-lnk.com/EP467",
+     "date": "2025-03-13",
+     "summary": "In this solo episode, host Stacey Richter dives into the intricate relationship between increased emergency room (ER) visits and the lack of access to effective primary care. Drawing on insights from recent episodes featuring experts like…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 23
+    },
+    "read": [
+     {
+      "id": "a-729e122201",
+      "kind": "article",
+      "title": "Hospitals’ next lucrative bet — longevity clinics",
+      "url": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss",
+      "date": "2026-10-16",
+      "summary": "On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-80413066d0",
+      "kind": "article",
+      "title": "Dating apps are seriously getting into healthcare",
+      "url": "https://www.outofpocket.health/p/dating-apps-healthcare",
+      "date": "2026-10-16",
+      "summary": "An unexpected new challenger approaches",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     },
+     {
+      "id": "a-e5e57b0a43",
+      "kind": "article",
+      "title": "Kenya reports second Ebola case",
+      "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss",
+      "date": "2026-10-15",
+      "summary": "Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to…",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-16",
    "capstone": {
@@ -3564,6 +3714,21 @@
  "radar": {
   "s-pate-insurance": [
    {
+    "id": "a-e51c173dd8",
+    "kind": "article",
+    "title": "NHIA Moves Against Hospitals Denying Insured Patients Care",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXJuOUNtU3dLUEV0Q1QtSDJfS2xGSUpSVVRYUjlHVUswV0p6MC1VczNlWUlGTmFwUG82eWlXRUhJSTFSWEJmX1l6SEpvaDRiaUdfRDI2c1hwUzdiUVBrRmlwU3FDd3hPZ2NTamROVVhYdjNZLVNEejBhQXBrSzlQX18xaWM3Mngw?oc=5",
+    "date": "2026-10-17",
+    "tags": [
+     "nigeria-system"
+    ],
+    "tracks": [
+     "capstone"
+    ],
+    "source": "Leadership.ng",
+    "attached": "2026-10-17"
+   },
+   {
     "id": "a-1da72745fe",
     "kind": "article",
     "title": "Nigeria Needs a Stronger Evidence System to Track Progress Towards Universal Health Coverage",
@@ -3609,7 +3774,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "brookings-agi",
@@ -3621,13 +3786,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "ifc",
@@ -3651,13 +3816,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "eudif",
@@ -3669,7 +3834,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "id": "oop",
@@ -3681,7 +3846,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "id": "cure",
@@ -3723,7 +3888,7 @@
    "id": "readout",
    "name": "The Readout LOUD",
    "ok": true,
-   "count": 421
+   "count": 422
   }
  ]
 }
