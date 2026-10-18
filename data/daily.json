@@ -1,6 +1,152 @@
 {
- "updated": "2026-10-17T10:18:38+00:00",
+ "updated": "2026-10-18T10:19:10+00:00",
  "days": [
+  {
+   "date": "2026-10-18",
+   "capstone": {
+    "listenOld": {
+     "id": "e-3cd7efc36f",
+     "kind": "episode",
+     "title": "Trailblazers with Garry: a conversation with John Gyapong",
+     "date": "2026-01-13",
+     "summary": "“Trailblazers with Garry\" is a series from Global Health Matters, where host Garry Aslanyan sits down with trailblazers — thinkers, leaders, and influencers shaping the future of global health — for short face-to-face conversations,…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 40
+    },
+    "read": [
+     {
+      "id": "a-cb198f7e65",
+      "kind": "article",
+      "title": "Rethinking 21st Century Specialised Medical University In The Nigerian Context: Are The Challenges Surmountable?",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWC1HR3ZFNDZ1UHozRWZLYVp3V1BVcl9VZGVrWGwwdFU2MVJJSkZOVjN0YkthVzA4ZHF3ektFcGVaTG0zT0w2RGdSX1IwLXg4ZFo4VG1Ca1pkaV9JazF1MEpnbW92alpNY09MN1hPMWczU3gxX1hDWkVEOC1tRFM2ak1UVUhjWm5HWC0wZXJiWWVQY2VpVV81MlNwVjdBcWpybE9sc1VWcUtqQW1PS190aGhEd1F2X09MMUZEWVVabkRzR19pSXA2X0k1SzFBUQ?oc=5",
+      "date": "2026-10-17",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-5ebe5c8b83",
+      "kind": "article",
+      "title": "Over 800 Million Children Have Unsafe Lead Levels in Their Blood",
+      "url": "https://healthpolicy-watch.news/over-800-million-children-have-unsafe-lead-levels-in-their-blood/",
+      "date": "2026-10-13",
+      "summary": "Over 800 million children have unsafe lead levels in their blood, according to the latest estimates of the World Health Organization (WHO). A toxic metal found in the Earth’s crust, humans are increasingly exposed to lead contained in a…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-1ff110b2df",
+      "kind": "article",
+      "title": "Remittances Dwarf Aid and Foreign Investment. Where Does the Money Come from and Where Does It Go?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUlKQnBIN19EOWRESDdvUUZtVTJieHlfUkM3TXRfRElZYXd2RHZKNEVtaWJZWW5kOVAyQ3RYZlY2Ui05bUZpdC1VU3k1SWQybjJScllXZEJYTnNQZmlZRVR4UDJUWHIxZUZlNjNoTXFTWDJ4Z1pmYTd5bVd4WGUzdThDQkx0bUx1WFNnczUzaXNWWFM3a2pnR2lGYVI5RkhhaUgxV1MzVUJMVW41Ykw5SGdZbkI?oc=5",
+      "date": "2026-10-12",
+      "tags": [
+       "remittances"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-894fca56b2",
+     "kind": "episode",
+     "title": "Reimagining the Future of Health Research After Sweeping Cuts",
+     "url": "https://tradeoffs.org/2026/10/15/reimagining-the-future-of-health-research-after-sweeping-cuts",
+     "date": "2026-10-15",
+     "summary": "The Trump administration’s decimation of the Agency for Healthcare Research and Quality has many academics deeply concerned. Guests: Aaron Carroll , President and CEO, Academy Health Sebastian Tong , Family Physician and Associate…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 21
+    },
+    "listenOld": {
+     "id": "e-999c837d91",
+     "kind": "episode",
+     "title": "The Medicaid Policy Red and Blue States Agree On",
+     "url": "https://tradeoffs.org/2025/08/07/prison-healthcare-medicaid-policy-red-blue-states-agree",
+     "date": "2025-08-07",
+     "summary": "More than half of states — from deep blue California to solidly red Louisiana — want to bring Medicaid behind bars in hopes of saving the lives of people as they leave jail and prison. Guests: Lee Reed Shira Shavit , MD, Professor of…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 30
+    },
+    "read": [
+     {
+      "id": "a-072e2e81b2",
+      "kind": "article",
+      "title": "What to read before you go see that new documentary on Elizabeth Holmes",
+      "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
+      "date": "2026-10-16",
+      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022…",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-272b473938",
+      "kind": "article",
+      "title": "Opinion: Is Milton Friedman to blame for America’s health care woes?",
+      "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
+      "date": "2026-10-16",
+      "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S. medical system went wrong — and how to fix it.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-95c6b83d86",
+      "kind": "article",
+      "title": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
+      "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
+      "date": "2026-10-16",
+      "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-17",
    "capstone": {
