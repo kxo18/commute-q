@@ -1,6 +1,141 @@
 {
- "updated": "2026-10-18T10:19:10+00:00",
+ "updated": "2026-10-19T10:27:39+00:00",
  "days": [
+  {
+   "date": "2026-10-19",
+   "capstone": {
+    "listenOld": {
+     "id": "e-20fe204cba",
+     "kind": "episode",
+     "title": "New trends in Africa-Asia economic relations",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2024-05-29",
+     "summary": "Africa's relationship with Asia has changed dramatically over the last few decades. From little economic integration in the early 1990s to the strong trade partnerships seen today, the regions are now strongly intertwined. The continents…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 31
+    },
+    "read": [
+     {
+      "id": "a-1f8eda0bcd",
+      "kind": "article",
+      "title": "New Lassa Fever Evidence To Shape Vaccine Research And Outbreak Preparedness Across West Africa",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/new-lassa-fever-evidence-to-shape-vaccine-research-and-outbreak-preparedness-across-west-africa/",
+      "date": "2026-10-12",
+      "summary": "New evidence from a major Lassa fever research programme in West Africa is expected to inform the next phase of vaccine research, outbreak preparedness and community engagement in research across the region. Initial findings from Enable,…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-16330f0b44",
+      "kind": "article",
+      "title": "Orchid Capital Collective",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fdDB5ckJpVVV1eV9lLXNtTUlxSlhLRzhFSUtJWDZ4ZlNPT3hXS0t6NmFTYWl4YnN6RXZPNVVrbDdLaFpLcHpTRVF0emwzZGRwZ05zUHhRWXRIbGFaS0tZcEh3OA?oc=5",
+      "date": "2026-10-18",
+      "tags": [
+       "investment",
+       "development-finance"
+      ],
+      "tracks": [
+       "capstone",
+       "career"
+      ],
+      "source": "GIIN"
+     },
+     {
+      "id": "a-a9000830e5",
+      "kind": "article",
+      "title": "Weekly links October 15: what does a coach do, beyond services vs manufacturing, what DiD to use, migration and jobs, and more…",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVRfOWdrZEYxSjdDSUtpdjU3U0R1VzVGTDBDWDVZMGdsNm1iMW1TZXlZdFE1ZmhfQjlVcjFGM0IzRmkxcC02b29URlFUUTJEelI0T1pjalE1NFR5S3QyeDdPbnl2OU9iaFJGUGJiUW9Oa2JmbXlzMUZqQ3d4MUJoaU1GeWJ6ZkZqMUJhWVlKRDJaR21MT05tdGIzbFNoSjhZWVhJY015UHdkY1VlNGU2UjJqaw?oc=5",
+      "date": "2026-10-15",
+      "tags": [
+       "remittances"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "World Bank People Move"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-99ce5ee211",
+     "kind": "episode",
+     "title": "EP458: A Really Unexpected Consideration for Solving Staffing Shortages That Impact Access and Care Quality That Is Based on a Ton of Evidence, With Komal Bajaj, MD",
+     "url": "https://cc-lnk.com/EP458",
+     "date": "2024-12-12",
+     "summary": "In this episode, host Stacey Richter speaks with Dr. Komal Bajaj about innovative strategies for addressing staffing shortages in the healthcare sector. Dr. Bajaj is an ob-gyn who serves as chief quality officer for a couple of hospitals…",
+     "tags": [
+      "us-health-care",
+      "consulting-craft"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 37
+    },
+    "read": [
+     {
+      "id": "a-918234e228",
+      "kind": "article",
+      "title": "Opinion: Measles is back — and becoming a midterm liability for Republicans",
+      "url": "https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss",
+      "date": "2026-10-19",
+      "summary": "“Silence on vaccines is becoming a dealbreaker for voters who would otherwise vote Republican,” write physicians and former GOP Reps. Larry Buchson and Michael Burgess.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-173a64573b",
+      "kind": "article",
+      "title": "Extending Employer Health Insurance Beyond The Group Health Plan Through CHOICE Arrangements",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2o1UVBTR1JKUzgzaFg5TFk0Z1JXSWJ2QTdnUmtMaGVuZDhUMUZzQVJKRFdRWm9OXzJFZUNpdjNVYzVxblVjREZUUGFScnI3a2RPYTNqTVZSZTVka2c3Y2lWNGJ6ejBKLWtLNDd2S1ZGc2hISk1uME9hdGpZMTJDZW0wbzNJelNEMnoyUzFFSDREekZIR2tqcnNfcVI2Z3gwbkI1NV95VG5lUE1KYWVRdFliYzdseWs0SmRhaW4tSmg?oc=5",
+      "date": "2026-10-15",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-bbdc666898",
+      "kind": "article",
+      "title": "Opes Italia",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mRUhmNlVLb2dsbFRyYWZrTGJFRUN2YnVtTkRjdTZMcTBCZU44TDZwMW5Pb05DTmNDZlhMY0x5eTNOYkJKOHNpY2NJM2cyZlBQRzh6eWFzX1ZFc2N1cUE?oc=5",
+      "date": "2026-10-18",
+      "tags": [
+       "investment",
+       "development-finance"
+      ],
+      "tracks": [
+       "capstone",
+       "career"
+      ],
+      "source": "GIIN"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-18",
    "capstone": {
@@ -3920,7 +4055,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "brookings-agi",
@@ -3932,13 +4067,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 4
+   "count": 6
   },
   {
    "id": "ifc",
@@ -3962,7 +4097,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 8
+   "count": 6
   },
   {
    "id": "nairametrics",
@@ -3980,7 +4115,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 10
+   "count": 8
   },
   {
    "id": "oop",
