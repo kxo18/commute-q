@@ -1,6 +1,153 @@
 {
- "updated": "2026-10-19T10:27:39+00:00",
+ "updated": "2026-10-20T10:22:25+00:00",
  "days": [
+  {
+   "date": "2026-10-20",
+   "capstone": {
+    "listenNew": {
+     "id": "e-caef23a7a2",
+     "kind": "episode",
+     "title": "GHM & HSG Guiding Research Special Series",
+     "date": "2026-10-20",
+     "summary": "Climate change is placing growing pressure on health systems around the world, but its impacts do not happen in isolation. In the Middle East and North Africa (MENA) region, climate risks intersect with water scarcity, conflict,…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 38
+    },
+    "listenOld": {
+     "id": "e-0bd8b0652a",
+     "kind": "episode",
+     "title": "Tackling the climate change challenge in Africa",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2022-04-22",
+     "summary": "This special episode of Foresight Africa podcast is a rebroadcast of an event hosted on Earth Day by the Africa Growth Initiative (AGI) at Brookings. Aloysius Uche Ordu, director of AGI and podcast host, moderated an expert panel…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 95
+    },
+    "read": [
+     {
+      "id": "a-11e6ffa7bd",
+      "kind": "article",
+      "title": "Meet 7 owners of largest private hospitals in Lagos",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVW1nSWhyU3lyekRNajR6MGpEYXVrZGF6SzUxeEh3d2xFUkRCbHRJd0JvamxLMi1vN3ZvZlVQVGRQdlphYUdQNXd3czFQVVJSS1pubjNkUU5Dck5Odmk5LWhkTVpMbGFmUGlMLVNrV3dzRkh4eGxWZWJnMnYxaXp5b0JQV043bC00bHNscmZKUFVsdw?oc=5",
+      "date": "2026-10-18",
+      "tags": [
+       "nigeria-system",
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nairametrics"
+     },
+     {
+      "id": "a-1c0bacff7a",
+      "kind": "article",
+      "title": "Obi Didn’t Tell Diaspora To Abandon Families In Nigeria – Obi Media Office",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTZwRDgtMTRoSFh1WTg0UmkzdDJaOXptaFh4VWx3b0gtWnNSaUwxRVlCb2JKbUZwZ3VKdTNFdVA0WXlaMVRkRFNRcnZEMXRYdnA2dlJDcEw1WkFTVWRmLURxeUpRSGwzSFlBd1NwTXpBNXc1d1RXRHlMSmZlSU1ZQlNJbjNsUWM2T09OdjZQSkFKakN1dkFNRDV3?oc=5",
+      "date": "2026-10-20",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-4638a39563",
+      "kind": "article",
+      "title": "Money Matters: GiveWell and the Global Fund — is a malaria mega-fund coming?",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWR3RUVEei02RmhLQVRpZFJYT1F6N0poTEZyV1hTeHdqWW01VnBqZ2p0b2NYNkVrNXBaS3hOeDJaRGRlTERzVzRlTXdXaEhfMURDNlVqX1NGOWFXbzRYVTdHN2pPSG11Z2N4S0hCTmc2djdMTEZVSkJyUnZwTDlQcXh2Q1RXRVBXQ19tOFdnbkQ3Umk0QlZDN2R0b3Ixc1FGNXVmZ3Nvb2R4UQ?oc=5",
+      "date": "2026-10-19",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-5a63b60472",
+     "kind": "episode",
+     "title": "Bonus Add-on for EP494: ICER and the Pharma Pricing Arms Race, With Sarah Emond",
+     "url": "https://cc-lnk.com/EP494-BonusClip",
+     "date": "2025-12-04",
+     "summary": "Pharma raises list prices to maximize rebates. Higher list prices blow up patient coinsurance. Pharma responds with copay cards. PBMs fight back with maximizers and accumulators. Prior auths ramp up. Premiums rise. Deductibles climb. And…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 12
+    },
+    "read": [
+     {
+      "id": "a-bb59209d6f",
+      "kind": "article",
+      "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
+      "url": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
+      "date": "2026-10-20",
+      "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-906d7e0612",
+      "kind": "article",
+      "title": "Digital Musculoskeletal Care Is Scaling Faster Than The Evidence",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGZHajVDaFNkaW0wOENLM1lRbmJvNUloRURQOXhIV0hKYjNvZkZ1UFo5aUlXMmE5bGZET21WRHFOWEM4dGZVVGEtSXVaZGMySDdqaWZ0S3lNOGtrODZNMWZDa2QtS2xfWi02MjBmeXRCYkprd2VIYW5JWFRlQmJnQXVMVDAwQ2tnRDA0bWxGaTBHc1V5dnhJNWsyLU1LYkQ5QUZlQTdkZVk?oc=5",
+      "date": "2026-10-19",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-df6a9d9bba",
+      "kind": "article",
+      "title": "Opinion: I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying",
+      "url": "https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/?utm_campaign=rss",
+      "date": "2026-10-19",
+      "summary": "A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-19",
    "capstone": {
@@ -4049,7 +4196,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 3
+   "count": 1
   },
   {
    "id": "devex",
@@ -4073,7 +4220,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "id": "ifc",
@@ -4097,7 +4244,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "id": "nairametrics",
@@ -4115,7 +4262,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 8
+   "count": 5
   },
   {
    "id": "oop",
@@ -4127,7 +4274,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 5
+   "count": 12
   },
   {
    "id": "cure",
