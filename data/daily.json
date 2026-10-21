@@ -1,6 +1,139 @@
 {
- "updated": "2026-10-20T10:22:25+00:00",
+ "updated": "2026-10-21T10:25:54+00:00",
  "days": [
+  {
+   "date": "2026-10-21",
+   "capstone": {
+    "listenOld": {
+     "id": "e-e65c714bc3",
+     "kind": "episode",
+     "title": "Discoveries from vaccine implementation",
+     "date": "2021-11-09",
+     "summary": "The World Health Organization recently made the historic recommendation to widely use the first ever malaria vaccine, RTS,S. This recommendation was based on evidence generated from a pilot vaccine implementation programme in Ghana, Kenya…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 39
+    },
+    "read": [
+     {
+      "id": "a-7a54788670",
+      "kind": "article",
+      "title": "FG CONFIRMS EBOLA DISEASE CASE IN FCT, ACTIVATES PUBLIC HEALTH RESPONSE",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/fg-confirms-ebola-disease-case-in-fct-activates-public-health-response/",
+      "date": "2026-10-20",
+      "summary": "The Federal Government of Nigeria confirm one case of Ebola disease in the Federal Capital Territory (FCT), following laboratory confirmation today, 20 October 2026. The patient, a woman who recently arrived in Nigeria on an international…",
+      "tags": [
+       "nigeria-system",
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-c929b1f1f2",
+      "kind": "article",
+      "title": "Western Union, Payment Platform Target Nigeria In Africa Remittance Expansion",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0JfRnEzVUI1ZDhJSWItRm8wdTVTYmZGSGdIQzl5bWhtb1lnaDNMZEN4cW5rank3cE9KTWNMZWV0dlFLZTRwY1h6c2Q4djQtOWRUUC13SHd5MTVBTWhPOXFHcHZsYmc1TEZQMmxGUE1iSnI1cm9SLUNpaUpKRXhiSmcxTUExSGgxZmZFWGNaU2VqeldzdDNRWlF3TE9tTi1Y?oc=5",
+      "date": "2026-10-20",
+      "tags": [
+       "remittances",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-5554739482",
+      "kind": "article",
+      "title": "What is civil society's role in guiding a shift toward health sovereignty?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG1HLWw0aFJNS01KU182NHZhbHRNdXI5a1NqQ2tvOVAzdTlMbEVQci14X1JmclpNMjduWWU1MEtESms0QmVpZ21QLWxKZlNYTm9hQVByVW5KM1EyVVRBQVRVOFlfQW44NXprRGxPQ1V4WTJWWjR6aTNHa3BneDJMZkdIRTdLZEJ6TVQ2eGxyNENpcmtkWDF2Zl9HS3VaQVlIck5GUFdTWk54SnlKS2lyLQ?oc=5",
+      "date": "2026-10-20",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-cbbd5e309b",
+     "kind": "episode",
+     "title": "Encore! EP216: How Medicare Part D Plans Became Addicted to Drug Rebates, With Chris Sloan From Avalere Health",
+     "url": "https://healthvalue.libsyn.com/nye-encore",
+     "date": "2020-12-31",
+     "summary": "In this Encore episode, Stacey Richter talks with Chris Sloan, associate principal at Avalere Health, about how Medicare Part D plans became addicted to drug rebates — and what happens to premiums, PBMs, and pharma pricing if a proposal to…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 32
+    },
+    "read": [
+     {
+      "id": "a-b3263b127f",
+      "kind": "article",
+      "title": "The Real Savings From Generic Drugs: What Medicare Part D Data Reveals | Scott Laughery",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FTnlVMEc4Y1NYREx0TXp4THFPdkIzSV9Sc2RWMlZQNDJab0hOLUFpNjhmMkFzbTdzUVpLYWVBZWpMckZNRlJCT0hxZm1iODNpOUduclRTOE1OZGlIMGxvcnpteFBZbzRuNmFCMmxpUVc?oc=5",
+      "date": "2026-10-20",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-abef7f8acb",
+      "kind": "article",
+      "title": "A counterintuitive way to build trust in measles vaccines and public health",
+      "url": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss",
+      "date": "2026-10-21",
+      "summary": "Some experts say public health messaging would be more credible if it focused less on measles deaths and acknowledged that most children survive.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-5e89e14d68",
+      "kind": "article",
+      "title": "Opinion: Replication is necessary even if scientists do everything right",
+      "url": "https://www.statnews.com/2026/10/21/nih-replication-process-type-1-error-bhattacharya/?utm_campaign=rss",
+      "date": "2026-10-21",
+      "summary": "“Committing a Type 1 error does not reflect poorly on the quality of the science done,” writes Mark Louie F. Ramos",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-20",
    "capstone": {
@@ -4175,6 +4308,21 @@
   ],
   "s-amce": [
    {
+    "id": "a-9e7dcb2164",
+    "kind": "article",
+    "title": "Medical Tourism: When The Rich Fly Abroad To Survive",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVVmRmc2lwNGpseTR4X2NCX0pDdkpnaHVWVk01cFhUdWQ1UlI0aWwtby1jZEhYUHl0VUFXeXlEUGU0bnR3dFRFaE84cGg1UVpTTGdoYjAwNVFjMnhKR1otQnliakc5VDJucFNwWDVNRkpycGpXT2JLVXBXQUF3ekk?oc=5",
+    "date": "2026-10-20",
+    "tags": [
+     "investment"
+    ],
+    "tracks": [
+     "capstone"
+    ],
+    "source": "Leadership.ng",
+    "attached": "2026-10-21"
+   },
+   {
     "id": "a-7ab5b6d833",
     "kind": "article",
     "title": "66 Years Of Promises: From Mission Hospitals To Medical Tourism",
@@ -4196,13 +4344,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "brookings-agi",
@@ -4214,13 +4362,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "ifc",
@@ -4244,7 +4392,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 4
+   "count": 9
   },
   {
    "id": "nairametrics",
@@ -4262,7 +4410,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 5
+   "count": 7
   },
   {
    "id": "oop",
@@ -4274,7 +4422,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 12
+   "count": 15
   },
   {
    "id": "cure",
