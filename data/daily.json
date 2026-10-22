@@ -1,6 +1,153 @@
 {
- "updated": "2026-10-21T10:25:54+00:00",
+ "updated": "2026-10-22T10:27:06+00:00",
  "days": [
+  {
+   "date": "2026-10-22",
+   "capstone": {
+    "listenOld": {
+     "id": "e-da6ab4e8a2",
+     "kind": "episode",
+     "title": "Dialogues: a conversation with Amani Ballour on conflict, courage and accountability",
+     "date": "2026-05-26",
+     "summary": "In this episode of Dialogues, we learn how courage can turn a hospital basement into a symbol of defiance . Host Garry Aslanyan is joined by Dr Amani Ballour, a Syrian paediatrician and the first female doctor of a hospital in a Syrian war…",
+     "tags": [
+      "workforce"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 38
+    },
+    "read": [
+     {
+      "id": "a-a7bfb46148",
+      "kind": "article",
+      "title": "Race to Uncover Travel Path of Nigeria’s First Ebola Patient",
+      "url": "https://healthpolicy-watch.news/race-to-uncover-travel-path-of-nigerias-first-ebola-patient/",
+      "date": "2026-10-21",
+      "summary": "Nigeria’s lone Ebola patient was only diagnosed almost two weeks after showing symptoms – and is reported to have travelled to the capital, Abuja, from Uganda via Addis Ababa in Ethiopia. She entered Nigeria on 3 October, started showing…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-a0b368dabe",
+      "kind": "article",
+      "title": "Nigeria to Launch 2026–2030 Malaria Strategic Plan and 2025 Malaria Indicator Survey Report",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/nigeria-to-launch-2026-2030-malaria-strategic-plan-and-2025-malaria-indicator-survey-report/",
+      "date": "2026-10-21",
+      "summary": "New strategic framework and survey findings to guide evidence-based interventions and accelerate progress towards malaria elimination in Nigeria. The National Malaria Elimination Programme (NMEP) of the Federal Ministry of Health and…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-34bca4d93a",
+      "kind": "article",
+      "title": "Meet 7 diaspora Nigerians appointed to top global roles in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzl1Ym9GYzZLRmN3YmlaN0VDdnZ2Y0JRdG51QnlJbjFrc2JjSVlzdF9Vc2lDRDB2SkhwVDk2VVd0NTJpNzJuOG9KWEw2QWlkdW14b2JmcVROcjF0U1prTzUtR2syVGxkUXBjZ19OeDBiLW1Qb2YtZGtzcGdMQTZJYnBZSkEyaUc1Y0RkQUsxODNyWmFiNWFfZ09qSlo0WnM0RlE?oc=5",
+      "date": "2026-10-21",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nairametrics"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-abef3e8440",
+     "kind": "episode",
+     "title": "Medicare Plans Keep Disappearing",
+     "url": "https://tradeoffs.org/2026/10/22/medicare-plans-keep-disappearing",
+     "date": "2026-10-22",
+     "summary": "Our friends at An Arm and a Leg dig into why Medicare Advantage plans that cover millions of seniors are disappearing from the market. This story was produced for An Arm and a Leg by Emily Pisacreta, with help from Lynn Barbera and Dan…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 39
+    },
+    "listenOld": {
+     "id": "e-aa025e41b4",
+     "kind": "episode",
+     "title": "The Personal and Political Fight to Keep Abortion Legal in Michigan",
+     "url": "https://tradeoffs.org/2022/06/23/abortion-michigan-roe-dobbs/",
+     "date": "2022-06-23",
+     "summary": "A personal and political fight to keep abortion legal in Michigan is in full swing. Michigan is one of more than 20 states poised to ban abortion if Roe v. Wade falls. Politico’s Alice Miranda Ollstein speaks with one woman who got an…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 20
+    },
+    "read": [
+     {
+      "id": "a-85c888f7f5",
+      "kind": "article",
+      "title": "Opinion: What I got wrong about the Affordable Care Act — and how to fix it",
+      "url": "https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/?utm_campaign=rss",
+      "date": "2026-10-22",
+      "summary": "“The big mistake, ironically, was the ACA’s lack of focus on affordability,” writes Dana Goldman.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-4d1630a470",
+      "kind": "article",
+      "title": "Opening The Black Box Of Medicaid Physician Payment: Medicaid Managed Care And State-Directed Payments",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwWEZ2Vnd4OGFPRThUemkwbnExMmhlZ241M3hkTFg4Q2RYQzNRVTgzZWFkZnp4bFFBUzNsLXBFMTFaQlBIM2o3NFlLRnRaZXRuN29MUkt2ajNJX1JtLXhweWhNNlc3S1F6ZWI3Zw?oc=5",
+      "date": "2026-10-21",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-a76a9e1b7b",
+      "kind": "article",
+      "title": "Healthcare business ideas someone should build",
+      "url": "https://www.outofpocket.health/p/healthcare-ideas-someone-should-build",
+      "date": "2026-10-21",
+      "summary": "If you build any of these...I want credit and a smidge of equity",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-21",
    "capstone": {
@@ -4350,7 +4497,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "brookings-agi",
@@ -4362,13 +4509,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "ifc",
@@ -4398,7 +4545,7 @@
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "eudif",
@@ -4410,7 +4557,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 7
+   "count": 4
   },
   {
    "id": "oop",
@@ -4422,7 +4569,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 15
+   "count": 17
   },
   {
    "id": "cure",
@@ -4452,7 +4599,7 @@
    "id": "tradeoffs",
    "name": "Tradeoffs",
    "ok": true,
-   "count": 335
+   "count": 336
   },
   {
    "id": "wth",
