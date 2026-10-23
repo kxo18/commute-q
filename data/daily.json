@@ -1,6 +1,156 @@
 {
- "updated": "2026-10-22T10:27:06+00:00",
+ "updated": "2026-10-23T10:24:40+00:00",
  "days": [
+  {
+   "date": "2026-10-23",
+   "capstone": {
+    "listenOld": {
+     "id": "e-148cf23423",
+     "kind": "episode",
+     "title": "Dialogues: a conversation with Alex Brewis on stigma, empathy and equity",
+     "date": "2025-12-09",
+     "summary": "Dialogues is a series from the Global Health Matters podcast where we bring you interviews featuring fresh perspectives on global health issues. The goal of each Dialogues episode is to break through the echo chambers that exist in global…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 43
+    },
+    "read": [
+     {
+      "id": "a-4c070db23c",
+      "kind": "article",
+      "title": "Strengthening Nigeria’s Health Workforce to Prevent Maternal and Child Deaths",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/strengthening-nigerias-health-workforce-to-prevent-maternal-and-child-deaths/",
+      "date": "2026-10-23",
+      "summary": "Nigeria does not lack maternal and child health policies, programmes or commitments. What it lacks is enough skilled, supported and fairly deployed health workers to turn those commitments into care. The country still contends with…",
+      "tags": [
+       "workforce",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-9365416740",
+      "kind": "article",
+      "title": "Did Nigeria and Kenya’s Ebola Patients Cross Paths in Uganda Airport?",
+      "url": "https://healthpolicy-watch.news/did-nigeria-and-kenya-ebola-patients-cross-paths-in-uganda-airport/",
+      "date": "2026-10-22",
+      "summary": "Nigeria’s first Ebola Bundibugyo patient may have crossed paths with Kenya’s recently deceased index patient at Uganda’s Entebbe Airport on 3 October, according to Dr Wessam Mankoula, head of health emergencies at Africa Centre for Disease…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-92569977cf",
+      "kind": "article",
+      "title": "Devex Newswire: Was USAID’s demise as bad as it seemed?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEc1ZmdkNzRiSGttZ29ubzR0UjgtVEpQYXVGT08yZ3BsaGZsSGJPZlNlZEVRUU9wWnYzNTdZTlhBbEt3alZDWXNxa0o0ako1ZllEYVh2SnhrclJmTWxOOTRrbHJKVG9WWk9tdDNrUndBOXhMTERHbkNITWZvTXVCMXh2eUdkNGktVTlLaTE5RGVEY3Bnd1E?oc=5",
+      "date": "2026-10-22",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-c84119b261",
+     "kind": "episode",
+     "title": "Medicaid Is Now a Campaign Issue",
+     "url": "https://play.prx.org/listen?ge=prx_14448_a277b6b2-04a6-4a9c-869e-98e708954ccd&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-10-22",
+     "summary": "Republicans tried to backload federal cuts to Medicaid in their 2025 budget bill so they would take effect after the 2026 elections, but that’s not stopping Democrats from using them to hammer their opponents. Meanwhile, the Trump…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 40
+    },
+    "listenOld": {
+     "id": "e-a922d11673",
+     "kind": "episode",
+     "title": "EP299: FFS (Fee for Service) Is a Whole Business Model—It's Not Just a Way to Get Paid, With Alan Kaplan, MD, MBA, Assistant Professor of Urology at Georgetown University and a Practicing Urologist",
+     "url": "https://healthvalue.libsyn.com/ep299-dr-alan-kaplan",
+     "date": "2020-11-05",
+     "summary": "In Episode 299, Stacey Richter talks with Alan Kaplan, MD, MBA, assistant professor of urology at Georgetown University and a practicing urologist, about why fee-for-service is a whole business model — not just a way to get paid — and what…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 32
+    },
+    "read": [
+     {
+      "id": "a-a1578607f3",
+      "kind": "article",
+      "title": "Health insurance premiums jump 9%, and more Americans don’t have access to coverage",
+      "url": "https://www.statnews.com/2026/10/22/health-news-insurance-premiums-jump-more-americans-lose-coverage/?utm_campaign=rss",
+      "date": "2026-10-22",
+      "summary": "Working-age U.S. adults without health insurance rose in 2026. Half of all uninsured people did not seek needed care because of cost concerns, according to a new survey.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-2b8e38812d",
+      "kind": "article",
+      "title": "Administration Finalizes Medicare Part B International Reference Pricing Model",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMWRpLUNtTThtc0h4SVFqdTY4TnVDZUxMblU5SGtIUzJNck82QUtTRzRrcFNnR3RTOElZQWZBT1I2b3FhcFZ0N1RQOW1LMHVfaUtmY0Z5ZkVhT0VpaEE5d2lGQzhEbW96cUJ3MFd3S1A5eWtMUkRXenAyWm1RUXF4Y0Q0bUlJYXp4c2JiZExTbzN6bXNmZFBZbUlHXzBrVUxKdGJxQ2RiTlJnYzhqa3ZWUTBlT19GY2NoUjhHYkdTTXhLUlhK?oc=5",
+      "date": "2026-10-22",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-afa42ff21b",
+      "kind": "article",
+      "title": "Opinion: New Medicare policies will keep important pain relief from some patients",
+      "url": "https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss",
+      "date": "2026-10-23",
+      "summary": "For some people, simply putting on pants can be excruciatingly painful. New policy will put pain relief out of reach for many, doctor writes.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-22",
    "capstone": {
@@ -4509,7 +4659,7 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "giin",
@@ -4527,7 +4677,7 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "nhw",
@@ -4539,13 +4689,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "eudif",
@@ -4557,7 +4707,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 4
+   "count": 6
   },
   {
    "id": "oop",
@@ -4569,7 +4719,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 17
+   "count": 22
   },
   {
    "id": "cure",
@@ -4605,7 +4755,7 @@
    "id": "wth",
    "name": "KFF Health News: What the Health?",
    "ok": true,
-   "count": 471
+   "count": 472
   },
   {
    "id": "readout",
