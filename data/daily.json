@@ -1,6 +1,154 @@
 {
- "updated": "2026-10-23T10:24:40+00:00",
+ "updated": "2026-10-24T10:20:43+00:00",
  "days": [
+  {
+   "date": "2026-10-24",
+   "capstone": {
+    "listenOld": {
+     "id": "e-977d2c5698",
+     "kind": "episode",
+     "title": "Trailblazers with Garry: a conversation with Adalsteinn (Steini) Brown",
+     "date": "2025-08-28",
+     "summary": "\" Trailblazers with Garry\" is a new series from Global Health Matters, where host Dr Garry Aslanyan sits down with trailblazers — thinkers, leaders, and influencers shaping the future of global health — for short face-to-face…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 21
+    },
+    "read": [
+     {
+      "id": "a-1059789f00",
+      "kind": "article",
+      "title": "Nigeria’s Health Sovereignty Begins with Funding and Accountability in the Global Health Reset",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/nigerias-health-sovereignty-begins-with-funding-and-accountability-in-the-global-health-reset/",
+      "date": "2026-10-23",
+      "summary": "In early 2025, the United States’ pause on foreign assistance raised concerns about funding gaps in health programmes. During the 2025 budget process, Nigeria included a provision of about US$200 million, approximately ₦300 billion at the…",
+      "tags": [
+       "nigeria-system",
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-cf0afdda87",
+      "kind": "article",
+      "title": "Donors Weren’t Spending a Lot on Evidence. It’s Now Going Off a Cliff.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHY5bkl2em5mdng3WU14TkNUTUlncjNSaXJyTGl1c3BHZVJmYTJ6UkFLZnpyTlpBeFhoOXZQNHlMQTVMdVVjQXJnRGwtZUpRUVc4TFhzMVptd0ZxU2Z1ZkxxUzRpNnVjSnk5bzlwSTNvUVdtR1ZXSkpZaFR6Y09tYXlMaGcxZFlkd0E?oc=5",
+      "date": "2026-10-23",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-83406988b3",
+      "kind": "article",
+      "title": "Hans Kluge: ‘WHO’s Biggest Advocate, Most Candid Critic’ – And an Inside Reformer?",
+      "url": "https://healthpolicy-watch.news/hans-kluge-inside-reformer/",
+      "date": "2026-10-22",
+      "summary": "Who will steer the World Health Organization through its next chapter? Explore Health Policy Watch’s daily series examining the platforms, records, and institutional hurdles facing each contender for WHO Director-General, continuing today…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-852cdcac88",
+     "kind": "episode",
+     "title": "The One Question to Test if a TPA Is Actually Independent, With Kimberly Carleson",
+     "url": "https://cc-lnk.com/EP534",
+     "date": "2026-10-21",
+     "summary": "Is Your TPA Truly Independent? The One Claims Audit Question to Ask, With Kimberly Carleson (EP534) The Red Flag Question That Reveals Whether a TPA Works for Your Plan or for the Network. Episode 534. What's a practical, speedy way to…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 9
+    },
+    "listenOld": {
+     "id": "e-893ce1e078",
+     "kind": "episode",
+     "title": "The Train Has Left the Station",
+     "url": "https://play.acast.com/s/tradeoffs/thetrainhasleftthestation",
+     "date": "2019-10-30",
+     "summary": "Many hospitals have spent the last 30 years buying up their competitors big and small. What have these mergers and acquisitions done to the cost and quality of care, and where do we go from here? Guests: Jaime King, Associate Dean and…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 20
+    },
+    "read": [
+     {
+      "id": "a-732fd87939",
+      "kind": "article",
+      "title": "Anxiety builds over Medicaid work requirements",
+      "url": "https://www.statnews.com/2026/10/23/medicaid-work-requirements-anxiety-morning-rounds-health-news/?utm_campaign=rss",
+      "date": "2026-10-23",
+      "summary": "As a Boston judge heard a challenge to Medicaid work requirements, state Medicaid directors gathered in Maryland to figure out how to implement those sweeping changes.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-71589a7c2e",
+      "kind": "article",
+      "title": "Advancing Social Risk Adjustment In Value-Based Payment",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2dOcFNfOTRFZEtBRVdxZTRPMXNZVEg2NjYzVzNKeFhKcjAxd2gtbW1LVEU2dW5ZaTd5RlA5SnRQdmtkTndDdzRIQThUTlZ3dWZzbmVfd0oxTDRJc2FwNDBZUWxZVG0yR1Y1TzdNbjM2QjZpb2wtUXR3MElSVktuLVlFamhCcS1uWDNZQ2xMWi05cGJ2dzlfNi04eDdrbm5wQ3c?oc=5",
+      "date": "2026-10-23",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-9afef97e0d",
+      "kind": "article",
+      "title": "Center for Early Learning Excellence",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUHc5dmRVTWo0SWFQdmN1VFMxemNIRV9lZmU1eU9rQi0wcEhrVUJfbW1oc21WSUtLcHM1VGN2NWplMlVlTFdiZmJIa0tPQkFDdFZxMHJvQkszRDJLZ0lxMmpzc05HWTBFNEE?oc=5",
+      "date": "2026-10-23",
+      "tags": [
+       "investment",
+       "development-finance"
+      ],
+      "tracks": [
+       "capstone",
+       "career"
+      ],
+      "source": "GIIN"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-23",
    "capstone": {
@@ -4641,19 +4789,19 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "hpw",
@@ -4665,7 +4813,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "ifc",
@@ -4677,7 +4825,7 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "nhw",
@@ -4689,7 +4837,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "nairametrics",
@@ -4707,7 +4855,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "id": "oop",
@@ -4719,7 +4867,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 22
+   "count": 25
   },
   {
    "id": "cure",
@@ -4761,7 +4909,7 @@
    "id": "readout",
    "name": "The Readout LOUD",
    "ok": true,
-   "count": 422
+   "count": 423
   }
  ]
 }
