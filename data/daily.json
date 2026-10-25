@@ -1,6 +1,156 @@
 {
- "updated": "2026-10-24T10:20:43+00:00",
+ "updated": "2026-10-25T10:19:54+00:00",
  "days": [
+  {
+   "date": "2026-10-25",
+   "capstone": {
+    "listenOld": {
+     "id": "e-db7e609718",
+     "kind": "episode",
+     "title": "Risks and opportunities of STEM education in Africa",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2023-04-26",
+     "summary": "In this episode of Foresight Africa podcast, Ruth Kagia, senior fellow at Results for Development and former country director for Southern Africa at the World Bank, discusses the risks and opportunities of STEM education in Africa. She…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 35
+    },
+    "read": [
+     {
+      "id": "a-2a8ed9bd8c",
+      "kind": "article",
+      "title": "When Facts Are Not Enough: What Really Shapes Trust in Health",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/when-facts-are-not-enough-what-really-shapes-trust-in-health/",
+      "date": "2026-10-25",
+      "summary": "Picture a mother in Nigeria who is hesitant to vaccinate her child because she has heard that the vaccine could affect fertility. A family member has shared a frightening story about the vaccine, further questioning its safety. Even though…",
+      "tags": [
+       "workforce",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-723148903c",
+      "kind": "article",
+      "title": "Weekly links October 23: macro impacts of migration on poverty, big African cities and jobs, how to read a paper, and more…",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUk1SQWxraHVvNGZ3R25pYlljTDloNVFJTWU3ckRyem1WdC1pNHlKTXJ6dTh2a3N2QTZ3cmxXRU5FRjRPTGg3UXpKX3c2eHNaWHV6S2ZLRzd4VnotMnMwVGVHNm9kZllPVThOS1F4TVVpTVlEai1XU0VqNHh1UWhzMzlMZWRUSmdkel9GNDZMdklzVkhpUWdsZGpadjNZVW41Z3Zua05WTndDZ3dsUk5NbE41MA?oc=5",
+      "date": "2026-10-23",
+      "tags": [
+       "remittances"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "World Bank People Move"
+     },
+     {
+      "id": "a-8d7c545409",
+      "kind": "article",
+      "title": "Health Is Economic Infrastructure: Why Nigeria Must Invest in Health",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/health-is-economic-infrastructure-why-nigeria-must-invest-in-health/",
+      "date": "2026-10-23",
+      "summary": "The recently concluded World Health Summit in Berlin, themed “From Crisis to Resilience: Innovating for Health”, reinforced a key message: health spending is an investment, not just an expense. Yet Nigeria’s 2026 Appropriation Bill…",
+      "tags": [
+       "nigeria-system",
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-ce81221ef6",
+     "kind": "episode",
+     "title": "418: Remembering STAT’s Helen Branswell",
+     "date": "2026-10-23",
+     "summary": "Helen Branswell was a renowned infectious disease reporter who earned the respect and admiration of experts and public health officials with her authoritative, prescient reporting on the flu, polio, Ebola and the Covid-19 pandemic. This…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 35
+    },
+    "listenOld": {
+     "id": "e-1f1826dbf7",
+     "kind": "episode",
+     "title": "EP353: What You Need to Know About Specialty Pharmacy Formularies and Rebating, With Pramod John, PhD",
+     "url": "https://healthvalue.libsyn.com/ep353",
+     "date": "2022-02-03",
+     "summary": "How Specialty Pharmacy Rebates and Formularies Really Work, With Pramod John, PhD. Inside the Rebate Math That Decides Which Specialty Drugs Make Your Formulary. Episode 353. In part 2 of her conversation with Pramod John, PhD, founder and…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 31
+    },
+    "read": [
+     {
+      "id": "a-84397d5dc5",
+      "kind": "article",
+      "title": "Proposed Changes To The US Census Raise A Fundamental Question: Who Counts?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeDRkekdjOFMyRkRWVWtGcWJGcktZUEdFZDZvUl9KcDR1NTVqUUxabldTUEtUNy1MdHZZU1JYV3FmVkZZalY3cDdTcWVoM0V6V2tlQUxzWEtwdjBOUnZtQTdoUGxDRWpZVE1xQVBIXzdCdlV3bThCTGI5RXY4LWM5NEFmeDRxSWZGOFRqMzlidHpIWGU2X1J3d1daSlIzMzZTa1RqbVh4NEktNDcy?oc=5",
+      "date": "2026-10-23",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-c276ba74a1",
+      "kind": "article",
+      "title": "To Break Down The Silos Of LTSS, Build The Infrastructure For Shared Care",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzA0RUlHTktCcjJIdks2d1E5UVFBY3oyNTNGa1NMOUFoNFJKMUk3MGNMVW5XSEdWa1kyazJZbFFLRDJZT3phMExRQ0Z5MXVSYVVIZHlqTkUzTXhDUElyNnh1SjdHbmJyc0xmNzFSN1BRdDlzYzNuZnhxaS02WElTaW5MaHZGZ3doRU85Z2VJZXBpZTl2OFAyd3ZkUnJYVURLQnUtZw?oc=5",
+      "date": "2026-10-22",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-468fec13c3",
+      "kind": "article",
+      "title": "Valecia Hanna",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52VThYcGpuUmZEWTVIYTNXcmJjVFNvSDdhNlBlVzJpZkJrUFB6NDVLQUVCSzQzV2libE9Ta2lMMjlYVG9nUzBNdUdCN2tpMXpRS3FuZEhKUE4xOVdKWHFpTFJ3Sm1ZZEZlbXNFbHZxenc1UGFVcko1Wg?oc=5",
+      "date": "2026-10-22",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-24",
    "capstone": {
@@ -4795,13 +4945,13 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "hpw",
@@ -4837,7 +4987,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "id": "nairametrics",
@@ -4855,7 +5005,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 4
+   "count": 2
   },
   {
    "id": "oop",
@@ -4867,7 +5017,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "id": "cure",
