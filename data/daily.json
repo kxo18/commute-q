@@ -1,6 +1,155 @@
 {
- "updated": "2026-10-25T10:19:54+00:00",
+ "updated": "2026-10-26T16:32:31+00:00",
  "days": [
+  {
+   "date": "2026-10-26",
+   "capstone": {
+    "listenNew": {
+     "id": "e-b1641c3b96",
+     "kind": "episode",
+     "title": "The Inside Track: Rain, needs, and the End Game",
+     "date": "2026-10-26",
+     "summary": "Related episode documents, transcripts and other information can be found on our website . Subscribe to the Global Health Matters podcast newsletter. Follow us for updates: @TDRnews on X TDR on LinkedIn @ghm_podcast on Instagram…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 64
+    },
+    "listenOld": {
+     "id": "e-db373ceccc",
+     "kind": "episode",
+     "title": "A fairer credit rating system for African countries could save billions",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2024-07-10",
+     "summary": "Subjectivity and bias in credit ratings cost African countries up to $24 billion in interest and over $46 billion in foregone lending . On this episode, ho st Landry Signé is joined by Raymond Gilpin and Daouda Sembene to discuss their…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 44
+    },
+    "read": [
+     {
+      "id": "a-03d8941abf",
+      "kind": "article",
+      "title": "Budi Sadikin: Physicist, Banker, Reformer – And a Balance Sheet Expert for Global Health Crises?",
+      "url": "https://healthpolicy-watch.news/sadikin-balance-sheet-expert-health-crises/",
+      "date": "2026-10-26",
+      "summary": "Who will steer the World Health Organization through its next chapter? Explore Health Policy Watch’s daily series examining the platforms, records, and institutional hurdles facing each contender for WHO Director-General, continuing today…",
+      "tags": [
+       "comparators",
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-d43807ca99",
+      "kind": "article",
+      "title": "Nigeria’s remittance inflows hit $1.57 billion, May and June fuel record surge",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2dfdmpZdS1uMVJQSndCS0N1bEtBVmFaUjhSenlZZ0RmRUxvdmxnRWNlR2Fpa0dLWHktWnFxZ3FRdURoSk9NLW5TbG5mb1dudkptQV9JTWg3M0JyemxfZHB4YzNXNF9BR2l1OEhOaWhOZTFDc1lZaWwwWjU4T0R0YlB2RGp3V29KMzdsbHlSTFhwNDd6b3BZUjNmcjFnMHkwWnVJQTQya2NmTnhCbTZpelR3?oc=5",
+      "date": "2026-10-26",
+      "tags": [
+       "remittances",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nairametrics"
+     },
+     {
+      "id": "a-532047c1f1",
+      "kind": "article",
+      "title": "First participants vaccinated with Oxford’s CEPI-backed Lassa shot in Ghana",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/first-participants-vaccinated-with-oxfords-cepi-backed-lassa-shot-in-ghana/",
+      "date": "2026-10-26",
+      "summary": "Landmark new research has launched in Ghana assessing the University of Oxford’s promising vaccine candidate against Lassa fever, the deadly viral disease which affects hundreds of thousands across West Africa each year. The first…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-118965f346",
+     "kind": "episode",
+     "title": "Encore! EP381: For Reals, Becoming Customer-centric, Transforming, or Innovating at a Very Large Organization, With Karen Root",
+     "url": "https://cc-lnk.com/Encore381",
+     "date": "2023-11-23",
+     "summary": "\"The Achilles' heel for most healthcare innovators is overlooking the role of change management,\" as a recent tweet from Rik Renard put it — the deal isn't sealed until the whole team is on board, and adoption never automatically follows a…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 32
+    },
+    "read": [
+     {
+      "id": "a-d5159d7c56",
+      "kind": "article",
+      "title": "Implementing Medicaid Community Engagement Requirements And A Reply To Frank And Glied",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORjAydHlpcGh0TFdJOXU5NHZtNTVzTGVrZ3Y5cUg0S3NVVTRMYld6SWhfQzcxbmpYdWlOY0lPTy1kVlJyQmRZVHZyWnRMd0g5dWRQcG9fUkt2aFQ5VXJZV2FwTWRlZ2NxQzI5a2ZmalRfYWs1ZUpnSl9WWWw1ejJNeUdiRWllT2o2WVFpZ2xzdk83d1NIdXZ2Nmt1bWVnVmFxU1FQTko4Y0pUSHJaTXlVR0lLN1Y5VGlkVklDa280ZVNQS2hfUkkxWQ?oc=5",
+      "date": "2026-10-26",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-40af224c3d",
+      "kind": "article",
+      "title": "Opinion: How bad is healthy supposed to feel?",
+      "url": "https://www.statnews.com/2026/10/26/how-bad-should-a-healthy-person-feel/?utm_campaign=rss",
+      "date": "2026-10-26",
+      "summary": "“We shouldn't confuse illness and the hardships that come with living,” writes family nurse practitioner Kirsten Balin.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-08015687f6",
+      "kind": "article",
+      "title": "Casey B. Mulligan",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VWWZEbndVTTBtQlFTbkFyX0p5c0lac2w2OGJWLW51d3NuVU1wcXk1TVJiWUNwTlVqb3I2RmJZOE5VaXBUUWFoNUhxRVRiQlpVVDMteXg1SnYxN29DNW9QUHFISWVHUjJPNDE1SVRJM1ZrdHpYT0E2TA?oc=5",
+      "date": "2026-10-26",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-25",
    "capstone": {
@@ -4903,6 +5052,21 @@
   ],
   "s-amce": [
    {
+    "id": "a-00af5ee926",
+    "kind": "article",
+    "title": "Medical Tourism: Monarch Calls For Specialist Hospitals In Every State",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUNZdGw3Z0ZrTFRNVkM3OTB3aXd4MGR3bE9MTjJ1N05qUDRkUXdiRXRTX0I5QjlwU2txNDlIOUpweEpza0lMNW9mM19PMGVIUjVFalpxbF9DVDdOMUEtTEdKMUN0aFN5cld6LXhncmNRdXdRMDZwdkZJSWZaekk2OTJaeWVUUFJZX0czMUVhODRLUzZRYVo4?oc=5",
+    "date": "2026-10-25",
+    "tags": [
+     "investment"
+    ],
+    "tracks": [
+     "capstone"
+    ],
+    "source": "Leadership.ng",
+    "attached": "2026-10-26"
+   },
+   {
     "id": "a-9e7dcb2164",
     "kind": "article",
     "title": "Medical Tourism: When The Rich Fly Abroad To Survive",
@@ -4963,7 +5127,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 3
+   "count": 5
   },
   {
    "id": "ifc",
@@ -4993,7 +5157,7 @@
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "eudif",
@@ -5005,7 +5169,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "oop",
@@ -5017,7 +5181,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "id": "cure",
@@ -5035,7 +5199,7 @@
    "id": "ghm",
    "name": "Global Health Matters",
    "ok": true,
-   "count": 93
+   "count": 94
   },
   {
    "id": "rhv",
