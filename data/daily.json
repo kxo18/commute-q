@@ -1,6 +1,135 @@
 {
- "updated": "2026-10-26T16:32:31+00:00",
+ "updated": "2026-10-27T15:45:07+00:00",
  "days": [
+  {
+   "date": "2026-10-27",
+   "capstone": {
+    "listenOld": {
+     "id": "e-53e3ac8b3f",
+     "kind": "episode",
+     "title": "Bonus episode: What’s behind your favourite podcast?",
+     "date": "2024-05-16",
+     "summary": "This bonus episode is slightly different as our Executive Producer and Host Garry Aslanyan changes seats with Senior Producer, Lindi van Niekerk , to look behind the scenes of the Global Health Matters podcast. Many of you, our listeners,…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 28
+    },
+    "read": [
+     {
+      "id": "a-76a6c0bb07",
+      "kind": "article",
+      "title": "Why Nigerian Businesses Miss The Diaspora Customers Already Searching For Them",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGxKVHg1V1VhMU1kNGNzV1VicmE0S09DSFRfcG9oazA4aFIyN2lMRGdrdERuV0JJRWJldDdwb09Sb3QybTB5c2EydkVMRTl0azBWbDRWVzMyVk1STmVsbm5QN0g2QU1xWXMzR1lEVWl5RGpmdW12OGtMR2ZFTnR6QXI5eUNULTlvYzhxVUNyREpQSUhjdllTeHlBNU9sWVBjekxv?oc=5",
+      "date": "2026-10-27",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-baccef0d36",
+      "kind": "article",
+      "title": "Song Li: Maternal And Primary Health Leader, Beijing Veteran – And a Test Case for Post-US Multilateralism?",
+      "url": "https://healthpolicy-watch.news/song-li-test-case-multilateralism/",
+      "date": "2026-10-27",
+      "summary": "Who will steer the World Health Organization through its next chapter? Explore Health Policy Watch’s daily series examining the platforms, records, and institutional hurdles facing each contender for WHO Director-General, continuing today…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-6048ac3673",
+      "kind": "article",
+      "title": "Nigeria Health Watch and ACIOE Foundation Launch New Phase of Maternal Health Advocacy Project to Advance Policy Action and Investment in Nigeria",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/nigeria-health-watch-and-acioe-foundation-launch-new-phase-of-maternal-health-advocacy-project-to-advance-policy-action-and-investment-in-nigeria/",
+      "date": "2026-10-27",
+      "summary": "Nigeria Health Watch, in partnership with ACIOE Foundation and with support from MSD for Mothers, has commenced a new phase of the Maternal Health Advocacy and Communications (MHAC) Project, aimed at advancing policy action, strategic…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-103ac4780f",
+     "kind": "episode",
+     "title": "Trump and the ACA",
+     "url": "https://play.acast.com/s/tradeoffs/trumpandtheaca",
+     "date": "2020-09-14",
+     "summary": "What impact have Donald Trump’s policies had on the Affordable Care Act and the way health insurance works in the U.S.? The first episode in a special two-week series on health care and the presidential election, examining the health…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 12
+    },
+    "read": [
+     {
+      "id": "a-680c04ae64",
+      "kind": "article",
+      "title": "Medicare Policy Priorities For MedPAC’s 2026–2027 Analytic Agenda",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlJyblpVVEU2NGh0RDF2emhjVTFOYUh3WjZ5MlctMnhwYkdYdFNDbm5wa0dpTGpwZ2NoMVU3S2JSZFotVWFhbTFXUjVtMVhPMlQwVmhOTFQwRW1wZXltajNxSHlkRnhaVlNQSHpHSzdXYkMxVDFTbnFzaVJrT0lkUmRnTWlQNDJVTEtVelRhNV9rV3ZDVlNhcGoyMnZIZHVKTndnUlNRamxtbnNVUFE?oc=5",
+      "date": "2026-10-27",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-a9aaaca703",
+      "kind": "article",
+      "title": "A possible treatment for brain-eating amoebas, found in the sea",
+      "url": "https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/?utm_campaign=rss",
+      "date": "2026-10-27",
+      "summary": "Brain-eating amoebas are hard to treat and nearly always fatal. But researchers have isolated a compound that could help stop the disease.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-7711d8536b",
+      "kind": "article",
+      "title": "Do Provider-Owned Health Plans Lower Healthcare Costs? New Evidence on Vertical Integration | Mitchell Mead",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ja0pvRmVJZnBDUXFnWWp1OUdJaGpvNjdIdEl1aVVWMTlHeG5VN3d6c2hONUxUdFVTRWtvN3lRSFR3ckdtYzNLZUp1V3o3cVU5cVdhOUJVN2tCczhPMGp6bjBtRVVNZ0FuaGo0QTFnODNRZw?oc=5",
+      "date": "2026-10-27",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-26",
    "capstone": {
@@ -5109,7 +5238,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 4
+   "count": 2
   },
   {
    "id": "brookings-agi",
@@ -5151,7 +5280,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "id": "nairametrics",
@@ -5169,7 +5298,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "oop",
@@ -5181,7 +5310,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "id": "cure",
