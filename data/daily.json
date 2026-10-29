@@ -1,6 +1,156 @@
 {
- "updated": "2026-10-28T16:27:29+00:00",
+ "updated": "2026-10-29T16:38:50+00:00",
  "days": [
+  {
+   "date": "2026-10-29",
+   "capstone": {
+    "listenOld": {
+     "id": "e-9d3d36276b",
+     "kind": "episode",
+     "title": "A Nigerian entrepreneur shares her story of innovation and transformative leadership",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2023-06-21",
+     "summary": "Ada Osakwe, a Nigerian innovator and business leader, talks about her role as an innovative entrepreneur and transformative investor. Osakwe founded the Nuli Juice Company and Agrolay Ventures, and was named Forbes Woman Africa…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 41
+    },
+    "read": [
+     {
+      "id": "a-b4c07caa07",
+      "kind": "article",
+      "title": "State and Size of the Impact Investing Market 2026: Data, Decisions and Future Directions",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82NUJlbTRlNl9RbVZXbjZmaFVoaU5CcXZNcEVBUWtreEM3eURqQVM0dzNna2Zzb3lfc0FwSE5GSlBtN3pQRXNsOWFHSXl1aWNjeUplODlMUFV5MkFpbklfSDZXaUN4Zy1WR1h5OW1Md2ZQZnJF?oc=5",
+      "date": "2026-10-28",
+      "tags": [
+       "investment",
+       "development-finance"
+      ],
+      "tracks": [
+       "capstone",
+       "career"
+      ],
+      "source": "GIIN"
+     },
+     {
+      "id": "a-eaeb48174d",
+      "kind": "article",
+      "title": "Devex CheckUp: Former Global Fund ED Mark Dybul returns for second term",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm1tWjlCWVAtMEROczd1dUljSTd4ZDdhNGFXVm10R21ESFpyRFhJcmV1RGdJMnZuU0s3MnI5QVJHU0kzLVdLZE9mcklicElKWkdwb1ItaGwwdGJYYl9KLTZCRzA2dFNnOE9XM3hXS0FMcEREc0lSTjZ1eDYzanFPcnV1MDEzeXNxWHR4VkpWMGR3ZFRDU0h1Y01JcGc0Ml84TUVjRUswTEdJTHBf?oc=5",
+      "date": "2026-10-29",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-cb7a5e1616",
+      "kind": "article",
+      "title": "The 2026 Future of Health Conference Should Make Innovation Count for Nigerians",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/the-2026-future-of-health-conference-should-make-innovation-count-for-nigerians/",
+      "date": "2026-10-29",
+      "summary": "In 2015, Nigeria Health Watch held its first Future of Health Conference. Since then, we have seen new policies, technologies, investments and ambitious commitments to transform the health sector. Yet for millions of Nigerians, accessing…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-7986d7fc29",
+     "kind": "episode",
+     "title": "When Patient Experience Means Parking and Pianos, Plan Sponsors Pay for Hotels, Not Outcomes—What to Measure Instead, With Robyn Leone",
+     "url": "https://cc-lnk.com/EP535",
+     "date": "2026-10-28",
+     "summary": "Plan Sponsors Need Outcomes, Not Valet Parking: Build the Patient Journey in Three Buildings. Episode 535. Is your patient experience strategy a piano in the lobby, or is it the right diagnosis, the right treatment, and a price the patient…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 37
+    },
+    "listenOld": {
+     "id": "e-50f9a1551d",
+     "kind": "episode",
+     "title": "EP313: Partnering Up With Fiercely Local and Fiercely Independent Pharmacies, With Dan Strause and Drew Leatherberry",
+     "url": "https://healthvalue.libsyn.com/ep313",
+     "date": "2021-03-11",
+     "summary": "In Episode 313, recorded live at the Health Rosetta Summit, Stacey Richter talks with Dan Strause of Hometown Pharmacy and Drew Leatherberry of Avergent about a collaboration model pairing local primary care teams with independent hometown…",
+     "tags": [
+      "us-health-care",
+      "life-sciences",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 30
+    },
+    "read": [
+     {
+      "id": "a-95a93e98a0",
+      "kind": "article",
+      "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
+      "url": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
+      "date": "2026-10-29",
+      "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-6cea906c5b",
+      "kind": "article",
+      "title": "Changing G2211 Again: What Problem Is CMS Trying To Solve?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnF5UzkzcUlDY0htaUR3TllDY0JDdldaOERVV290Qm5Mek9DbzZ0QWV0di1ES0VGSTlncjhoZjZUdWFBbWZsbTFVMU81Mk1VMVZVeHY0SWxtQnc4Q3dYZmduMDNlb2JlZTNMenZSNk1mSElGMGtuOTRIblBMRDJzcUJEQVB6QWRWVUFqREZWRENJTlFTQTE2Mg?oc=5",
+      "date": "2026-10-27",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-1156b42466",
+      "kind": "article",
+      "title": "Examples of Quality and Patient-Safety Goals for Hospital Strategies",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVk01UllMRlRRTWpBUTB1UUNVSUNFUXl3T1lpVGRPcV9UX29GdWt2MHpIQk04Q1lQN1VZU05QNXVpSFhZcmE2NTJoVG9yU1d6VzJZTXROUGVxVHhoZHdjRU95Q1k2c1RZR3RsN1JFd2RNOWRoWS1kVWEtMGFSRk1RV1pTdTlYMFRVa0IzSDVSLW9VNkhUU2w1T1l4Q3hDQ1ZTZHBBUUo5bXRyVnpZY2p2ekxEdHBRaUtT?oc=5",
+      "date": "2026-10-26",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "IFC"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-28",
    "capstone": {
@@ -5372,13 +5522,13 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 3
+   "count": 5
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "hpw",
@@ -5390,13 +5540,13 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 5
+   "count": 7
   },
   {
    "id": "ifc",
    "name": "IFC",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "id": "peoplemove",
@@ -5414,7 +5564,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 8
+   "count": 10
   },
   {
    "id": "nairametrics",
@@ -5432,7 +5582,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 8
+   "count": 3
   },
   {
    "id": "oop",
@@ -5444,7 +5594,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 19
+   "count": 15
   },
   {
    "id": "cure",
@@ -5474,7 +5624,7 @@
    "id": "tradeoffs",
    "name": "Tradeoffs",
    "ok": true,
-   "count": 336
+   "count": 337
   },
   {
    "id": "wth",
