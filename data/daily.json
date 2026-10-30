@@ -1,6 +1,152 @@
 {
- "updated": "2026-10-29T16:38:50+00:00",
+ "updated": "2026-10-30T16:33:09+00:00",
  "days": [
+  {
+   "date": "2026-10-30",
+   "capstone": {
+    "listenOld": {
+     "id": "e-3f4154b68d",
+     "kind": "episode",
+     "title": "Creative destruction in global health",
+     "date": "2025-10-14",
+     "summary": "This episode launches Season 5 of Global Health Matters , which will explore the future of global health. In a time of turbulence, transition and transformation, we need diverse voices to help shape what comes next. In this episode, host…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 41
+    },
+    "read": [
+     {
+      "id": "a-09c28d3a56",
+      "kind": "article",
+      "title": "Devex Newswire: Inside the changes a major European donor is making",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1E4NTczZ0t5TjVYaWQ1cVBXZEs4dkhQQmFFMmtwUU8tci1Eem5UV1FydjMtN2MtTXlENkNlM2doX2prTDRLSGw2VGpVa0duZ0dHQ2ZkRGlvY0doRHZ1QWRqVGp6ZDFseFM4cHcwZXl4eXg1Z0pRU3FNOUtmRWVFVHMyTXVNWTc0MkV3amN3dXJpOXFiUU9LeXU2YnJGMi16WjJiN0dIaw?oc=5",
+      "date": "2026-10-30",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-9e4ebf8968",
+      "kind": "article",
+      "title": "Ododo Renames Kogi Specialist Hospital After Ex-Gov Ibrahim Idris",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHdoWmZBTlFobEZDS0VmRkx2YnlkSEZ1ZVZ1SVROcnZMY043Wi1lZVFrNnE2QzJSMVBUaGVjWUFhSndLMmszaXZmdDRRdGVpd3g5ZHAwSm94YkNXcjlQemlXT01JaDBHdkE5OGFtUWt0RHFWSXVDdHNlXzFQZ2hjSHVpY1I3dzBaTE54SExMdlYyQQ?oc=5",
+      "date": "2026-10-30",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-c7d971c997",
+      "kind": "article",
+      "title": "Abuja Ministerial Meeting Offers Governments a Chance to Recommit to Fighting AMR",
+      "url": "https://healthpolicy-watch.news/governments-asked-to-recommit-to-fighting-antimicrobial-resistance-at-ministerial-meeting/",
+      "date": "2026-10-29",
+      "summary": "Action is lagging far behind the milestone commitments of the 2024 UN High Level Declaration on Antimicrobial Resistance (AMR). But a Ministerial Meeting scheduled for 6-8 December in Abuja offers an opportunity to pick up the baton. Ahead…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-3bab8fca13",
+     "kind": "episode",
+     "title": "419: Assessing Merck and Moderna's mRNA cancer vaccine",
+     "date": "2026-10-30",
+     "summary": "What is Adam doing in Spain? How did doctors react to detailed data on Merck and Moderna's mRNA cancer vaccine? And what are the next big advances in oncology? On this week's episode of “The Readout LOUD,” STAT's biotech podcast, we bring…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 20
+    },
+    "listenOld": {
+     "id": "e-63a3d97a56",
+     "kind": "episode",
+     "title": "Why Employers Are Turning to Primary Care as Health Care Costs Soar",
+     "url": "https://tradeoffs.org/2024/10/10/employers-primary-care",
+     "date": "2024-10-10",
+     "summary": "U.S. companies spend more than $1 trillion annually on health care for their employees. To get this budget-busting figure under control, some companies are experimenting with cutting out insurers, and investing in primary care clinics at…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 21
+    },
+    "read": [
+     {
+      "id": "a-d884ccf48e",
+      "kind": "article",
+      "title": "Assessing Merck and Moderna’s mRNA cancer vaccine",
+      "url": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/?utm_campaign=rss",
+      "date": "2026-10-30",
+      "summary": "On this week's “The Readout LOUD,” we discuss the latest cancer data presented at the annual meeting of the European Society for Medical Oncology.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-e1e9f5be96",
+      "kind": "article",
+      "title": "Still Crossing The Quality Chasm: A Setback For Childhood Immunization Measurement",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODBMV0tDWGRkckVzYjNDc3I3Nkd4dzFjeWtLbmpTU3l3YjZlb2M2S1d2MEx6M1AtX1RWRjUycFl6RmZEVUYzazdSejFRZFl4OEpTQlBrdVV2eWZscUhZQm5oQTViZ2xodmFhdk1SQjVGaHk1M1B4NTJLd1c4b2JESXVpdzhscGJtS180UWVGb3QzTmRzVmFHaTRIelVUbmNOekNZVFZ1NURfdTNIRGF6MTF3T0FLQXMtNjcw?oc=5",
+      "date": "2026-10-29",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-7041e80d06",
+      "kind": "article",
+      "title": "The persisting paradox of men’s health",
+      "url": "https://www.statnews.com/2026/10/30/health-news-the-paradox-of-men-health/?utm_campaign=rss",
+      "date": "2026-10-30",
+      "summary": "A new series in The Lancet argues for the need to investigate a paradox of men’s health: why men experience worse health outcomes than women, even though they hold undeniable…",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-29",
    "capstone": {
@@ -5516,19 +5662,19 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 5
+   "count": 7
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "hpw",
@@ -5540,7 +5686,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "ifc",
@@ -5564,7 +5710,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "id": "nairametrics",
@@ -5582,7 +5728,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 3
+   "count": 5
   },
   {
    "id": "oop",
@@ -5594,7 +5740,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 15
+   "count": 12
   },
   {
    "id": "cure",
@@ -5630,13 +5776,13 @@
    "id": "wth",
    "name": "KFF Health News: What the Health?",
    "ok": true,
-   "count": 472
+   "count": 473
   },
   {
    "id": "readout",
    "name": "The Readout LOUD",
    "ok": true,
-   "count": 423
+   "count": 424
   }
  ]
 }
