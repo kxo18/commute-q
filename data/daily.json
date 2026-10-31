@@ -1,6 +1,155 @@
 {
- "updated": "2026-10-30T16:33:09+00:00",
+ "updated": "2026-10-31T15:37:01+00:00",
  "days": [
+  {
+   "date": "2026-10-31",
+   "capstone": {
+    "listenOld": {
+     "id": "e-a6e2c24195",
+     "kind": "episode",
+     "title": "The Inside Track: Broken chairs, horses and audiences",
+     "date": "2026-03-10",
+     "summary": "In our first episode of The Inside Track , we examine the fragile state of information integrity in global health. Host Garry Aslanyan and recurring expert-pundits Catherine Kyobutungi and Ricardo Baptista Leite unpack how misinformation…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 51
+    },
+    "read": [
+     {
+      "id": "a-65ac3ff171",
+      "kind": "article",
+      "title": "EXCLUSIVE: Dismissing Geneva Mergers, Global Fund’s Dybul Wants to Focus on Country Capacity",
+      "url": "https://healthpolicy-watch.news/interview-global-fund-dybul/",
+      "date": "2026-10-30",
+      "summary": "Returning to lead the Global Fund, Mark Dybul argues that the future of global health lies with domestic health systems, not agency mergers in Geneva. Evoking the founding ambition of the early 2000s, the incoming executive director…",
+      "tags": [
+       "comparators",
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-740ef3b890",
+      "kind": "article",
+      "title": "Less Waiting, Less Waste: Kaizen Institute Is Improving Pharmacy Services Across Kaduna PHCs",
+      "url": "https://nigeriahealthwatch.com/articles/torchlight/less-waiting-less-waste-kaizen-institute-is-improving-pharmacy-services-across-kaduna-phcs/",
+      "date": "2026-10-31",
+      "summary": "At Sabon Tasha Primary Healthcare Centre (PHC) in Kaduna State, the lack of a dedicated store and dispensing area once led to the loss of essential medical supplies and delays in patient care. But following an intervention by Kaizen…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-0756c666d6",
+      "kind": "article",
+      "title": "Nasarawa Govt Approves N3.6bn Equipment For Akwanga Specialist Hospital",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWswOWJtbHg5anFUbnNrVWloMFVjRHBoRjNRdTk0Uk5nd2ViUmhGRzJmaTZvVVlMYVN3elFrMnVvUTZoU2ZHQWpDRFBzV2Z2TVVFd2V5blh4b3FpaXg3dkpQV1JEUFZTN3JKeTJ6bkk4VGctWFlzOEFkRXMzT3lsZk11ak42eWtKbHh3OENELW9PTWt4ODlSVWxn?oc=5",
+      "date": "2026-10-31",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-be07b0e972",
+     "kind": "episode",
+     "title": "A New Era for the ACA",
+     "url": "https://play.prx.org/listen?ge=prx_14448_05136e34-e9c0-4689-9b44-3d3baad9c62e&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-10-29",
+     "summary": "Open enrollment for 2027 Affordable Care Act plans kicks off in most states Nov. 1, and consumers can expect higher premiums and more bureaucracy to get covered. Meanwhile, Democrats are planning a major health agenda if they retake…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 39
+    },
+    "listenOld": {
+     "id": "e-47b741d5a0",
+     "kind": "episode",
+     "title": "EP402: What Physicians Trying to Clinically Integrate Care in the Real World Need to Know, With Amy Scanlan, MD",
+     "url": "https://healthvalue.libsyn.com/ep402",
+     "date": "2023-04-27",
+     "summary": "Standing up a clinically integrated network (CIN) is one thing on a slide deck and another thing entirely in the messy middle of an actual physician practice's day-to-day operations. In this episode, Stacey Richter talks with Amy Scanlan,…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 33
+    },
+    "read": [
+     {
+      "id": "a-20854cbe21",
+      "kind": "article",
+      "title": "PhRMA vs. CMS' GLOBE: The New Medicare Part B Drug Pricing Fight",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GSHplaGtKRnFKaGlUdVlvUmJ1Z3RXRnpSRXQwUXRodkNUbVQ3MW9ZVGNBZ2FuRjZPcnF4YXFaek5NdFdVazRLMFhTc1BZX0hrV0gzNFl5Ynh2anB6RFhXUHotd0wzNTh3cVE?oc=5",
+      "date": "2026-10-29",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-791830a025",
+      "kind": "article",
+      "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
+      "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
+      "date": "2026-10-30",
+      "summary": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-267cc10c14",
+      "kind": "article",
+      "title": "Opinion: How Congress can fix expert advisory committees",
+      "url": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
+      "date": "2026-10-30",
+      "summary": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-30",
    "capstone": {
@@ -5662,7 +5811,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "devex",
@@ -5710,7 +5859,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "id": "nairametrics",
@@ -5740,7 +5889,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "id": "cure",
