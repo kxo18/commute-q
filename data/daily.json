@@ -1,6 +1,152 @@
 {
- "updated": "2026-10-31T15:37:01+00:00",
+ "updated": "2026-11-01T16:36:24+00:00",
  "days": [
+  {
+   "date": "2026-11-01",
+   "capstone": {
+    "listenOld": {
+     "id": "e-d2e490473b",
+     "kind": "episode",
+     "title": "Was Nigeria's presidential election fair?",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2023-04-05",
+     "summary": "Kasirim Nwuke, managing partner at Mirisak & Associates and former chief, green economy, technologies and innovation at the UN Economic Commission for Africa, examines Nigeria's presidential election results, in which Bola Tinubu was…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 32
+    },
+    "read": [
+     {
+      "id": "a-bccd4c71e6",
+      "kind": "article",
+      "title": "Stakeholders Demand Review Of Lagos Policy On Mandatory Health Insurance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzJkWkVjemxyMjhKM0loM0ZnNUVtSEd3b0dQakRTTmRaa0tyaUV1NmZfX1JvWTJoQ3NxVDJBdU5rNUNyeG40RlRwVE5NS1VkbktyakhHZGIxZmFrV3NsUG5tUWN0RV9EbTBMN2RqbndGcnp0WFdDSEN6di03d0lFZVlPU0NyQkhJYVkwelJCdWE5cHNwcDNDQWxhNA?oc=5",
+      "date": "2026-10-31",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-a612b621e7",
+      "kind": "article",
+      "title": "Priorities for the Global Fund’s New Executive Director: From Reform Rhetoric to Meaningful Change",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDlGcGx6S0g3ZGdZblFtaVBiQUg1b2pQQkg3T3FidVdvM1BwUXBjZW1uTjNKUzVxc1Vpdlk1N21rSmdNcGY3akd1TEJwMjhPXy1TcDQyclhYdlBja1ZKZ0VaWVBJNUkxN3pXSXhHdzhvWkRIa1FZLW1yaUhjUmN2OEh6dHJ1SEZMZUVJSXJ6XzFZVDU1VE03TzhvMmhIUF8zTm82RmduWjdQaGM?oc=5",
+      "date": "2026-10-29",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-9f486aed72",
+      "kind": "article",
+      "title": "Tinubu Warns Employers Against Non-remittance Of Workers’ Pension Contributions",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2ZqUUJkWE5xVllETVZIVXdzX0xaOEZFSUJTdWFJUF84YUVPZ0J0akdIcUltWDVmamZleWo2LXBHdFVhZjNVY05LS3Q2X2huVDZLaTIxVmExRVZ3dEtHMlVZVXFtN2tXWUI0Nnp5cHNpOTJ4TkxSUjZ0QTNMX2ozX1BfalEzOEY3ZjhkSy1saFdteWlkY3VWV1FHYXREVkpHTW5r?oc=5",
+      "date": "2026-10-29",
+      "tags": [
+       "remittances"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-893c53cbbb",
+     "kind": "episode",
+     "title": "States Race to Get the Word Out About New Medicaid Work Requirements",
+     "url": "https://tradeoffs.org/2026/10/29/states-race-to-get-the-word-out-about-new-medicaid-work-requirements",
+     "date": "2026-10-29",
+     "summary": "City and state officials, health insurers and advocates are ramping up efforts to reach millions of low-income people at risk of losing their health insurance. Guests: Marisol Caban , Associate Director of Community Engagement, Camden…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 26
+    },
+    "listenOld": {
+     "id": "e-76ccc4914d",
+     "kind": "episode",
+     "title": "EP296: Oncology FAQs About Telehealth, Standardizing Care, and Drug Prices, With Vincent Rajkumar, MD, of Mayo Clinic, Rochester",
+     "url": "https://healthvalue.libsyn.com/ep296",
+     "date": "2020-10-15",
+     "summary": "In Episode 296, Stacey Richter talks with Vincent Rajkumar, MD, professor of medicine and practicing hematologist at Mayo Clinic, Rochester, about oncology FAQs covering telehealth, standardizing care, and drug prices. WHAT YOU'LL LEARN ✅…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 33
+    },
+    "read": [
+     {
+      "id": "a-fbb2d9282f",
+      "kind": "article",
+      "title": "How CMS Is Advancing High-Quality End-Of-Life Care",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQXNrMHRHTjloN1MyV0kwa0NUQ0c0QU1mSTlsVV9IcV9udktJMUduZnl0bllMcGhOcmxsSDBvQnAzRnJNNmk1em9URmJxdzJ0ZDByNzQ3Y3RkZ2lHRGtyV1JjSGlnZjlwLU1uU1pyeThpZnlwendZOUt4cXhITXg5QlFNNzJNcnlMUHlueGtNRWQ4dw?oc=5",
+      "date": "2026-10-30",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-235953305b",
+      "kind": "article",
+      "title": "Melissa Daly",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pQzZhVGhPbU51a1lwYWdhSlEybHNZejI4WHV4QTNRVDl0dVhMdk1raFAxWkRzY2psWWQ5WDc4R1NxS1JuOElEdTNIX3JiYkd5ZDZIbmljb3JyRnpBSFl6SzRhR0NjRjRiYjNtdm5FdjF4T25WUzV4dQ?oc=5",
+      "date": "2026-10-30",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-1e07cedd9e",
+      "kind": "article",
+      "title": "Naming The Ideology",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbEpfak5NYnRtZEkxR3pQaFRHdFpJTkdLVEdUSkRZeGFzSzNieE03QUk4TTZWRlI2d2ZReTFJN1lCOVc1V3lPeTR2c0lWaTNrR2ljMjN5N2l5bFphUzZMUVJZZWwzTUNNVU1IMXJYQW5EbmVTVmFTcEVaMTV1MVdTblNQTUR1TGdJMWRFQ1laV19VMFZRLWlSbHlNclVPWjhoZDNCLXg5eWhfcTkwb3NHY29QUTBzZzgtaTNSM2R0cW9ZWENYbDBPazVJSTA2MXBta2pKa29yOEhNZ1djcERnVnZibnZucHQ5U0phdUFpbk1jeUx2X0tZ?oc=5",
+      "date": "2026-10-30",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-10-31",
    "capstone": {
@@ -5811,7 +5957,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "devex",
@@ -5823,7 +5969,7 @@
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "hpw",
@@ -5835,7 +5981,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "ifc",
@@ -5859,13 +6005,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "eudif",
@@ -5889,7 +6035,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "id": "cure",
