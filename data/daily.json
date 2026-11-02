@@ -1,6 +1,138 @@
 {
- "updated": "2026-11-01T16:36:24+00:00",
+ "updated": "2026-11-02T19:59:31+00:00",
  "days": [
+  {
+   "date": "2026-11-02",
+   "capstone": {
+    "listenOld": {
+     "id": "e-b3345eed09",
+     "kind": "episode",
+     "title": "African policymakers have the tools to make Africa globally competitive",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2024-06-12",
+     "summary": "Policymakers have the tools to make Africa globally competitive as a continent. With an increasingly young and underemployed population, there is a large gap between the continent's current stasis and its potential for economic growth.…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 30
+    },
+    "read": [
+     {
+      "id": "a-585e8ad4ae",
+      "kind": "article",
+      "title": "How Global Fund for Women plans to grant $100M without an open call",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXFvU1lxTF9RZzA5SHZwbWtBVW40S3RPanJtaFJaWUNYekNsMUp0VVlhSWdVRHZCV0Z1RnRFZ2VkZnM1Y1dkbXd2OEtVNzE0bDlSbUxoTUFwaWNOeUhfVFc3SHdFZkJ1R0ZVR2pqZndOa21vbE9vY2RCdUFLLXBiNGRKRF9jYVNwSk9TNFhhbUpFSUtqZUFiaC02Tm9ES2RCVXc?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-d9f191600f",
+      "kind": "article",
+      "title": "How Communities Connect Mothers to Skilled Care in The Gambia’s North Bank Region and Nigeria’s Jigawa State",
+      "url": "https://nigeriahealthwatch.com/articles/torchlight/how-communities-connect-mothers-to-skilled-care-in-the-gambias-north-bank-region-and-nigerias-jigawa-state/",
+      "date": "2026-11-02",
+      "summary": "Ousman A. Marong and Anibe Idajili (Guest writers) When women go into labour in Mendy Kunda, a rural community in The Gambia’s North Bank Region, getting to a hospital can depend on how quickly help can be found. For Rose Mendy, a resident…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-32cfa1c625",
+      "kind": "article",
+      "title": "Building a diaspora strategy through participation: lessons from El Salvador",
+      "url": "https://diasporafordevelopment.eu/building-a-diaspora-strategy-through-participation-lessons-from-el-salvador/",
+      "date": "2026-11-02",
+      "summary": "Through the Capacity Development Lab (CDL), EUDiF is supporting El Salvador’s Viceministry of Diaspora and Human Mobility in the development...",
+      "tags": [
+       "comparators"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "EU Global Diaspora Facility"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-f943188807",
+     "kind": "episode",
+     "title": "EP410: The Imperative and a 201-Level Financial How-To for Payers and Provider Organizations to Collaborate to Help CKD Patients and Others With Chronic Conditions, With Dan Serrano",
+     "url": "https://healthvalue.libsyn.com/ep410-the-imperative-and-a-201-level-financial-how-to-for-payers-and-provider-organizations-to-collaborate-to-help-ckd-patients-and-others-with-chronic-conditions-with-dan-serrano",
+     "date": "2023-08-03",
+     "summary": "Provider organizations without capitated contracts or access to premium dollars are stuck in what Stacey Richter calls \"the messy middle\" — treating patients with chronic conditions well, without getting paid for the value they create. In…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 34
+    },
+    "read": [
+     {
+      "id": "a-d6e4a19cd0",
+      "kind": "article",
+      "title": "Proposed Rule Implementing Marketplace Pre-Enrollment Verification Requirements, Part 2: Pre-Open Enrollment Verification And Returning Enrollees",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNlh5R3IzN19vX290TGxPOGRIX0YzOWxJY2hiZlh2cTZtbGNKd2w0VVQ4bEYzTkMxMW5CSUZ2NnJxR3dLaTR5ZzRieDBpcC1qOGZQN0RJZEItTGFIZVB5WEx3WVhXMWdwUW0xLVJzVTdzMGdxTFpBUFBxdnhubXhmcHZZZy1MVTRmek0zSGVoODJza2dXSWtTdHQyWEx6NnBsZHNNekhCNkp1NGVDV3Vla2o1bHFNc1h5N3J3dFpLZUdaVGVyTEQ1dHRzNm80d1U?oc=5",
+      "date": "2026-10-28",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-ad6f750f10",
+      "kind": "article",
+      "title": "Meta Raybans x Healthcare? Some thoughts",
+      "url": "https://www.outofpocket.health/p/smart-glasses-healthcare",
+      "date": "2026-10-26",
+      "summary": "A potential glimpse into the future, you may love or hate it",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     },
+     {
+      "id": "a-17bbfd9e95",
+      "kind": "article",
+      "title": "Health Affairs Moves Exclusively Online",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzE0MWtzUHFXZUpDZ25FcldzX01QZERrRFRhT1pxMDJ4NmE1b3JSRkR0Ri1BZnZNcktGVjJ3bWNQenB5VU5iT2M1aFZVSzNiWlFNSW5xdkhHQ2lDVXhVOFVVSzZ6eG1XMEVheFYxU1Y2Z2xKTkdpa3NQbmNRc3FUa1lONXUtZ3FXTEtacGVZejg?oc=5",
+      "date": "2026-10-28",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-01",
    "capstone": {
@@ -5957,31 +6089,31 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 2
+   "count": 4
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "ifc",
@@ -6005,7 +6137,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nairametrics",
@@ -6023,7 +6155,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "oop",
@@ -6035,7 +6167,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 15
+   "count": 12
   },
   {
    "id": "cure",
