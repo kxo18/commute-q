@@ -1,6 +1,136 @@
 {
- "updated": "2026-11-02T19:59:31+00:00",
+ "updated": "2026-11-03T17:34:57+00:00",
  "days": [
+  {
+   "date": "2026-11-03",
+   "capstone": {
+    "listenOld": {
+     "id": "e-b1822371ba",
+     "kind": "episode",
+     "title": "How unequal health outcomes challenge economic growth in Africa",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2023-07-19",
+     "summary": "Belinda Archibong, a David M. Rubenstein Fellow at Brookings and professor at Barnard College, talks with host Aloysius Ordu about mental health and other health challenges facing youth in Africa. She explores the nexus between health and…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 47
+    },
+    "read": [
+     {
+      "id": "a-2a93942e60",
+      "kind": "article",
+      "title": "Funders Float ‘Natural Selection’ for Non-Profit Neglected Disease Drug Developers as Global Health Aid Dries Up",
+      "url": "https://healthpolicy-watch.news/funders-float-natural-selection-for-non-profit-neglected-disease-drug-developers-as-global-health-aid-dries-up/",
+      "date": "2026-11-03",
+      "summary": "In the late 1990s, doctors treating sleeping sickness, a parasitic disease spread by tsetse flies that is almost always fatal without treatment, still relied on melarsoprol, an arsenic-based drug that killed roughly one patient in 20. One…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-c002b50eda",
+      "kind": "article",
+      "title": "Why Republicans turned on USAID",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HbVJhLVdiVUhMdjZDZDk1SEpYY3JKQjdxTzFsem43LUd4aGl5WkJ0MlVZUlBZZ28yR2ZCOXhkTF92VUc2UjNDVTM1Q3N5LTQ1VTlpTjFlaXFMZk1kM2tNZ21wV1JIQ2dPZ3ZGM3lyVmxzdVE?oc=5",
+      "date": "2026-11-03",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-1d4200a1e9",
+      "kind": "article",
+      "title": "It's Time for Health Aid to Refocus on the Poorest Countries",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTR0ZJX1BlNVlDaUNuZzVvNXcyNGtxQ3M0OWp1aFNrS183Vmp4eThyMUpyY0FLUi14Y19hNnE3d2lnOWJxd0tmUFZ2M1l6SXB2c1FCMjdoWHpMZ1l1SnJIV2hmWmozYkJSUnFicUpyMHRoQUFiWUVBcGtMbkhuQQ?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-9d8dbf37eb",
+     "kind": "episode",
+     "title": "Home Sweet Hospital",
+     "url": "https://play.acast.com/s/tradeoffs/homesweethospital",
+     "date": "2020-05-28",
+     "summary": "With their business models upended by the coronavirus, hospitals are dusting off a decades-old idea: hospitalize patients in their own homes. Guests: Bruce Leff , MD, Director, The Center for Transformative Geriatric Research, Johns…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 14
+    },
+    "read": [
+     {
+      "id": "a-c75b56753e",
+      "kind": "article",
+      "title": "Child dies of measles in New York’s first such death in 30 years",
+      "url": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss",
+      "date": "2026-11-03",
+      "summary": "A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-d89d142d3c",
+      "kind": "article",
+      "title": "Not-For-Profit Hospitals’ Patient Financial Assistance And Alignment With Community Need: A National Study",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YUGpmT3BLUmdLSDBuaUFPay1ac3RmXzI3UXBleUZzVktYWTFDMmdsZkNNTERNbXJndGVEczViUEZPb2pxSzhZYjBnWld0b2kwQXVGNE1saUdFM3FEa045ZkF0c1dsTjVjanFya09wcWRKdTV2XzY2Rw?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-32ed0127cd",
+      "kind": "article",
+      "title": "Another set of healthcare business ideas",
+      "url": "https://www.outofpocket.health/p/more-healthcare-business-ideas-2026",
+      "date": "2026-11-03",
+      "summary": "Reverse auctions, patient shopping for VBC, and more",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-02",
    "capstone": {
@@ -6095,19 +6225,19 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 8
+   "count": 11
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 5
+   "count": 3
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "giin",
@@ -6137,13 +6267,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 16
+   "count": 13
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "eudif",
@@ -6167,7 +6297,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 12
+   "count": 19
   },
   {
    "id": "cure",
