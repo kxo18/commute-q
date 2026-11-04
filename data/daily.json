@@ -1,6 +1,153 @@
 {
- "updated": "2026-11-03T17:34:57+00:00",
+ "updated": "2026-11-04T17:47:15+00:00",
  "days": [
+  {
+   "date": "2026-11-04",
+   "capstone": {
+    "listenNew": {
+     "id": "e-de24a0a49a",
+     "kind": "episode",
+     "title": "The World Health Summit 2026: An epilogue",
+     "date": "2026-11-04",
+     "summary": "What did the World Health Summit 2026 reveal about the future of global health? Despite growing geopolitical tensions, funding challenges and uncertainty, the summit brought a renewed sense of optimism and determination to reshape global…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 38
+    },
+    "listenOld": {
+     "id": "e-617b37d367",
+     "kind": "episode",
+     "title": "African solutions to African health system challenges",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2022-02-16",
+     "summary": "Dr. Olusoji Adeyi, president of Resilient Health Systems, LLC., shares strategies for supporting Africa's health systems and ending the region's dependency on foreign funding for public health interventions, which, he argues,…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 43
+    },
+    "read": [
+     {
+      "id": "a-029bf79b2b",
+      "kind": "article",
+      "title": "WHO DG Candidate Hanan Balkhy: ‘The Bottom Line is That Funding is Slimmer’",
+      "url": "https://healthpolicy-watch.news/who-dg-candidate-hanan-balkhy-the-bottom-line-is-that-funding-is-slimmer/",
+      "date": "2026-11-04",
+      "summary": "Hanan Balkhy, Saudi Arabia’s candidate for WHO Director General, is especially concerned about antibiotic resistance, the effects of climate change on health, and healthcare in conflict zones. She also warns about a “normalisation” of…",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-db5426b5f6",
+      "kind": "article",
+      "title": "Curated Conversations: Dr Abasi Ene-Obong on Why Nigeria Must Own Its Genomic Future",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/curated-conversations-dr-abasi-ene-obong-on-why-nigeria-must-own-its-genomic-future/",
+      "date": "2026-11-04",
+      "summary": "“The fact that you do genomics in Nigeria does not necessarily mean that the insights are just for Nigeria…We and the entire world are connected by human biology.” — Dr Abasi Ene-Obong Africa has the most genetically diverse populations in…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-dcca730407",
+      "kind": "article",
+      "title": "Why We Focus On Nigeria’s Persistent Health Challenge – Nwogha",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVpwLTFlUG1Gck5FYk16a3h0VnFnYnRjZXNGVUFxRFNWLTFHWGZxR0hnaFBVMU9DVUI3SGR3NlJSZElvNUR6alozcy1vNENuLU9Sd0R6X25lc2d6TTc0UHJFcWI4M1g5Q3hWVEFiRjBiZlpDRU9zRFZwcVhGWHUyR2JZbFU2d0cxOGc?oc=5",
+      "date": "2026-11-04",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-9e0a2aba41",
+     "kind": "episode",
+     "title": "Unpacking the Health Impacts of Republicans' 'Big Beautiful Bill'",
+     "url": "https://tradeoffs.org/2025/06/26/unpacking-health-impacts-republicans-big-beautiful-bill",
+     "date": "2025-06-26",
+     "summary": "On June 18, Tradeoffs moderated an online event with economists and doctors examining why this legislation could cost so many people their health coverage — or even their lives. Guests: Eric Roberts , Associate Professor, Department of…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 45
+    },
+    "read": [
+     {
+      "id": "a-9aa26a3012",
+      "kind": "article",
+      "title": "Beyond Drug Spending: Using Medicare’s GLP-1 Bridge To Measure Total Cost Of Care",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGhack1FWHBiTFpSX0NDYnRGX3d5bkJRVldSMjJ1Sy1WOHNaT2lCaTBEZEE2V0hjZHFwWlJOeTl6OUVZOHhmX0lwaVBLOVFEdkMtd3lTUExUM1lfUHB0QWYtRFg5RFp3eElhNnJMbm94SlVZb0hmeWxtZktmNnp2OWxram0yZFY4bWN2ZnViSW9adWxnRnREYVlxdFNfQ0F5ZmJuZzhtZWotSjkwUURlb0MxVy1lVTlPVUVhNDJPOA?oc=5",
+      "date": "2026-11-03",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-aeb02a9c81",
+      "kind": "article",
+      "title": "First U.S. bird flu death of the year after cattle exposure",
+      "url": "https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss",
+      "date": "2026-11-03",
+      "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It’s the first such death this year in the U.S., and the third…",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-a935674f9c",
+      "kind": "article",
+      "title": "Medicare Is Moving Surgeries Out of Hospitals (And Possibly Saving Billions)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40dlRIbzR2RG53QXZRLTEtTEpTMFp3QTF4U19VZVZYR0NwemJNaE1FdEhUaUhsWVNlQmU5OWFja3kyUHl1VzJxUE4xVXVsa1g0VGFOQ2hrb05FUHJLS3BqOW9LbnotRUpNVW9nXzlvdU8?oc=5",
+      "date": "2026-11-03",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-03",
    "capstone": {
@@ -6219,19 +6366,19 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 11
+   "count": 6
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "hpw",
@@ -6243,7 +6390,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 4
+   "count": 7
   },
   {
    "id": "ifc",
@@ -6267,13 +6414,13 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 13
+   "count": 15
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "eudif",
@@ -6285,7 +6432,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 4
+   "count": 2
   },
   {
    "id": "oop",
@@ -6297,7 +6444,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "id": "cure",
@@ -6315,7 +6462,7 @@
    "id": "ghm",
    "name": "Global Health Matters",
    "ok": true,
-   "count": 94
+   "count": 95
   },
   {
    "id": "rhv",
