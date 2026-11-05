@@ -1,6 +1,155 @@
 {
- "updated": "2026-11-04T17:47:15+00:00",
+ "updated": "2026-11-05T17:52:07+00:00",
  "days": [
+  {
+   "date": "2026-11-05",
+   "capstone": {
+    "listenOld": {
+     "id": "e-0637bc7496",
+     "kind": "episode",
+     "title": "Dialogues: A conversation with Chikwe and Vivianne Ihekweazu",
+     "date": "2025-05-06",
+     "summary": "In this episode of Dialogues, host Garry Aslanyan speaks with Chikwe Ihekweazu, Assistant Director General at the World Health Organization (WHO) and acting Regional Director for the WHO Regional Office for Africa, and his wife, Vivianne…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 46
+    },
+    "read": [
+     {
+      "id": "a-8e7dcaa1af",
+      "kind": "article",
+      "title": "‘$1.57Bn Diaspora Remittances In Q2 2026 Strong Contributions To Nigerian Economy’",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnhTcUdwbDB4NmFkUE1UWm5VRVBPMXNSRXRoQjB1dzdNMm4taVVGemJXc3ZsVkJfbWNSWEJVcTJBMXdXZnpHTFZxQmNTcXJYNGFpeW9nX29uR2tpd29VdmRkd2FfaXJEMDRjZDQyNW12ZUs1UHF5RUVZZWNJdTNCTURuVXFhbGszNzBmLXV2YVlLVmtraTQzU2tHaWY0T1BJU2xLaQ?oc=5",
+      "date": "2026-11-05",
+      "tags": [
+       "remittances",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-7cd1d476dc",
+      "kind": "article",
+      "title": "Devex Newswire: Can US foreign aid ride the Democratic blue wave?",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1N1alFaeTJ1YmotZWV1RmQwdlJTdlVxWG9hSDd0ZkQxLUdYTk9keU1LLUs1T25oX3NERlV0QXJWNDJzYldGWDAwQVR4RlpkWTU4aGZEaDYtUlNqbkhsQTdTbDlnUzRRX1BSSXM3bHRicENtV2IybjE5MVhtNTJTOElaLVlMMm9ndk16NzVCYllKa0ZvTjh1aHV1X2U1UThnYnhr?oc=5",
+      "date": "2026-11-05",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-002213d3f1",
+      "kind": "article",
+      "title": "How NIDCOM Boss, Others Celebrated IOM’s 25 Years In Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSks5U29YQkxHMDRRYVJLaUdsc0hmWTRjZWtBVHpqcG9Sd21BM3oyaS1abHY3aE14NUtrMk90Q0tVN2wwZE9mN3ZMUnd5UDZ1NC1MOTcxVlVncml5V3RtQldGcTBwQk5tVlZ6anlBbTlFUWt2bXotOFNWbTlLUWdNX2JUbHVKNGtj?oc=5",
+      "date": "2026-11-05",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-8b0a9d7dfa",
+     "kind": "episode",
+     "title": "Operationalizing the Architecture of Primary Care Patient Experience, With Rebecca Andrews, MD",
+     "url": "https://cc-lnk.com/EP536",
+     "date": "2026-11-04",
+     "summary": "Real Team-Based Care vs. Team-Based Care in Name Only: A Primary Care Redesign Playbook. Episode 536. Talk is cheap — and so is team-based care in name only. Stacey Richter talks with Rebecca Andrews, MD, professor of medicine, director of…",
+     "tags": [
+      "us-health-care",
+      "life-sciences",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 38
+    },
+    "listenOld": {
+     "id": "e-2cb9834d61",
+     "kind": "episode",
+     "title": "Encore! EP326: The Unfortunate News About HRRP, With Insight Into How to Fix It, With Rishi Wadhera, MD, MPP",
+     "url": "https://healthvalue.libsyn.com/encore-ep326-the-unfortunate-news-about-hrrp-with-insight-into-how-to-fix-it-with-rishi-wadhera-md-mpp",
+     "date": "2022-12-29",
+     "summary": "The Unfortunate News About HRRP, With Insight Into How to Fix It, With Rishi Wadhera, MD, MPP (Encore! EP326) In this Encore, Stacey Richter revisits her conversation with Rishi Wadhera, MD, MPP, a cardiologist at Beth Israel Deaconess…",
+     "tags": [
+      "us-health-care",
+      "sdoh"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 34
+    },
+    "read": [
+     {
+      "id": "a-817487016c",
+      "kind": "article",
+      "title": "Single-payer health care system proponents were thrown a big bone this election",
+      "url": "https://www.statnews.com/2026/11/05/morning-rounds-single-payer-health-care-system-after-midterms/?utm_campaign=rss",
+      "date": "2026-11-05",
+      "summary": "Sen. Bernie Sanders is likely to lead the Senate’s health committee next year, which could grant him a chance to fundamentally alter how the FDA interacts with the companies it…",
+      "tags": [
+       "us-health-care",
+       "life-sciences",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-725187c217",
+      "kind": "article",
+      "title": "Two New Lawsuits Challenge Administration’s Drug Pricing Policies",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWczOXlwazN5M0ZVNmRzVnJhMmJoWl96bVQyTkozVUw0cmZhbG1rYlFlc2JGRnBuQS1jeUVxZmNvMDlOSW1jM21vWDViV3d4M2VCRzJSbERSMTVCWDZKbmJaZVlXY0FlTldONlc5ejBGZ292cFh2bjZtcE85TFlUcWpUSW1YSWRCcjV1a1JxekQtZGVfWVJnNzIya0RJZDFDWVRZRlZON2x4YnF4LW4yNFlvQQ?oc=5",
+      "date": "2026-11-03",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-e5ad708a5a",
+      "kind": "article",
+      "title": "Health Care Purchasers Do Not Consistently Benefit From Lower Administrative Costs Of Large Hospitals And Insurers",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zeWNUbTltU1hyZlpTaEhBM1FXRU5hcUsxYkVYd3VzQl8wMzZlMWxNSFk5cWk5MDFuampKa1NiZ053ZlRwWlQtVWd5czRkcDZyN0hCVGJ5LUlPUnF4SjBCbGlXR2U2bzJnYm0yUUpCbHVIdw?oc=5",
+      "date": "2026-11-03",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-04",
    "capstone": {
@@ -6366,19 +6515,19 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "hpw",
@@ -6390,7 +6539,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "ifc",
@@ -6414,7 +6563,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "id": "nairametrics",
@@ -6432,7 +6581,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "oop",
@@ -6444,7 +6593,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 20
+   "count": 24
   },
   {
    "id": "cure",
@@ -6474,7 +6623,7 @@
    "id": "tradeoffs",
    "name": "Tradeoffs",
    "ok": true,
-   "count": 337
+   "count": 338
   },
   {
    "id": "wth",
