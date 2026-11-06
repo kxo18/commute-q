@@ -1,6 +1,157 @@
 {
- "updated": "2026-11-05T17:52:07+00:00",
+ "updated": "2026-11-06T17:12:29+00:00",
  "days": [
+  {
+   "date": "2026-11-06",
+   "capstone": {
+    "listenOld": {
+     "id": "e-27176df76a",
+     "kind": "episode",
+     "title": "Addressing public procurement barriers will empower women-owned businesses in Africa",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2024-08-07",
+     "summary": "Public procurement is the system of laws and operational arrangements that allows the public sector, including the government, to purchase goods and services, with the aim to maximize social welfare and do public good. However, many…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 27
+    },
+    "read": [
+     {
+      "id": "a-b9063b8311",
+      "kind": "article",
+      "title": "Development Banks to Become ‘Major Funding Source’ as Aid Recedes, But Experts Warn of Risks",
+      "url": "https://healthpolicy-watch.news/development-banks-global-health/",
+      "date": "2026-11-06",
+      "summary": "Multilateral development banks (MDBs) are moving to centre stage in global health financing, driven by collapsing bilateral aid and political momentum from initiatives like the Accra Reset. Experts view the shift as an opportunity to…",
+      "tags": [
+       "comparators",
+       "aid-dependency",
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-f21306b9ed",
+      "kind": "article",
+      "title": "Insecurity Scares Nigerian Professionals Abroad From Returning Home – Health Worker",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0JkVjhzcnJTRFNvUndxQzlLb1gtU3dYbDBZY0N6M21CWVlSYW14QkFVREltZjZCeFltd295TURiR3QtY1VhU2RxcS1MeXVFdlc5dUFfLWdPQTRPLWFNc0pZbmtPOWJ2SmZWVHNJNnFYUXVTWEFSX3RwRHdocE9sMmpoLTVZdk5QMWoxeFpkWVVmQnRrUjctNmxxRGlZemhkbWxzbzdiUQ?oc=5",
+      "date": "2026-11-06",
+      "tags": [
+       "workforce",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-dac5df06c9",
+      "kind": "article",
+      "title": "Curated Conversations: Professor Jean-Jacques Muyembe-Tamfum on Building Africa’s Capacity to Respond to Epidemics",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership-africa/curated-conversations-professor-jean-jacques-muyembe-tamfum-on-building-africas-capacity-to-respond-to-epidemics/",
+      "date": "2026-11-06",
+      "summary": "For more than five decades, Professor Jean-Jacques Muyembe-Tamfum has worked at the intersection of scientific discovery, outbreak response and the development of Africa’s research capacity. The Congolese virologist has helped shape how…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-56a912dcfd",
+     "kind": "episode",
+     "title": "420: Democrats’ midterm victory, and a questionable fertility procedure",
+     "date": "2026-11-06",
+     "summary": "How will the midterm results affect drug pricing policy? What is the fate of the Food and Drug Administration? And why are women traveling to fertility clinics abroad? On this week's episode of “The Readout LOUD,” STAT's biotech podcast,…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 29
+    },
+    "listenOld": {
+     "id": "e-5f51d558e3",
+     "kind": "episode",
+     "title": "EP354: 7 Vital Success Factors to Stand Up a CIN (Clinically Integrated Network), With Shawn Rhodes",
+     "url": "https://healthvalue.libsyn.com/ep354",
+     "date": "2022-02-10",
+     "summary": "7 Success Factors for Standing Up a Clinically Integrated Network, With Shawn Rhodes. What It Actually Takes to Build a Clinically Integrated Network That Works. Episode 354. Stacey Richter talks with Shawn Rhodes, regional VP at Caravan…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 33
+    },
+    "read": [
+     {
+      "id": "a-232700b787",
+      "kind": "article",
+      "title": "Opinion: MAHA 1.0 is dead. MAHA 2.0 is born",
+      "url": "https://www.statnews.com/2026/11/05/end-of-maha-2026-midterms-losses-democrats-aoc-cory-booker/?utm_campaign=rss",
+      "date": "2026-11-05",
+      "summary": "MAHA 1.0 is dead. MAHA 2.0 is born, write “Why Should I Trust You?” hosts Brinda Adhikari and Tom W. Johnson",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-d4963bcd9f",
+      "kind": "article",
+      "title": "Utah’s Pilot Prescribing Program Is A Giant Leap For AI In Medicine",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1Y5TWRaeHdybHdWM2pLV1M5Q3dQSE1MZ3dldlZKeE00eUQ1anlSZHpycEJ3bDEzamw4dlhKVjRQSkx4UHBLUDh4bGZ5cmZ4UHcxQkFsdlM0N1hvUl9tZElQUTI4VEE3U0tFNzhtdTZaQWZUTGNVRlM0YTZqSFdiMTBsUktfZzFhamJsU3Z0bzlMbXJGTUdaV2VVQTJ3TEVtUXM2VFlR?oc=5",
+      "date": "2026-11-04",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-fb49063a00",
+      "kind": "article",
+      "title": "Democrats’ midterm victory, and a questionable fertility procedure",
+      "url": "https://www.statnews.com/2026/11/06/readout-loud-podcast-midterm-elections-fertility-ivf-mrt-therapy/?utm_campaign=rss",
+      "date": "2026-11-06",
+      "summary": "How will the midterm results affect drug pricing policy? And why are women traveling to fertility clinics abroad? Find out on the new episode of \"The Readout LOUD\" podcast.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-05",
    "capstone": {
@@ -6521,7 +6672,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 4
+   "count": 6
   },
   {
    "id": "brookings-agi",
@@ -6539,7 +6690,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "id": "ifc",
@@ -6551,19 +6702,19 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "nhw",
    "name": "Nigeria Health Watch",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 16
+   "count": 13
   },
   {
    "id": "nairametrics",
@@ -6581,7 +6732,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "oop",
@@ -6593,7 +6744,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "id": "cure",
@@ -6629,13 +6780,13 @@
    "id": "wth",
    "name": "KFF Health News: What the Health?",
    "ok": true,
-   "count": 473
+   "count": 474
   },
   {
    "id": "readout",
    "name": "The Readout LOUD",
    "ok": true,
-   "count": 424
+   "count": 425
   }
  ]
 }
