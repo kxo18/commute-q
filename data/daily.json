@@ -1,6 +1,152 @@
 {
- "updated": "2026-11-06T17:12:29+00:00",
+ "updated": "2026-11-07T16:07:36+00:00",
  "days": [
+  {
+   "date": "2026-11-07",
+   "capstone": {
+    "listenOld": {
+     "id": "e-e30139f051",
+     "kind": "episode",
+     "title": "Data governance in Africa",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2022-02-02",
+     "summary": "As African tech continues to advance, Lesly Goh and Buhle Goslar discuss why and how the private sector can step up in protecting African consumers from digital harms and offer recommendations for businesses looking to be proactive in data…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 47
+    },
+    "read": [
+     {
+      "id": "a-9fdb9aa327",
+      "kind": "article",
+      "title": "$100bn Annual Diaspora Investment Possible With Better Resource Coordination – NIDCOM",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGtfQXhvbGZrbTFtUTc1R0hWUWZzejRXSUh3eE9NUko0MGRPQ1c2V09YUW51V3gzUWJlNDlaa2dPUTRKRjFvUThTMnk4QzRzeEQ1czlkM2F0YmpacmJNeWh1a01LMW1QbHBMYUx6YThMcDdZOUhtWXhaVnE4aUp2WmZMaHNfYm84ZVM3dDkwbUVKVGtFNEhnOFFKQXNFSTRIVWNkZnpPbWw?oc=5",
+      "date": "2026-11-06",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-b75ee0faaf",
+      "kind": "article",
+      "title": "Is transparency falling at the world's biggest donor agencies?",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXp2MkVFaktuVFZKUGhtMV9nTnZLTVQ2Nm1rN0k4TkhaSlQ2ZG9wLXpsSkZvaFNNTjhLakJFNFNtWlJSVWJjdGw1VUZLVlo5aXBjM0NsOE5XMGJEcHFqZElfQnZJTThsMEtTT0syTGFEOWw4cDREaW9QTFZoOG40NmZWMVJpVE9kcG9uVUZua0hIR0Rsb1duMmdYaw?oc=5",
+      "date": "2026-11-06",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-fc103b326a",
+      "kind": "article",
+      "title": "TOPS JOBS",
+      "url": "https://nigeriahealthwatch.com/jobs/tops-jobs-2/",
+      "date": "2026-11-06",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-b01d7a8502",
+     "kind": "episode",
+     "title": "A Blue Wave Hits Healthcare",
+     "url": "https://play.prx.org/listen?ge=prx_14448_a3e018c6-a890-4b40-b03b-b4fa2d4fad77&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-11-05",
+     "summary": "The blue wave widely predicted for the 2026 midterm elections not only appeared — it overperformed, with Democrats sweeping into majorities in the House and Senate. That sets up a new focus on health policy, with Democrats seeking to undo…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 52
+    },
+    "listenOld": {
+     "id": "e-6837924fac",
+     "kind": "episode",
+     "title": "AEE10: An Update on the Snowball of Drug Pricing Initiatives in Washington Right Now, With Josh LaRosa, MPP, Policy Director, Wynne Health Group",
+     "url": "https://healthvalue.libsyn.com/aee10-josh-larosa",
+     "date": "2020-02-18",
+     "summary": "In this episode, Stacey Richter talks with Josh LaRosa, MPP, policy director at the Wynne Health Group, for an update on the snowball of drug pricing initiatives moving through Washington. WHAT YOU'LL LEARN ✅ The status of Part D redesign…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 15
+    },
+    "read": [
+     {
+      "id": "a-442f479cee",
+      "kind": "article",
+      "title": "Two incoming lawmakers plan to defend health equity from Trump administration cuts",
+      "url": "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss",
+      "date": "2026-11-06",
+      "summary": "Two newly elected lawmakers with science backgrounds hope to push back against Trump administration cuts to health equity programs.",
+      "tags": [
+       "sdoh"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-347cfdfa55",
+      "kind": "article",
+      "title": "Embedding Prevention In Alternative Payment Models At The CMS Innovation Center",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzU0Wjl5RkEtM2JuUGdEMzFuUEZ1Q3Brdy1MSk5VNkhiRjRlMFNobklIRVNtTkZLYmFNdjhoR2JkaDhVNWRySk9pSGdwSXp6Y21yeC1jc1Z1Z2taQnA3ckxYUEV3ZVRkcDFKX2dDTm1jMmMzekdETFZMdXpncWY1WkJvSWc5TVJmbWFjMFZyaFRrd0hEclZJajNYVEJUajk0VlNBYjZIdFF4VTVfcDhOeENCNE1RTUtC?oc=5",
+      "date": "2026-11-05",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-55f2415753",
+      "kind": "article",
+      "title": "Ballot measures affirm divisions over abortion and transgender issues",
+      "url": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
+      "date": "2026-11-05",
+      "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-06",
    "capstone": {
@@ -6666,13 +6812,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "brookings-agi",
@@ -6690,7 +6836,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 4
+   "count": 9
   },
   {
    "id": "ifc",
@@ -6714,7 +6860,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 13
+   "count": 9
   },
   {
    "id": "nairametrics",
@@ -6744,7 +6890,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "id": "cure",
