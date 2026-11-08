@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-07T16:07:36+00:00",
+ "updated": "2026-11-08T16:31:27+00:00",
  "days": [
+  {
+   "date": "2026-11-08",
+   "capstone": {
+    "listenOld": {
+     "id": "e-884ad3e85e",
+     "kind": "episode",
+     "title": "To reduce inequality in Nigeria, focus on jobs, laws, and cash",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2025-04-30",
+     "summary": "Host Landry Signé and Belinda Archibong, a fellow with the Africa Growth Initiative at Brookings, discuss inequalities that hinder development across Africa and policy choices that can overcome them. These include increasing job…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 29
+    },
+    "read": [
+     {
+      "id": "a-433b8e4699",
+      "kind": "article",
+      "title": "How a Syrian Hospital Is Achieving 76% Childhood Cancer Survival Despite War and Shortages",
+      "url": "https://healthpolicy-watch.news/how-a-syrian-hospital-is-achieving-76-childhood-cancer-survival-despite-war-and-shortages/",
+      "date": "2026-11-08",
+      "summary": "A child diagnosed with cancer in a wealthy country has more than an 80 percent chance of surviving. In Syria, one hospital has managed to bring survival rates to 76 percent, despite years of war and severe shortages, while in parts of…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-eca6565319",
+      "kind": "article",
+      "title": "NMA Opposes Senate Plan To Jail Health Workers Over Rejection Of Emergency Patients",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU12Vm5obFRtbnppMUk4T3lfdmx5aGhVUEF1MDVnRnhsa0NJVjBXeG0tSTMxMmtod0tQSzR1SlctNXBma1NOekwwcGtuMEZlVE12cEtoSWd6SWZBaU9MeFhNRWNka045S0hLVEUzaFktOGxfclZGdThKUTV1cGRsVDVTNm5EVHdKaElvOEUyZ254bWwwSW1GNi1BOE9HdEN5REZHYVhCWWtaUQ?oc=5",
+      "date": "2026-11-07",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-864823c1e1",
+      "kind": "article",
+      "title": "Kwadon Residents Raise Concerns Over Lack of Ambulance for Emergency Maternal Referrals",
+      "url": "https://nigeriahealthwatch.com/articles/community-health-watch/kwadon-residents-raise-concerns-over-lack-of-ambulance-for-emergency-maternal-referrals/",
+      "date": "2026-11-06",
+      "summary": "Juliana Pius Birma A pregnant woman’s survival should not depend on finding a commercial tricycle during a medical emergency. At Kwadon Primary Healthcare Centre (PHC) in Yamaltu/Deba Local Government Area (LGA) of Gombe State, the lack of…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-aebbef2040",
+     "kind": "episode",
+     "title": "How Democrats’ Big Win Could Reshape Health Care",
+     "url": "https://tradeoffs.org/2026/11/05/how-democrats-big-win-could-reshape-health-care",
+     "date": "2026-11-05",
+     "summary": "Democrats scored huge margins in Congress and made big gains at the state level. What does it mean for health policy in the final two years of the Trump administration and beyond? Guest: Katie Keith , Director, Center for Health Policy and…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 22
+    },
+    "listenOld": {
+     "id": "e-32fa4c290b",
+     "kind": "episode",
+     "title": "Encore! EP419: The Financialization of Health Benefits for Boards of Directors and C-Suites of Self-Insured Employers, With Andreas Mang",
+     "url": "https://cc-lnk.com/Encore419",
+     "date": "2024-12-19",
+     "summary": "Are you on the board of directors of a company? Or a shareholder of a publicly traded company? Or a CEO, CFO, or in-house counsel who reports to a board of directors or shareholders? This encore episode is for you — it's about how the…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 39
+    },
+    "read": [
+     {
+      "id": "a-4d0801e1ea",
+      "kind": "article",
+      "title": "Pregnancy taught me a lot about healthcare",
+      "url": "https://www.outofpocket.health/p/pregnancy-taught-me-healthcare",
+      "date": "2026-11-07",
+      "summary": "A personal story and a patient journey",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     },
+     {
+      "id": "a-944ae5b281",
+      "kind": "article",
+      "title": "- The GIIN",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3VkdXVkRKRWhocFNNVXBmOHFKeTZuRkYyd1FPVmFJb1NUNkRtWTdTc2hIQU5reXo1UVB3UWpROUpNdDdoaUZlczJjWHhMVTVQV3I5aVNSQ1FXWjhtWmhCRzM0WHQ?oc=5",
+      "date": "2026-11-07",
+      "tags": [
+       "investment",
+       "development-finance"
+      ],
+      "tracks": [
+       "capstone",
+       "career"
+      ],
+      "source": "GIIN"
+     },
+     {
+      "id": "a-d1582cdb9c",
+      "kind": "article",
+      "title": "Evaluating The RAPID Pathway For Medical Devices",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU045VklWNENHMWdVc2ZRbW9HQjRyTC1kSGh0b28ySWJ1WF82VzgzcUtIcERJbFk1cnRWZkw2bWtXeUoteFI1RF9ZRmdJRUpxeGNQX3lVZk9odDlBT0ozc3BDMU0wU3VLcHhRUjVWQmd6ajd4WE9mNmE3WlRuOUVRT3NsUDhvWExCc3NJUGhoSHBxcmJ2WUtjWElZa3JtQnNvWk1Ja0tnNUluODEzOEFCS3J6dENWYnZCNzFMWV9DS1VZZDd5RHFCOGRSb0FHUQ?oc=5",
+      "date": "2026-11-06",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-07",
    "capstone": {
@@ -6818,7 +6968,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "brookings-agi",
@@ -6830,13 +6980,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "ifc",
@@ -6860,7 +7010,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "id": "nairametrics",
@@ -6878,7 +7028,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "oop",
@@ -6890,7 +7040,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 23
+   "count": 20
   },
   {
    "id": "cure",
