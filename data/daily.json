@@ -1,6 +1,137 @@
 {
- "updated": "2026-11-08T16:31:27+00:00",
+ "updated": "2026-11-09T20:27:21+00:00",
  "days": [
+  {
+   "date": "2026-11-09",
+   "capstone": {
+    "listenOld": {
+     "id": "e-fc0f0dab77",
+     "kind": "episode",
+     "title": "Partnerships elevate Africa's development successes",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2025-06-11",
+     "summary": "On this episode of Foresight Africa, hosted by Landry Signé, Gargee Ghosh, president of Global Policy and Advocacy at the Gates Foundation, explains why collaborative, context-specific, and innovative solutions elevate development success…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 31
+    },
+    "read": [
+     {
+      "id": "a-5a34f0ee91",
+      "kind": "article",
+      "title": "Moving From Policy to Practice: Integrating Family Planning into Nigeria’s Maternal Health Response",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/moving-from-policy-to-practice-integrating-family-planning-into-nigerias-maternal-health-response/",
+      "date": "2026-11-09",
+      "summary": "Nigeria’s efforts to reduce maternal deaths must address both the complications that arise during pregnancy and childbirth and the unintended pregnancies that can be prevented through quality family planning services. According to FP2030…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-4c44cf7d04",
+      "kind": "article",
+      "title": "As Zimbabwe Expands Solar Power, Women No Longer Have to Give Birth by Candlelight",
+      "url": "https://healthpolicy-watch.news/as-zimbabwe-expands-solar-power-women-no-longer-have-to-give-birth-by-candlelight/",
+      "date": "2026-11-09",
+      "summary": "HARARE, Zimbabwe – As she opened and shut the doors of four giant refrigerators inside a dispensary at Budiriro Polyclinic in the capital of Harare, the nurse beamed. Since the clinic became linked to solar power, critical medicines that…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-0cf973d5a6",
+      "kind": "article",
+      "title": "Special edition: Democrats won big. What could it change for foreign aid?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWVBOEhYc08wUDQ3N3FCZFZsRmYxd21DY3NtTnY0RlQ3SXMzWktBQ0ZNWFBxakxseW5VVzhXeW1DOXZPLXVOaF96bmhyNXFILUdpUXNWNzNhZWo0c1JRRW1TMmswYVU5WU5HNmJrV1dueWhFMFNvMTQ2R1lqaWtJZEVGNlpwTEZDeWdDZkRjMUgtNkpzcjFqZFlhLWYyVXZhelJnSTZhaw?oc=5",
+      "date": "2026-11-09",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-3d91c5e6d7",
+     "kind": "episode",
+     "title": "EP292: Teladoc Buys Livongo: What Are the Implications for Providers, Employers, and the Market? Part 1, With Bob Matthews and Dan O'Neill, MA, MS",
+     "url": "https://healthvalue.libsyn.com/ep292-part-1",
+     "date": "2020-09-15",
+     "summary": "In this Episode 292, Part 1, Stacey Richter talks with Bob Matthews, president and CEO of MediSync, and Dan O'Neill, MA, MS, about Teladoc buying Livongo — and what the merger means for providers, employers, and the market. WHAT YOU'LL…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 32
+    },
+    "read": [
+     {
+      "id": "a-c67a015c1f",
+      "kind": "article",
+      "title": "The FDA’s HRT Decision Was Irregular. Why Didn’t Anyone Notice?",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzctVW03a0Rkc21ZRjRQelZfTXVZSjNWSGtZb0tCcG9vV01wblVLZXV2cHY3aGl0S183VGwybmRuZ2R2SHRuVGphd29tcy1uODdLWUtmMjV0WXh6eWQ5TklIVFFNdE1ST3c0WFhGWHhVOUV4Y3c5WGFGc0NTb2ZjYlV2N1h3LWNZUGxlTlR0TF9NVkNFaVRMUU85c21Tb1o5UE5n?oc=5",
+      "date": "2026-11-09",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-18a0f09df5",
+      "kind": "article",
+      "title": "Opinion: STAT+: CVS’ split doesn’t fix its fundamental problem",
+      "url": "https://www.statnews.com/2026/11/09/cvs-health-split-pbm-conflict-examined-anthony-loiacono-judi-health/?utm_campaign=rss",
+      "date": "2026-11-09",
+      "summary": "CVS’ split into two doesn’t fix its fundamental problem, writes Judi Health CEO A.J. Loiacono.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-9f621f75a1",
+      "kind": "article",
+      "title": "Arjun Dutt",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mSVFlaXJJX1lZNERNbHp2T2FSRUp0RTdMX3g4QTYtOEVPZC1PX05iNkMtTXBFX1lmdTJLbk5Eam1kcVNyRFpNMTk5Z2NpakRQckdRd2QyTEpvODNYWVVmelZMVmdZb3I1X2hTLUx6RDRPWjFNZlNmUw?oc=5",
+      "date": "2026-11-09",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-08",
    "capstone": {
@@ -6962,13 +7093,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 8
+   "count": 6
   },
   {
    "id": "brookings-agi",
@@ -6980,7 +7111,7 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "giin",
@@ -6992,7 +7123,7 @@
    "id": "ifc",
    "name": "IFC",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "peoplemove",
@@ -7010,7 +7141,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "nairametrics",
@@ -7028,7 +7159,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "oop",
