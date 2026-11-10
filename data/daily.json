@@ -1,6 +1,153 @@
 {
- "updated": "2026-11-09T20:27:21+00:00",
+ "updated": "2026-11-10T17:30:25+00:00",
  "days": [
+  {
+   "date": "2026-11-10",
+   "capstone": {
+    "listenNew": {
+     "id": "e-f78ab2d219",
+     "kind": "episode",
+     "title": "Guiding Research Episode 4 – Politics and Polycrises",
+     "date": "2026-11-10",
+     "summary": "Building stronger health systems requires navigating an increasingly complex political and financial landscape. As global crises reshape health priorities and partnerships, how can countries strengthen their leadership and influence over…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 36
+    },
+    "listenOld": {
+     "id": "e-92978e2e0c",
+     "kind": "episode",
+     "title": "Introducing the Foresight Africa podcast, exploring Africa's dynamism and strategies to benefit all people in the region",
+     "url": "https://www.brookings.edu/ForesightAfricaPodcast",
+     "date": "2022-01-14",
+     "summary": "The Foresight Africa podcast celebrates the dynamism and optimism across Africa and explores strategies for broadening the benefits of growth to all people in the region. Host Aloysius Uche Ordu, director of the Africa Growth Initiative at…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 1
+    },
+    "read": [
+     {
+      "id": "a-966354a549",
+      "kind": "article",
+      "title": "The Health Financing Crisis Demands Innovation: Lessons From Pooled Sputum Testing for TB",
+      "url": "https://healthpolicy-watch.news/the-health-financing-crisis-demands-innovation-lessons-from-pooled-sputum-testing-for-tb/",
+      "date": "2026-11-10",
+      "summary": "At a laboratory in Cameroon, technicians receive sputum samples from people suspected of having tuberculosis (TB). Until recently, each person’s sample required a separate test cartridge to detect the bacteria that causes TB. But when…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-e22791595d",
+      "kind": "article",
+      "title": "How to win over wealthy donors: Don’t ask too early",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXdDazVSSFFjSjVncGtYcDlrbGxIWk9vd3AwOGV0MEp0QlVlOUVZUmhxWkpRNko4TEdnSk05aXl5MEVEM2trekEzY2E5dTJvUzBYSGQ5Y1JaZ05vaFBYVDVyd1BsTlYzS1hHWnkzYnhiczIyN3lObC1wX1F1T2JCdFV4dGJJMXdNcElmQlUycV90QQ?oc=5",
+      "date": "2026-11-10",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-205caa25cd",
+      "kind": "article",
+      "title": "Health Workers Threaten Fresh Strike Over Delay CONHESS Implementation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGxPemVfbzNfMW5qNy14ZXBGblRENXRmWGtLRi1OckY5TGZUdlBnQmpyQWZiVXFpQkxlQmdnNEpTX25LcVo4UG92WTNQMGZ3ZTNSRG91d2ZnQ0lhOFlwVE56T1dheVdUS0tDTmtPMHRXM3pSemdRM2h5R09RbUxmaXR5Z0xMMURyR3Vyd0thdEdVNm14bEhOWg?oc=5",
+      "date": "2026-11-05",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-2bfcc1af49",
+     "kind": "episode",
+     "title": "What Employer CEOs Are Figuring Out About Healthcare Costs Right Now, With John Quinn. EP493",
+     "url": "https://cc-lnk.com/EP493",
+     "date": "2025-11-13",
+     "summary": "Employer C-suites have been largely absent from healthcare purchasing decisions for decades — dipping in once a year at renewal, then handing the whole thing back to HR. That era is ending. Boards are noticing missed earnings numbers. CEOs…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 37
+    },
+    "read": [
+     {
+      "id": "a-ed43c4f8cf",
+      "kind": "article",
+      "title": "Healthcare is a US jobs program that’s now wobbling",
+      "url": "https://www.outofpocket.health/p/healthcare-jobs-program",
+      "date": "2026-11-10",
+      "summary": "Healthcare is the #1 employer, but that will need to change",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     },
+     {
+      "id": "a-dc35a84acf",
+      "kind": "article",
+      "title": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now",
+      "url": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
+      "date": "2026-11-10",
+      "summary": "BIO CEO: “Today’s biotech race is our generation’s Space Race.”",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-f8d3b7a823",
+      "kind": "article",
+      "title": "Practicality vs. reality in healthcare: A pregnancy case study",
+      "url": "https://www.outofpocket.health/p/pregnancy-guidelines-vs-reality",
+      "date": "2026-11-09",
+      "summary": "Guidelines and pragmatism in healthcare clash, our story",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-09",
    "capstone": {
@@ -7111,7 +7258,7 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "giin",
@@ -7123,7 +7270,7 @@
    "id": "ifc",
    "name": "IFC",
    "ok": true,
-   "count": 2
+   "count": 0
   },
   {
    "id": "peoplemove",
@@ -7141,7 +7288,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "id": "nairametrics",
@@ -7171,7 +7318,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 20
+   "count": 11
   },
   {
    "id": "cure",
@@ -7189,7 +7336,7 @@
    "id": "ghm",
    "name": "Global Health Matters",
    "ok": true,
-   "count": 95
+   "count": 96
   },
   {
    "id": "rhv",
