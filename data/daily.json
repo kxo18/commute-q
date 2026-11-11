@@ -1,6 +1,135 @@
 {
- "updated": "2026-11-10T17:30:25+00:00",
+ "updated": "2026-11-11T17:43:44+00:00",
  "days": [
+  {
+   "date": "2026-11-11",
+   "capstone": {
+    "listenOld": {
+     "id": "e-028bb40b6a",
+     "kind": "episode",
+     "title": "Following the Money: What Capital Flows Reveal About African Healthcare - Part 2",
+     "date": "2026-02-09",
+     "summary": "Healthcare doesn’t exist in isolation. It moves with capital, data, and economics. On this episode of The Cure, we follow the money to understand what capital flows reveal about the future of African healthcare. Temitope Coker, host of The…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 70
+    },
+    "read": [
+     {
+      "id": "a-b571204842",
+      "kind": "article",
+      "title": "What happened to USAID feeder schools",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Sbm5HbXFhMzNJZ3ZqR3NvWmwzelVDa050TzNjLXp1d1B2dW5POUNiU0VaR0ZIRDRVakhSLV9NdEZfZWhXODByd3pQUUpmUmJ6Ty1ZM2tiYThDRWJucXZWUWxqbW9ZdzBBZXpNN3ctNGo3OHM0aERQdkNwMA?oc=5",
+      "date": "2026-11-11",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-5fbffc879d",
+      "kind": "article",
+      "title": "Tobacco Taxes and Health Financing in the Eastern Mediterranean Region",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWxuVHcyRHAtYzY0ejFHRlpoWmM5eTZaek8yeGlNV1JlUXZzc1poQ2p2UGpIVmx3RDI5VHlvbWRCZEJqZ1dueFB5V1lEX3pucnJxenZ6cjFhemh4UkpYSzF6elRHWGFWLWxCcmJlb05fZDlMMkNPeUtwNk1MU256Ml9JeDBybWJDMUlfeDRPdTZTRmRy?oc=5",
+      "date": "2026-11-10",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-ef0d6f5e83",
+      "kind": "article",
+      "title": "EU courts private sector to plug humanitarian funding gaps",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzZCUWRpX09JajdWSElwTzN6ZE5HTFBkSHNrbmxrdzFwR21BcHkwRDNJZko5djE5NkhlX3d3cXNIbTJBWkprMWRQWE80cEljU2R0bXVsY09lYjByYmliekh3eU9TOEpjaEpNVDRpVHUtVEpBbFZPcU5taGJxZmZIcmhsclotRTlLa2F6M3NCSmdocDVtMXRZ?oc=5",
+      "date": "2026-11-05",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-24d1b645b9",
+     "kind": "episode",
+     "title": "EP449: For Clinical Leaders, Payers, and Plan Sponsors, Let's Talk About Blind Spots for Getting Patients or Members Appropriate Care, With Marty Makary, MD, MPH",
+     "url": "https://cc-lnk.com/EP449",
+     "date": "2024-09-12",
+     "summary": "Stacey Richter had a chance to read Dr. Marty Makary's new book, Blind Spots, and invited him back on Relentless Health Value to talk about something he said on page 127: the idea of what is appropriate care and how good the industry…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 38
+    },
+    "read": [
+     {
+      "id": "a-3ab2b9307f",
+      "kind": "article",
+      "title": "The Next Phase of Medicare Drug Price Negotiations Is Here",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zcmZMNmVjNlBqaEZQd3o3anZzaDJzOW1sS0ZwSHVXcl9rb1dzOHRkSnJKTnhBelVZVWpLUGItTzgxclhyYVFSUER3X3kxZEVFckZnQkhoNDJ1dEhEck5wSnA2Q3o1SzJCaVE?oc=5",
+      "date": "2026-11-10",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-c2cd9f3c4f",
+      "kind": "article",
+      "title": "The U.S. may soon lose measles elimination status",
+      "url": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
+      "date": "2026-11-11",
+      "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-adc5793cc7",
+      "kind": "article",
+      "title": "Are AI tools actually helping people at work?",
+      "url": "https://www.outofpocket.health/p/are-ai-tools-actually-helping-people-at-work",
+      "date": "2026-11-09",
+      "summary": "Work culture is changing with AI in interesting ways",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-10",
    "capstone": {
@@ -7240,7 +7369,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "devex",
@@ -7276,7 +7405,7 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "nhw",
@@ -7288,7 +7417,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 9
+   "count": 6
   },
   {
    "id": "nairametrics",
@@ -7306,7 +7435,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "oop",
@@ -7318,7 +7447,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "id": "cure",
@@ -7336,7 +7465,7 @@
    "id": "ghm",
    "name": "Global Health Matters",
    "ok": true,
-   "count": 96
+   "count": 95
   },
   {
    "id": "rhv",
