@@ -1,6 +1,157 @@
 {
- "updated": "2026-11-11T17:43:44+00:00",
+ "updated": "2026-11-12T17:56:18+00:00",
  "days": [
+  {
+   "date": "2026-11-12",
+   "capstone": {
+    "listenOld": {
+     "id": "e-2e26040495",
+     "kind": "episode",
+     "title": "How the United Nations and the private sector partner for global prosperity",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2025-10-15",
+     "summary": "In this second episode of our special three-part series on the 2025 U.N. General Assembly, host Landry Signé brings together global leaders from government, business, and international institutions to explore how the United Nations is…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 24
+    },
+    "read": [
+     {
+      "id": "a-a8608bd57b",
+      "kind": "article",
+      "title": "Can Nigeria’s MAMII Initiative Bring Family Planning into Routine Maternal Care?",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/can-nigerias-mamii-initiative-bring-family-planning-into-routine-maternal-care/",
+      "date": "2026-11-12",
+      "summary": "Nigeria has introduced several policies and programmes aimed at expanding access to contraceptives, from its FP2030 commitment to achieve a modern contraceptive prevalence rate (mCPR) of 27% by 2030, to the National Family Planning…",
+      "tags": [
+       "workforce",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-e616f4f5ac",
+      "kind": "article",
+      "title": "NDIS 2026 Closes Amid High Hopes For More Diaspora Investment Into Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSU5rbUlSbDAyN0lSOGFEWUVsUmgzVHVHOWdGemNGZlhoV1dDN3k1YUJkNlFVem1IMUJEWENPc1NMTTVsZUxzQ3pTbi1kWTktSnVZcWt5SEdRcl9KR280NjduTFkwV0piMnZLODVwbXZZSURGRWQ5dkxlaUVFNF9ZY1FydGRWOWRJTXp0RlZlZnBlRFBJS0UtdXdOcDFqUQ?oc=5",
+      "date": "2026-11-12",
+      "tags": [
+       "nigeria-system",
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-0fbbe5b86c",
+      "kind": "article",
+      "title": "Devex CheckUp: GiveWell and the Global Fund have a deal. Who calls the shots?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY1ZmZGVwUENtWDFvUXcwRkVPNEcwOXZ5TGR0eXhUQUd4T1FtSGlzMjF3aUJ3ZHJFTVBFMjJZNVVjMzBNNFJZREFmZ3Z5VzdHanhSR3pUX0ViUjRjSHRDS2U3TFloZXlfaVZUek5remgxaTBUT2xwVC0wNmg5OVUwbEQxT3M1S0tyVEZTRnBhMENGN3FyQV9ZX3Jrc216WmpVejlfdjNRTGdKUk1n?oc=5",
+      "date": "2026-11-12",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-5d51a61e57",
+     "kind": "episode",
+     "title": "This Tiny Agency Carries Big Sway on Medicare Policy. Meet the Man Who Led It.",
+     "url": "https://tradeoffs.org/2026/11/12/this-tiny-agency-carries-big-sway-on-medicare-policy-meet-the-man-who-led-it",
+     "date": "2026-11-12",
+     "summary": "Harvard professor Michael Chernew reflects on his recent stint chairing the highly influential nonpartisan agency known as MedPAC. Guest: Michael Chernew , Professor of Health Care Policy, Harvard Medical School; former Chair, Medicare…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 20
+    },
+    "listenOld": {
+     "id": "e-9c75ff5a45",
+     "kind": "episode",
+     "title": "What to Expect When Medicare and Pharma Finally Negotiate Drug Prices",
+     "url": "https://tradeoffs.org/2023/07/27/medicare-drug-price-negotiation",
+     "date": "2024-08-15",
+     "summary": "The Inflation Reduction Act gave Medicare historic new power to directly negotiate the prices of some of the costliest prescription drugs. Now the federal agency must grapple with a difficult question: What makes a drug price fair? This…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 26
+    },
+    "read": [
+     {
+      "id": "a-2c04db8db7",
+      "kind": "article",
+      "title": "Newly elected doctors and scientists hope to restore trust in science. It won’t be easy",
+      "url": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
+      "date": "2026-11-12",
+      "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-69cac0c205",
+      "kind": "article",
+      "title": "Expanding GLP-1 Access Under The BALANCE Model: Supporting Sustainable Medicaid Participation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkxaYlc5SUlLXzdGWWRaVVRSdGh6U1dpZ3M1aFk3YlRpNVNnRjgwQko3NDA0MzlCR0JmTm9IOXJWQnh5TG1QX3R5QlJOam1sU1VlVFdHSTFfeng1MUFGY1dVc2RFWnBaZDYtcElMUHViUnJqel9MQWxXdXVhTnpKeFg1SThjTGVkSWdXQldJMndUX25HUGlXczU0SkdiTDBLYzBiakt6a043TVhzUk9KU2RhUlRPb2JlN1hlQ0hCVQ?oc=5",
+      "date": "2026-11-10",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-6bda5a4e4b",
+      "kind": "article",
+      "title": "How to make a good first impression at a healthcare job",
+      "url": "https://www.outofpocket.health/p/how-to-make-a-good-first-impression-at-a-job",
+      "date": "2026-11-09",
+      "summary": "Your 90 day plan is here",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-11",
    "capstone": {
@@ -7375,19 +7526,19 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "giin",
@@ -7417,7 +7568,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "nairametrics",
@@ -7435,7 +7586,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 2
+   "count": 7
   },
   {
    "id": "oop",
@@ -7447,7 +7598,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 13
+   "count": 16
   },
   {
    "id": "cure",
@@ -7477,7 +7628,7 @@
    "id": "tradeoffs",
    "name": "Tradeoffs",
    "ok": true,
-   "count": 338
+   "count": 339
   },
   {
    "id": "wth",
