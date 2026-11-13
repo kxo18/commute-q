@@ -1,6 +1,153 @@
 {
- "updated": "2026-11-12T17:56:18+00:00",
+ "updated": "2026-11-13T17:31:42+00:00",
  "days": [
+  {
+   "date": "2026-11-13",
+   "capstone": {
+    "listenOld": {
+     "id": "e-0d17fd7532",
+     "kind": "episode",
+     "title": "Congress and the Africa agenda: A conversation with Rep. Gregory Meeks",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2026-06-17",
+     "summary": "Host Landry Signé visits Capitol Hill to talk with Hon. Gregory Meeks, representative for New York's 5th Congressional District and ranking member of the House Foreign Affairs Committee. Their discussion touches on the importance of Africa…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 18
+    },
+    "read": [
+     {
+      "id": "a-fc1f018f9c",
+      "kind": "article",
+      "title": "Beyond Innovation: What Will It Take to Make Maternal Health Solutions Work for Every Woman in Nigeria?",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/beyond-innovation-what-will-it-take-to-make-maternal-health-solutions-work-for-every-woman-in-nigeria/",
+      "date": "2026-11-13",
+      "summary": "Nigeria has promising solutions to prevent maternal deaths. From digital health solutions and innovative financing models to quality improvement initiatives and community-based care, evidence-based interventions are emerging to address…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-1bac4e7e57",
+      "kind": "article",
+      "title": "Resilience is not recovery: NTD programs adapt following USAID cuts",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWFidDVFYlEtY2k3dHRBRk1jVk9OTGdkeDZua2dIRHdFcDBBdU1rUkgwY3p0REpHQi1ucWpsNGVERVJQcHV1M3JvdlNQREltTjBsTklhV0NtQ2FGRWlqUU5yTjNNM1pSU2IwbU9vR0VYa2JsTlpkSW05ZnJFZkZsRjlQODNnbXVrbGY5M3U0QTByWlRpTW12NG5pU084Q1VrVEE?oc=5",
+      "date": "2026-11-12",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-f775bd1acf",
+      "kind": "article",
+      "title": "2026 NDIS Targets Trust Gap To Boost Diaspora Investments",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXJBTmU1bThJS0U5LW1LSXUwNkVMcFZkUTJHQ1NMSmUyTnR4eEZFNTBvWjJxaFFuT0V2OFZpZlZnRmpHUFV5NzJ0NUdJczhpLVNHS1NvaXY5SkhHQlphSTMxOEFSYUZGdmJuYU4yOU53bUNiMEdSbFgxaG1tdjlIRUNUWFpsaVU?oc=5",
+      "date": "2026-11-12",
+      "tags": [
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-8a3501aba1",
+     "kind": "episode",
+     "title": "421: The future of heart drug research in the wake of study setbacks",
+     "date": "2026-11-13",
+     "summary": "On this week’s episode of \"The Readout LOUD\": the failure of two closely followed heart disease drugs and how these setbacks may impact the future of cardiovascular drug research. Plus, drug safety concerns weigh on some of the biggest…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 20
+    },
+    "listenOld": {
+     "id": "e-da88e4775f",
+     "kind": "episode",
+     "title": "EP318: A Primer for Pharma Looking to Collaborate With Health Systems, From the Point of View of Troy Larsgard, a Pharmaceutical Category Manager at Johns Hopkins",
+     "url": "https://healthvalue.libsyn.com/ep318",
+     "date": "2021-04-15",
+     "summary": "In Episode 318, Stacey Richter talks with Troy Larsgard, category manager of pharmaceuticals at Johns Hopkins Medicine, about what a great strategic collaboration between Pharma and a health system actually looks like — from the point of…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 28
+    },
+    "read": [
+     {
+      "id": "a-8dd37dd72d",
+      "kind": "article",
+      "title": "Senator-elect Abdul El-Sayed on restoring trust in science, the state of public health, and RFK Jr.",
+      "url": "https://www.statnews.com/2026/11/13/senator-abdul-el-sayed-interview-public-health-rfk-jr-trust-in-science/?utm_campaign=rss",
+      "date": "2026-11-13",
+      "summary": "Senator-elect Abdul El-Sayed talks to STAT about restoring trust in science, the state of public health, and RFK Jr.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-7e1ea44129",
+      "kind": "article",
+      "title": "Experts: States Could Curtail ACA Medicaid Expansions In Response To HR 1",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZG9qb1BXRXFqd1lkOGs2bUR5Q0tfM2lnWk5yVnBUWll6Y3VUNW15dF8zeFBrcWhDbkw0X3F2b0tFWDZ3azNIS19JTnBZeGc0WWQ0bE1ZcGc3OUgtZTQ4TXdWdXdBR1JwbGJXSkFLaXZBQVEyY3puVEthZUlaRFppUXlsZHdWdHg1b3k1YktIc0w4QkRMM2E3MXYwZXNhcVRBWnVObWxSVnlVb3VXQVl1VWZ6aFA?oc=5",
+      "date": "2026-11-12",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-97170f0a6f",
+      "kind": "article",
+      "title": "We want to give you $ to start a healthcare company",
+      "url": "https://www.outofpocket.health/p/money-to-start-a-healthcare-company",
+      "date": "2026-11-13",
+      "summary": "so you wanna come to our events?",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-12",
    "capstone": {
@@ -7526,7 +7673,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "brookings-agi",
@@ -7538,7 +7685,7 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 1
   },
   {
    "id": "giin",
@@ -7556,19 +7703,19 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "nhw",
    "name": "Nigeria Health Watch",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "nairametrics",
@@ -7586,7 +7733,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "id": "oop",
@@ -7598,7 +7745,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 16
+   "count": 13
   },
   {
    "id": "cure",
@@ -7634,13 +7781,13 @@
    "id": "wth",
    "name": "KFF Health News: What the Health?",
    "ok": true,
-   "count": 474
+   "count": 475
   },
   {
    "id": "readout",
    "name": "The Readout LOUD",
    "ok": true,
-   "count": 425
+   "count": 426
   }
  ]
 }
