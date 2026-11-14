@@ -1,6 +1,154 @@
 {
- "updated": "2026-11-13T17:31:42+00:00",
+ "updated": "2026-11-14T16:23:58+00:00",
  "days": [
+  {
+   "date": "2026-11-14",
+   "capstone": {
+    "listenOld": {
+     "id": "e-d3cc7f3233",
+     "kind": "episode",
+     "title": "Lifting the lid on corruption to cure health systems",
+     "date": "2022-11-22",
+     "summary": "Corruption is one of the most important barriers to implementing universal health coverage around the world; imagine what that world would look like! The subject of corruption in global health is often muted and totally taboo for some to…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 46
+    },
+    "read": [
+     {
+      "id": "a-1365c41b03",
+      "kind": "article",
+      "title": "MAMII Private Sector Compact: Government-Private Sector Partnership to Address Maternal Mortality in Nigeria",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/mamii-private-sector-compact-government-private-sector-partnership-to-address-maternal-mortality-in-nigeria/",
+      "date": "2026-11-14",
+      "summary": "On the second day of the 2026 Joint Annual Review (JAR) of the health sector in Abuja, the MAMII private sector compact was launched. The government-led compact, supported by the World Economic Forum, Gates Foundation, MTN Foundation and…",
+      "tags": [
+       "nigeria-system",
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-3655793746",
+      "kind": "article",
+      "title": "NDIS 2026 Brims With Investments In Capital Market For Nigerians In Diaspora",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnVFVU5tWjNCZUx1UkRoWTRBbEZDTXRyUjBOc1dlX0hLbE5PTnB4QVNCZEN1cWhyUV9nc3lxXzRhblkwQk1RSV9OejZaU2ZoMWRuUHc3SEl0WDFDMjZfdGV3d05Nb1ZtQWVjQzdrdXBzbUNVa0Q5cVZ1Rk1UR1ZvanA1dFpvcXpDdUlualB6blFBU3ZjSWxiSXZPeDQ0MHJ0?oc=5",
+      "date": "2026-11-12",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-1c639d3922",
+      "kind": "article",
+      "title": "Beyond Commitments: Making Nigeria’s Health Investments Count for Mothers and Communities",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/beyond-commitments-making-nigerias-health-investments-count-for-mothers-and-communities/",
+      "date": "2026-11-14",
+      "summary": "Nigeria’s health sector is at an important moment. Across the country, renewed investments in primary health care, maternal and newborn health, health insurance and local production are beginning to show measurable results. At the 2026…",
+      "tags": [
+       "nigeria-system",
+       "investment"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-865481048d",
+     "kind": "episode",
+     "title": "How Would They Fix It?",
+     "url": "https://play.prx.org/listen?ge=prx_14448_f4eab6c8-3667-4f98-8794-51d22b1fd673&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-11-12",
+     "summary": "The Democrats’ near sweep of the midterms has placed health reform firmly near the top of the national agenda. As fodder for the debate, KFF Health News chief Washington correspondent Julie Rovner launched a project this year called “How…",
+     "tags": [
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 24
+    },
+    "listenOld": {
+     "id": "e-d0fad28e2d",
+     "kind": "episode",
+     "title": "EP395: Consolidated Hospital Systems and Cunning Anticompetitive Contracts, With Brennan Bilberry",
+     "url": "https://healthvalue.libsyn.com/ep395-consolidated-hospital-systems-and-cunning-anticompetitive-contracts-with-brennan-bilberry",
+     "date": "2023-02-23",
+     "summary": "Consolidated Hospital Systems and Cunning Anticompetitive Contracts, With Brennan Bilberry (EP395) Four Contract Terms Every Anticompetitive Hospital System Uses to Lock In Higher Prices. Episode 395. Stacey Richter talks with Brennan…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 36
+    },
+    "read": [
+     {
+      "id": "a-5652592094",
+      "kind": "article",
+      "title": "Unions’ Lawsuit Against The New York And Presbyterian Hospital Can Continue",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOamJYMjJHcktlMVNZM29RcGQyY2hLTnRsTzR3V1VTaU44eGU2Rm9kUDI2Vk5MZG03QjhNekZLM0NQYkhqdzFxSHVnaHMxU3NQZWJoeFBkZnlYbUdJSXkzWDRlZFVKWG00VDY2SzRfZ1Q3MFF1WDhDanpLb002UndOLXVmMzFBeDUxRVo5MTd4MkZ5WnJtMkZybWV5a01yYnZyclY1QXJVRm1KNDQwNTNWR1M2UWczaU0td1E?oc=5",
+      "date": "2026-11-13",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-8e631bf41e",
+      "kind": "article",
+      "title": "Opinion: New organ donation rules are unfair to families",
+      "url": "https://www.statnews.com/2026/11/13/organ-donation-policy-life-sustaining-treatment-brain-death/?utm_campaign=rss",
+      "date": "2026-11-13",
+      "summary": "New organ donation rules may “blur the line between the physicians fighting to save a patient's life and the teams responsible for organ procurement.”",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-612cd86d1c",
+      "kind": "article",
+      "title": "Brain implant startup pauses trials",
+      "url": "https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/?utm_campaign=rss",
+      "date": "2026-11-13",
+      "summary": "Synchron has paused clinical trials of its second-generation brain-computer interface. Leaders say the pause is not safety related.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-13",
    "capstone": {
@@ -7673,13 +7821,13 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "hpw",
@@ -7691,7 +7839,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "id": "ifc",
@@ -7715,7 +7863,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "nairametrics",
@@ -7733,7 +7881,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "id": "oop",
@@ -7745,7 +7893,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "cure",
