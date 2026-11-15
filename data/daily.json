@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-14T16:23:58+00:00",
+ "updated": "2026-11-15T16:49:45+00:00",
  "days": [
+  {
+   "date": "2026-11-15",
+   "capstone": {
+    "listenOld": {
+     "id": "e-ab203a813e",
+     "kind": "episode",
+     "title": "Meet African girls' educational needs by listening to their experiences",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2025-05-28",
+     "summary": "Adefunke Ekine and Mary Otieno, university educators from Nigeria and Kenya respectively, and alumnae of the Echidna Scholars Program at Brookings, talk with Foresight Africa host Landry Signé on why innovation and listening to girls'…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 36
+    },
+    "read": [
+     {
+      "id": "a-38522e015c",
+      "kind": "article",
+      "title": "“Our Voices Have Been Heard”: Tirikania’s Sustained Community Engagement Leads to a New Primary Healthcare Facility",
+      "url": "https://nigeriahealthwatch.com/articles/community-health-watch/our-voices-have-been-heard-tirikanias-sustained-community-engagement-leads-to-a-new-primary-healthcare-facility/",
+      "date": "2026-11-14",
+      "summary": "Rabi Mustapha For years, accessing primary healthcare in Tirikania community meant visiting a rented apartment that served as the community’s Primary Healthcare Centre (PHC). The limited space created challenges for healthcare workers and…",
+      "tags": [
+       "workforce",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-17558b6951",
+      "kind": "article",
+      "title": "NANS Demands HMO Reforms, Threatens Protest Over NHIA Leadership",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGgxZzM5WDIxQkc1cmpyNlo5VmpKbkQxMUJkSnJqY0pFVUs3YUhtM2F6UGxNU2FzY0JSaThkZHVXek1ZT1pmUTlKcmsxWkEtcEUyZjB0U0c1bWpybUNFNE93ZXQwSlJVZVVVRF9nX0xhWnZEdlBMSFdaalRfd1NnV2RQRUVaWE5NRlk5bVF1OA?oc=5",
+      "date": "2026-11-14",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-4d8a9b05c1",
+      "kind": "article",
+      "title": "SEAHEARTS: South-East Asia’s Success Rolling out Strategies to Accelerate Action on Diabetes and other NCDs",
+      "url": "https://healthpolicy-watch.news/seahearts-south-east-asias-success-rolling-out-strategies-to-accelerate-action-on-diabetes-and-other-ncds/",
+      "date": "2026-11-14",
+      "summary": "The SEAHEARTS initiative in WHO’s South-East Asia Region offers an outstanding example of how we can build health systems that address diabetes and other related conditions – worth special attention on World Diabetes Day, as we grapple…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-97809a9822",
+     "kind": "episode",
+     "title": "Physicians as the Sleeping Giant—Why Many Doctors Don't Push Back and Some Advice, With Benjamin Schwartz, MD, MBA",
+     "url": "https://cc-lnk.com/EP537",
+     "date": "2026-11-11",
+     "summary": "Waking the Sleeping Giant of Physicians: Why Doctors Stay Quiet and Where They Can Gain Leverage. Episode 537. Waking up the sleeping giant that is physicians. Employers have been called the sleeping giant of healthcare for years, so if…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 35
+    },
+    "listenOld": {
+     "id": "e-2f3262bcd8",
+     "kind": "episode",
+     "title": "Encore! EP418: Mark Cuban With a PSA for CEOs and CFOs of Self-insured Employers, With Mark Cuban and Ferrin Williams, PharmD, MBA, From Scripta",
+     "url": "https://cc-lnk.com/Encore418",
+     "date": "2024-11-21",
+     "summary": "In this encore episode, Mark Cuban discusses his insights and experiences disrupting the healthcare and pharmacy benefits landscape with Stacey Richter. This show was one of the most popular episodes of the past year, and it's also…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 56
+    },
+    "read": [
+     {
+      "id": "a-cc29162f79",
+      "kind": "article",
+      "title": "The future of heart drug research in the wake of study setbacks",
+      "url": "https://www.statnews.com/2026/11/13/cardiovascular-disease-heart-drug-failures-readout-loud-podcast/?utm_campaign=rss",
+      "date": "2026-11-13",
+      "summary": "What does the failure of two closely watched heart disease medicines mean for the future of drug research in the field? Find out on this week's episode of \"The Readout…",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-21d9247de2",
+      "kind": "article",
+      "title": "Counted Out: Belonging, Data, And The Health Of Multiracial Americans",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGljWkpMZG11Skp5TDFYbXFhQUx2cWE2c3o2MkRFR3JCU2Y4UThHMUFfLVc2T2hGSlZ1bVIxNTVCV3dIc3JMMzZQOFRxVDZEV21fRDlPU0FaTElfczlVX2tocVlXaUFNd0NuZ2szOTRBMHA3bm1TTmllM1ZfLWR6RWNCRlRzN1Vnb1FyM2p5aGROMnVtQ1ZXaklzblQ0dDZPWmpBUnkwc2ZtSW8?oc=5",
+      "date": "2026-11-13",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-332ff0eb2f",
+      "kind": "article",
+      "title": "Don’t Mistake AI For A Ladder Out Of Our Deficit Hole",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDc4Y0xaSkgtZGgyNzNtbFRqX1NSWTFiREtJZkpHZWFuTkZiSEhZeXVINjJ1UzVuNF9OMjNWTVZzc3JYakpWcjVZSndRc212X1VKYThVNkZCbU9HVzM4SEN5aWNualh5YlhxSUtJbnFrcjQ5TnA5TThwOVVteVVzdW55b2FHelVhVHk3aWhxZEpHSGdGb2xV?oc=5",
+      "date": "2026-11-12",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-14",
    "capstone": {
@@ -7731,6 +7881,21 @@
  "radar": {
   "s-pate-insurance": [
    {
+    "id": "a-17558b6951",
+    "kind": "article",
+    "title": "NANS Demands HMO Reforms, Threatens Protest Over NHIA Leadership",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGgxZzM5WDIxQkc1cmpyNlo5VmpKbkQxMUJkSnJqY0pFVUs3YUhtM2F6UGxNU2FzY0JSaThkZHVXek1ZT1pmUTlKcmsxWkEtcEUyZjB0U0c1bWpybUNFNE93ZXQwSlJVZVVVRF9nX0xhWnZEdlBMSFdaalRfd1NnV2RQRUVaWE5NRlk5bVF1OA?oc=5",
+    "date": "2026-11-14",
+    "tags": [
+     "nigeria-system"
+    ],
+    "tracks": [
+     "capstone"
+    ],
+    "source": "Leadership.ng",
+    "attached": "2026-11-15"
+   },
+   {
     "id": "a-e51c173dd8",
     "kind": "article",
     "title": "NHIA Moves Against Hospitals Denying Insured Patients Care",
@@ -7815,7 +7980,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "devex",
@@ -7839,7 +8004,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "ifc",
@@ -7851,7 +8016,7 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "nhw",
@@ -7863,7 +8028,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "nairametrics",
@@ -7893,7 +8058,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "id": "cure",
