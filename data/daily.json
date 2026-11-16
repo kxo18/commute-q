@@ -1,6 +1,139 @@
 {
- "updated": "2026-11-15T16:49:45+00:00",
+ "updated": "2026-11-16T20:01:28+00:00",
  "days": [
+  {
+   "date": "2026-11-16",
+   "capstone": {
+    "listenOld": {
+     "id": "e-9532eea89d",
+     "kind": "episode",
+     "title": "Connecting Africa's tech talent with the world",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2022-03-30",
+     "summary": "Dr. Cecilia Värendh Månsson, founder and CEO of the Lagos-based TalentUp Africa, tells host Aloysius Uche Ordu about founding her HR technology and employment company in Lagos. She also describes some of the challenges of starting a new…",
+     "tags": [
+      "nigeria-system"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 42
+    },
+    "read": [
+     {
+      "id": "a-c4033565c3",
+      "kind": "article",
+      "title": "Jakarta Mounts Firm Defence of Sadikin’s WHO Bid, Rejecting Civil Society Allegations",
+      "url": "https://healthpolicy-watch.news/jakarta-defence-sadikin-who-bid/",
+      "date": "2026-11-16",
+      "summary": "Jakarta has mounted a formal defence of Health Minister Budi Gunadi Sadikin’s WHO bid to become Director-General and the internal reforms he undertook as Health Minister, curbing the powers of Indonesia’s powerful health and medical…",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-fe1b19fb51",
+      "kind": "article",
+      "title": "Chigari Foundation Is Working with Traditional Leaders to Expand Inclusive Immunisation in Communities Across Kaduna",
+      "url": "https://nigeriahealthwatch.com/articles/torchlight/chigari-foundation-is-working-with-traditional-leaders-to-expand-inclusive-immunisation-in-communities-across-kaduna/",
+      "date": "2026-11-16",
+      "summary": "Long before Yunusa Lawal became the Routine Immunisation Officer (RIO) for Zaria Local Government Area (LGA) in Kaduna State, he was already familiar with vaccine hesitancy, a persistent challenge facing immunisation efforts among…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-a3266dab60",
+      "kind": "article",
+      "title": "NHEA 2027 Opens Nominations, Spotlights Compliance And Accreditation as Drivers Of Healthcare Transformation",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/nhea-2027-opens-nominations-spotlights-compliance-and-accreditation-as-drivers-of-healthcare-transformation/",
+      "date": "2026-11-16",
+      "summary": "The Nigerian Healthcare Excellence Award (NHEA) has opened nominations for its 13th edition, scheduled for Friday, June 25, 2027, at Eko Hotel & Suites, Victoria Island, Lagos, by 5:00 p.m. Nominations close at midnight on Friday, April…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-885705d1ae",
+     "kind": "episode",
+     "title": "EP338: Ideas to Meet Rural Healthcare's Tough Challenges, With Nikki King, DHA",
+     "url": "https://healthvalue.libsyn.com/ep338",
+     "date": "2021-09-23",
+     "summary": "In Episode 338, Stacey Richter talks with Nikki King, DHA, about ideas to meet rural healthcare's toughest challenges. Nikki offers three community-centric ideas: freestanding ERs with the financial discipline not to take advantage of the…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 34
+    },
+    "read": [
+     {
+      "id": "a-4994ed9239",
+      "kind": "article",
+      "title": "Democrats settle on a message: ‘Medicare for More’",
+      "url": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-e3f6e67577",
+      "kind": "article",
+      "title": "Opinion: Medical school should start after students take the Step 1 exam",
+      "url": "https://www.statnews.com/2026/11/16/medical-school-step-1-exam-redesign-proposal/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "summary": "“It’s time for a radical reimagining of medical education,” write Rachel Fabi and Amy Caruso Brown.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-d5d98c8124",
+      "kind": "article",
+      "title": "After difficult two years, medical school group’s leadership isn’t letting its guard down post midterms",
+      "url": "https://www.statnews.com/2026/11/16/aamc-ceo-david-skorton-qa-challenges-academic-medicine/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "summary": "After a tumultuous two years entangled in many consequential health and science policy debates, AAMCs isn’t ready to let its guard down.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-15",
    "capstone": {
@@ -7979,26 +8112,29 @@
   {
    "id": "cgd",
    "name": "CGD",
-   "ok": true,
-   "count": 0
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "devex",
    "name": "Devex",
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "id": "giin",
@@ -8028,13 +8164,14 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "id": "nairametrics",
    "name": "Nairametrics",
-   "ok": true,
-   "count": 0
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "eudif",
@@ -8046,7 +8183,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "oop",
@@ -8057,8 +8194,9 @@
   {
    "id": "haf",
    "name": "Health Affairs Forefront",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "id": "cure",
