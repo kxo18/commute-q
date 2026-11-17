@@ -1,6 +1,151 @@
 {
- "updated": "2026-11-16T20:01:28+00:00",
+ "updated": "2026-11-17T18:57:32+00:00",
  "days": [
+  {
+   "date": "2026-11-17",
+   "capstone": {
+    "listenNew": {
+     "id": "e-ab1ff976de",
+     "kind": "episode",
+     "title": "Dialogues: a conversation with Dixon Chibanda on friendship, connection and healing",
+     "date": "2026-11-17",
+     "summary": "In this episode of Dialogues, host Garry Aslanyan speaks with Zimbabwean psychiatrist Dixon Chibanda , author of “The Friendship Bench : how fourteen grandmothers inspired a mental health revolution.” The conversation begins with a tragic…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 39
+    },
+    "listenOld": {
+     "id": "e-db7d26ec44",
+     "kind": "episode",
+     "title": "Decolonization, localization and WHO - History matters part 1",
+     "date": "2023-05-09",
+     "summary": "In this episode we explore the multifaceted history of global health and how the narratives borne out of colonization, geopolitical events, and national ownership of public health inform policy and practices today. Among the narratives is…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 39
+    },
+    "read": [
+     {
+      "id": "a-e7b2e25f05",
+      "kind": "article",
+      "title": "Nigeria: How Emissions Reduction Can Unlock Government Revenues",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1hqaklRcGtCaFc2NGRZXzhUU1NZdG9pRGhJSTAzckU4RXRzT0tiRHB3cFRCU0FXUG5rczRrYmN6R3Q1SHd5Z00wNFlDMFVXa19iMFFBQ1FOT3dlMy1ma1lZcTRFZ254dWdXdmRWZTlfUW4xVjV2T2RoQWYyejhMWjdndlV1dThCaHFVa3l6bmI1TzZDQ2k5UTdpOVg?oc=5",
+      "date": "2026-11-17",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-d58e23d44a",
+      "kind": "article",
+      "title": "Ukraine’s schools aren’t waiting for peace to adapt. Neither should donors",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFZIeVdFTzBBQnRJSW5MdEpjWDV0dS1oVjR5c0NSWWltNElnRE52ZnNfMzNzZEpMcjlBNGpTOEdUU0tKVG5vdlpmSnlGa2h5WkJKcFBFcW1Odk5KczBtMkZKeHlkRWRnVW1zM05iMjhHTUN1bC1Qa19nYkJ3QjQzNFRfeGpMRXRGRFBNUDBjNm1UNTZvQWp5d1oxYzFIUHZoQ1FMNlBFNjZFZ0E?oc=5",
+      "date": "2026-11-17",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-dbf6788e45",
+      "kind": "article",
+      "title": "2027 Grammys: Tems Bags Four Nominations as Seven Nigerian and Diaspora Artistes Make the List",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0NDaUVzalZWZEJlcm4tYnFRZ25nYUgwU1czY0R6UDg3WXcwYVJBZ2VpUDhrVWlQYzZQOWd6SnJlQ0hpM25WR1VBd3lNWXprSDU1ZXFhemdabDdnYXZDQzFIOFBUemVjWTJqTzZZWklnRURNV0kyWUl4YnpNTXlmMHo1WVRNZFQybmoyeTE2N2I0YWRJU2JNZDgwWTRaMWk1ek9uTlhMWlpYemlkYVFFdXY5SXozRTA?oc=5",
+      "date": "2026-11-17",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-d18174ff6c",
+     "kind": "episode",
+     "title": "EP303: The Conflict Between QALYs for Drug Value and Specific Well-Funded Patient Advocacy Groups, With Anna Kaltenboeck From the Drug Pricing Lab at Memorial Sloan Kettering",
+     "url": "https://healthvalue.libsyn.com/ep303",
+     "date": "2020-12-10",
+     "summary": "In Episode 303, Stacey Richter talks with Anna Kaltenboeck, senior health economist and program director for the Drug Pricing Lab at Memorial Sloan Kettering, about QALYs — the \"ruler\" used to measure the value of a drug so society has a…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 29
+    },
+    "read": [
+     {
+      "id": "a-5f5d171867",
+      "kind": "article",
+      "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
+      "url": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-539ec4f615",
+      "kind": "article",
+      "title": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals",
+      "url": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "summary": "“Hospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.”",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-6e838e2270",
+      "kind": "article",
+      "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
+      "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-16",
    "capstone": {
@@ -8112,29 +8257,26 @@
   {
    "id": "cgd",
    "name": "CGD",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 3
   },
   {
    "id": "devex",
    "name": "Devex",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 5
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 3
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "giin",
@@ -8169,9 +8311,8 @@
   {
    "id": "nairametrics",
    "name": "Nairametrics",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 0
   },
   {
    "id": "eudif",
@@ -8183,7 +8324,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 5
+   "count": 3
   },
   {
    "id": "oop",
@@ -8194,9 +8335,8 @@
   {
    "id": "haf",
    "name": "Health Affairs Forefront",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 7
   },
   {
    "id": "cure",
@@ -8214,7 +8354,7 @@
    "id": "ghm",
    "name": "Global Health Matters",
    "ok": true,
-   "count": 95
+   "count": 96
   },
   {
    "id": "rhv",
