@@ -1,6 +1,136 @@
 {
- "updated": "2026-11-17T18:57:32+00:00",
+ "updated": "2026-11-18T18:39:51+00:00",
  "days": [
+  {
+   "date": "2026-11-18",
+   "capstone": {
+    "listenOld": {
+     "id": "e-dbb8654270",
+     "kind": "episode",
+     "title": "Encore - Science and diplomacy for global health",
+     "date": "2026-05-19",
+     "summary": "How can scientists and diplomats work together to advance the global health agenda? Ilona Kickbusch, who founded the Global Health Centre at the Geneva Graduate Institute, reflects on her experiences working within science diplomacy and…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 34
+    },
+    "read": [
+     {
+      "id": "a-6d4f70d408",
+      "kind": "article",
+      "title": "Monthly Health Intelligence Brief October 2026",
+      "url": "https://nigeriahealthwatch.com/article/resources/report/monthly-health-intelligence-brief-october-2026/",
+      "date": "2026-11-18",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-281e1aa6c7",
+      "kind": "article",
+      "title": "Senate appropriations bill maintains foreign assistance funding amounts",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelZpSWFRaWJvZkMwcUxEQmZCdlJxWFgyd2FpeTVla0pNVEd2S0VuanJTdWh0SnRGUC16ZkZseVVYNmhxbHY4b3FaRVFhQ0V1b00xZjRmT1Iyd3ZZWGd5NGV2UmV6RjJUZnpZSkJNbGZ5Z29IMDMwVGg1T1c2T2M5T2pTcno2YlRZeHJYUDdTMjN1ZzFlZzJvTTRuTGZJWGp1RmZqX3RLYzg?oc=5",
+      "date": "2026-11-17",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-56a08206be",
+      "kind": "article",
+      "title": "Nigeria’s Super-Emitter Flares: An Updated Evaluation of Trends and Causes of Natural Gas Wastage",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXN6aDRoYlBublFkYU9tdGltY0tUS0dmZ0F5TWVxdHJkZFR1RkU0Qldqa3Vjc1MydHgtSXVqUTVmY1llMW5zemVyakREdEdKRjdxMWVxRmpxWUVuNG5jcENXUkoycXN2VnYtOVJYSm1XdW5mOWRMS2p1NzdELURxSDV5ZjBkdnFsc0M0b3dmYzExXzBPYXJYQmZiRENqaEVKVUN5SnVtY0xnR3lqN0JPODdkT2c0Nzlfc2NDdw?oc=5",
+      "date": "2026-11-17",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-6b3f29b784",
+     "kind": "episode",
+     "title": "The Sleeping Giants of Healthcare—Why Self-insured Employers and Clinicians Keep Missing Each Other, With Suhas Gondi, MD, MBA. EP523",
+     "url": "https://cc-lnk.com/EP523",
+     "date": "2026-08-05",
+     "summary": "Why Self-Insured Employers and Clinicians Keep Missing Each Other, With Suhas Gondi, MD. The Sleeping Giants of Healthcare: Why Employers and Clinicians Keep Missing Each Other. Episode 523. Dr. Suhas Gondi, MD, MBA, chief medical officer…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 35
+    },
+    "read": [
+     {
+      "id": "a-2bc1d6cc1b",
+      "kind": "article",
+      "title": "Opinion: STAT+: RFK Jr. has got to go",
+      "url": "https://www.statnews.com/2026/11/18/kennedy-impeachment-paul-knoepfler-says-time-is-now/?utm_campaign=rss",
+      "date": "2026-11-18",
+      "summary": "With Democrats riding a blue wave after the midterms, it’s time to impeach health secretary Robert F. Kennedy Jr., writes Paul Knoepfler.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-a9381bbcf1",
+      "kind": "article",
+      "title": "Can AI Fix Prior Authorization?",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzdHlBZzRqVFpMTkpKcUwtYWJlY19kbnFlYTRweDlOeU02bXF3SFNNZ0lpLVFhQjRBZnppaEFlZTRvajA2TXlLOHlGNzZyODVQTEhJRVFsWTctNF9hZ1ZyTlE5VE5ESTEzbDZvMzV0a1Q?oc=5",
+      "date": "2026-11-16",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-dc36ef886b",
+      "kind": "article",
+      "title": "How do you measure if AI is working? Evals + benchmarks",
+      "url": "https://www.outofpocket.health/p/healthcare-ai-evals-benchmarks",
+      "date": "2026-11-18",
+      "summary": "Who grades the graders?",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-17",
    "capstone": {
@@ -8264,7 +8394,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "brookings-agi",
@@ -8276,13 +8406,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "id": "ifc",
@@ -8306,7 +8436,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "id": "nairametrics",
@@ -8324,7 +8454,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "oop",
@@ -8336,7 +8466,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 7
+   "count": 13
   },
   {
    "id": "cure",
