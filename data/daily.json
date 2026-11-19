@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-18T18:39:51+00:00",
+ "updated": "2026-11-19T18:53:21+00:00",
  "days": [
+  {
+   "date": "2026-11-19",
+   "capstone": {
+    "listenOld": {
+     "id": "e-4c70975ef6",
+     "kind": "episode",
+     "title": "Sudanese women advancing justice and equality since the 1920s",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2023-02-01",
+     "summary": "Rogaia Abusharaf, a professor of anthropology at Georgetown University Qatar, talks with host Aloysius Ordu about the leading role Sudanese women have played in movements for peace and justice from the early 1920s to the recent Sudanese…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 37
+    },
+    "read": [
+     {
+      "id": "a-86b351e786",
+      "kind": "article",
+      "title": "Devex Newswire: He oversaw the USAID shutdown. Now he wants a new job",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTU9Udm04SVBvRmdkVFllYnNiZ2VsNUl4Mk1VOGl6SklKdTZkZUs0WlpIUDhlSVktZGF5amVKV0xWVG5CelVpNTF4azdzTkFpdFVJcloxN2RRWnVsTElpQ25zQTVlUXd1YXhPZEk1UUlFRk5MRS10THd5ZTdiMXl0cWZrN3l3WFFlTGcwaTJwVGdFajQ2YWtqU1hzaUYyRnZzNjhz?oc=5",
+      "date": "2026-11-19",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-efa15d17cb",
+      "kind": "article",
+      "title": "Nigeria’s Domestic HIV Funding Must Prioritise Integration into Maternal Health Services",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/nigerias-domestic-hiv-funding-must-prioritise-integration-into-maternal-health-services/",
+      "date": "2026-11-19",
+      "summary": "Nigeria’s effort to end AIDS must include preventing HIV transmission during pregnancy, childbirth and breastfeeding. In 2024, an estimated 9,200 children aged 0 to 14 contracted HIV in Nigeria, while coverage of Prevention of…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-0508cec79d",
+      "kind": "article",
+      "title": "Reps To Probe Teachers Institute’s 2026 Admissions Cancellation, School Fees Remittance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlByeTBVNmswVURpcEZwWjRRMTJzeUo5M2tUd1RqSTNpTEJ2X1dUOGNxNGRteHY5ekhpcU1UNW43RGFYa0NVemh4UW1fWFp1dGZwOGpTLXZDNThJM3ctUVdCQ09yWFpaVDBCcWhvaXBHenNIaDhhQW5Pa19Sb1hIZGhBSS1SLWJrMUNjSjV3ekJpZmI4U1QyMzFrU0lvbzNDS0hHbncxUUc3N1ZV?oc=5",
+      "date": "2026-11-18",
+      "tags": [
+       "remittances"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-74152c1e50",
+     "kind": "episode",
+     "title": "California Sued a Hospital Giant Over High Prices. Did Anything Change?",
+     "url": "https://tradeoffs.org/2026/11/19/california-sued-a-hospital-giant-over-high-prices-did-anything-change/",
+     "date": "2026-11-19",
+     "summary": "Policymakers and advocates hoped landmark lawsuits against Sutter Health could be a blueprint to mitigate high prices driven by hospital consolidation. Guests: Cory Capps , partner, Bates White Economic Consulting Martin Gaynor , Emeritus…",
+     "tags": [
+      "us-health-care",
+      "consulting-craft"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 23
+    },
+    "listenOld": {
+     "id": "e-76a0ce638a",
+     "kind": "episode",
+     "title": "Encore! EP372: Step One for Employers and Unions—Get Your Data, With Cora Opsahl",
+     "url": "https://cc-lnk.com/Encore372",
+     "date": "2023-12-21",
+     "summary": "\"You cannot make smart … decisions and be a fiduciary of a fund without having data,\" as Cora Opsahl, director of the 32BJ Health Fund, puts it. Stacey Richter is re-airing this conversation because it's the missing prerequisite behind…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 32
+    },
+    "read": [
+     {
+      "id": "a-9d9ee8b9be",
+      "kind": "article",
+      "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
+      "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-9369c94f8a",
+      "kind": "article",
+      "title": "Effects Of A Grocery Support Program In California’s Health Insurance Marketplace",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTUtFNHBDclYyS1l5OW1Bc0ZOZlcwWTBrV3RRdUJTU1JSZTl2OHdjSWFTR2F4ZHZxTFRheVlPZUx6LWt5MW5JZmhJS252UzZkdldDVXlUbFF0LTFpalFmdHpPYnUwbW42VEEtUA?oc=5",
+      "date": "2026-11-18",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-b1235d25bc",
+      "kind": "article",
+      "title": "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins",
+      "url": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "summary": "STAT columnist Vishal Khetpal examines the STREAM trial and its findings about discontinuing use of statins.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-18",
    "capstone": {
@@ -8388,13 +8538,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "brookings-agi",
@@ -8412,7 +8562,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 11
+   "count": 8
   },
   {
    "id": "ifc",
@@ -8436,7 +8586,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 8
+   "count": 6
   },
   {
    "id": "nairametrics",
@@ -8454,7 +8604,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "oop",
@@ -8466,7 +8616,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "id": "cure",
@@ -8496,13 +8646,13 @@
    "id": "tradeoffs",
    "name": "Tradeoffs",
    "ok": true,
-   "count": 339
+   "count": 340
   },
   {
    "id": "wth",
    "name": "KFF Health News: What the Health?",
    "ok": true,
-   "count": 475
+   "count": 476
   },
   {
    "id": "readout",
