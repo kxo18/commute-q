@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-19T18:53:21+00:00",
+ "updated": "2026-11-20T18:21:39+00:00",
  "days": [
+  {
+   "date": "2026-11-20",
+   "capstone": {
+    "listenOld": {
+     "id": "e-ba13ed697b",
+     "kind": "episode",
+     "title": "Encore - Discoveries from vaccine implementation",
+     "date": "2025-08-12",
+     "summary": "In 2021, the World Health Organization made a historic recommendation : to widely use the first ever malaria vaccine, RTS,S. This recommendation was based on evidence generated from a pilot vaccine implementation programme in Ghana, Kenya…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 40
+    },
+    "read": [
+     {
+      "id": "a-fbccf55343",
+      "kind": "article",
+      "title": "Residents Call for Better Security and More Health Workers at Sharfadi PHC in Kano",
+      "url": "https://nigeriahealthwatch.com/articles/community-health-watch/residents-call-for-better-security-and-more-health-workers-at-sharfadi-phc-in-kano/",
+      "date": "2026-11-20",
+      "summary": "Hafsat Bello Residents of Sharfadi community in Bunkure Local Government Area (LGA) of Kano State have called for improved security and additional health workers at the Sharfadi Primary Healthcare Centre (PHC) to strengthen service…",
+      "tags": [
+       "workforce",
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-2fdbd21895",
+      "kind": "article",
+      "title": "We need more, not less, ODA to implement our climate ambitions",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUJrWElJOHk3Rml3WlNIaEJvRlc3cXBVWm8yNFhKSDBITlF5WjBwcG1SNEdURkFkeUgxbG9mT2RTalBCcFZFbk16ZW4tWHhQQXE1QnVCOXFPTUdDVDdoRmdIYnZiNHlHUzVfRFk2dWF0UmVRbVhONkJobFJWQVlwSUxpb256eTFUWDZ5cjl3R1hnVUhQN1d2NExn?oc=5",
+      "date": "2026-11-20",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-7d5521fab9",
+      "kind": "article",
+      "title": "The Fight to Save What Polio Eradication Built",
+      "url": "https://healthpolicy-watch.news/fight-to-save-what-polio-eradication-built/",
+      "date": "2026-11-20",
+      "summary": "In northern Nigeria, a community organiser still gets calls from families long after a polio project ended. In Ethiopia, volunteers map migration routes, grazing areas and water points to find children formal services miss. As funding…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-30b3ffb964",
+     "kind": "episode",
+     "title": "EP538: Hospitals Suing Patients and Garnishing Wages—Why Billing Quality Is Medical Quality, With Marty Makary, MD, MPH",
+     "url": "https://cc-lnk.com/EP538",
+     "date": "2026-11-18",
+     "summary": "Hospital Price Gouging and Medical Debt Lawsuits, With Marty Makary, MD, MPH. Episode 538. Stacey Richter says this 2019 conversation is \"far more relevant now than maybe it was when it was first released\": in athenahealth's Physician…",
+     "tags": [
+      "us-health-care",
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 36
+    },
+    "listenOld": {
+     "id": "e-4ffa76c4a0",
+     "kind": "episode",
+     "title": "Presenting: First Opinion: Mark Cuban",
+     "url": "https://tradeoffs.org/",
+     "date": "2024-12-05",
+     "summary": "Businessman and entertainer Mark Cuban has long had an interest in health care, and a mission to disrupt the pharmaceutical industry. Torie Bosch, host of First Opinion, a podcast from STAT News, speaks with Cuban about one of his latest…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 34
+    },
+    "read": [
+     {
+      "id": "a-d6ba2ff9d1",
+      "kind": "article",
+      "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+      "url": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-4320a8a06d",
+      "kind": "article",
+      "title": "Is this really how we measure things during pregnancy?",
+      "url": "https://www.outofpocket.health/p/pregnancy-measurement-data",
+      "date": "2026-11-20",
+      "summary": "More learnings from our pregnancy, especially around data",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     },
+     {
+      "id": "a-e4956e6358",
+      "kind": "article",
+      "title": "Maternity Care’s New Billing Era: Will Better Data Lead To Better Outcomes?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVd3QXNlNUpVdGhTV3F0UmUwRURIYlJhOUJsNzA1azF0OVBGUjZOemVsT0FhQm5VWkZFbi1hUTVoNGZFZ0stbU9vZlJzeDNXV1hTOVpQSnVwUmpyMFl3bzJpc1BBeEtwWG9mVEYtRVg2cTJ3WGNMRl9oa2duN3I0dkFFMlRLUnRnMU9tSDl0YUxSUUh3Z3BGREdHY2VhQ2VzYUZmMXZvNEVkTFRIdmJqX1poZw?oc=5",
+      "date": "2026-11-19",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-19",
    "capstone": {
@@ -8544,25 +8694,25 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 0
+   "count": 2
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "id": "ifc",
@@ -8586,7 +8736,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 6
+   "count": 9
   },
   {
    "id": "nairametrics",
@@ -8604,7 +8754,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 3
+   "count": 5
   },
   {
    "id": "oop",
@@ -8658,7 +8808,7 @@
    "id": "readout",
    "name": "The Readout LOUD",
    "ok": true,
-   "count": 426
+   "count": 427
   }
  ]
 }
