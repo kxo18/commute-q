@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-20T18:21:39+00:00",
+ "updated": "2026-11-21T17:08:03+00:00",
  "days": [
+  {
+   "date": "2026-11-21",
+   "capstone": {
+    "listenOld": {
+     "id": "e-87405ad31d",
+     "kind": "episode",
+     "title": "The promise and perils of future health technology",
+     "date": "2023-01-24",
+     "summary": "We kick off the new year with a conversation about new advances in technologies that are transforming public health practice. In this episode, we explore the promise and perils of artificial intelligence (AI), big data, infodemics and the…",
+     "tags": [
+      "workforce",
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 38
+    },
+    "read": [
+     {
+      "id": "a-56ffd7dde2",
+      "kind": "article",
+      "title": "Pate Seeks Increased Domestic Funding As Health Aid Declines",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdzBDWWIzLWNFOW9UektFVzc4NDZoa2dqcGJrZm1EMlJMMjdDRTE2VzNpc2lBc0x6clEzcmtkZ1FKZnA3cHlMS3JYVlJCSmtrUnF5Z3FJeUk3RHdvZ29qWWFaMzVRdnZTMHFDbmpYV0VZU3lub3RvRG1TdHB5akFSVjZVdVRxRXpoaUtF?oc=5",
+      "date": "2026-11-20",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-7fd6540498",
+      "kind": "article",
+      "title": "Can WHO-Backed Spatial Emanators Deliver an Effective Malaria Response Across All African Regions?",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/can-who-backed-spatial-emanators-deliver-an-effective-malaria-response-across-all-african-regions/",
+      "date": "2026-11-20",
+      "summary": "In August 2025, the World Health Organization (WHO) expanded its malaria prevention toolkit with a new intervention, spatial emanators. These devices release insecticides into the air to repel, disorient or kill malaria-transmitting…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-250f7f649f",
+      "kind": "article",
+      "title": "As WHO Director-General Forum Closes, Contenders Pitch Banks, Science and Discipline",
+      "url": "https://healthpolicy-watch.news/who-dg-contenders-forum/",
+      "date": "2026-11-19",
+      "summary": "Across two days of questioning, the seven WHO Director-General candidates united around scientific independence and country-level delivery – but diverged on how to fund the cash-strapped agency as the Geneva forum wrapped up on Thursday.…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-53ed3fd492",
+     "kind": "episode",
+     "title": "422: FDA's search for a new leader, and China's largest drugmakers",
+     "date": "2026-11-20",
+     "summary": "On this week’s episode of \"The Readout LOUD\": The FDA is once again searching for a new leader, a closely tracked lung cancer drug suffers an FDA rejection, and China’s largest drugmakers ranked. We invite you to listen to this…",
+     "tags": [
+      "life-sciences"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "The Readout LOUD",
+     "minutes": 23
+    },
+    "listenOld": {
+     "id": "e-79edcdeed3",
+     "kind": "episode",
+     "title": "EP306: A Deep Dive Into Amazon's Pharmacy and the Amazon Pharmacy Model Some Employers Are Running With, With Ge Bai, PhD, CPA",
+     "url": "https://healthvalue.libsyn.com/ep306",
+     "date": "2021-01-21",
+     "summary": "In Episode 306, Stacey Richter talks with Ge Bai, PhD, CPA, associate professor at Johns Hopkins, about Amazon's pharmacy business — and a mind-blowing PBM contracting term that keeps cash-pay prices tethered to third-party payer rates.…",
+     "tags": [
+      "us-health-care",
+      "life-sciences",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 30
+    },
+    "read": [
+     {
+      "id": "a-f6d3fbde06",
+      "kind": "article",
+      "title": "Opinion: How Kennedy and MAHA could help stop measles",
+      "url": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+      "date": "2026-11-21",
+      "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-f13f1bb7cc",
+      "kind": "article",
+      "title": "The Future Of 1115 Waivers: What ARHOME Signals To States Across The Country",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSGxzZFRROTliYzZfVjlJbzNZZ1BFRXhyeVVNV3hmam1yYlhxLTR5OUFtVDl5OWZ1LUI5TEpQVzJPbkp2SFB6VEVreVk2c2dmVUxtZHdLZXNscGFaOW9tOTlDbUswNThOb2hmOEdNckxGeWlxQlZlV1k0UnNUQjZVUnRsUENNMjFpMXF0b2RWU1V6cHJRNUdrLUFqVkVROG1oQXo1aFkwenZsMFB4NTVha0VTLUZPYy1LVkdGcXJNWVphNWtZTTBFSjlLUFlUUXNwaGpYT2RpODFLVlpQYVZlT240aVlhODRVRnFGV2hNcW5vdXFSWUJn?oc=5",
+      "date": "2026-11-20",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-5da827f3cf",
+      "kind": "article",
+      "title": "Opinion: When should medical school start?",
+      "url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+      "date": "2026-11-21",
+      "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-20",
    "capstone": {
@@ -8736,7 +8886,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "id": "nairametrics",
@@ -8754,7 +8904,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "oop",
@@ -8766,7 +8916,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "id": "cure",
