@@ -1,6 +1,154 @@
 {
- "updated": "2026-11-21T17:08:03+00:00",
+ "updated": "2026-11-22T17:38:07+00:00",
  "days": [
+  {
+   "date": "2026-11-22",
+   "capstone": {
+    "listenOld": {
+     "id": "e-fce5a41d17",
+     "kind": "episode",
+     "title": "Encore - Decolonization, localization, and WHO: History Matters Part 1",
+     "date": "2026-07-07",
+     "summary": "In this episode we explore the multifaceted history of global health and how the narratives borne out of colonization, geopolitical events, and national ownership of public health inform policy and practices today. Among the narratives is…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 40
+    },
+    "read": [
+     {
+      "id": "a-42cdcc0ba0",
+      "kind": "article",
+      "title": "Resident Doctors Applaud Payment Of 7 Years Arrears To Health Workers",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekE0T2FqcWdSYlhCdG5GTUVSTlRVMzJocjYzS210TTNQMDk5MW9NRWJicWRFU0lGQWtCZEpsb3NybjVaX2c3Nkw0U3hXN1VMV3VySUV5Y2toUV9SOVp5ZnJZaXVYYk80d2x1WHgtaHUzaHJJZ0lpWnUzZVJyMlp6VDFteVRKa2xvUlFZNlNqQXFHMDV6cnNJ?oc=5",
+      "date": "2026-11-22",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-8376c203ab",
+      "kind": "article",
+      "title": "How Nigeria’s States Perform on Health Budget Releases",
+      "url": "https://nigeriahealthwatch.com/uncategorized/how-nigerias-states-perform-on-health-budget-releases/",
+      "date": "2026-11-22",
+      "summary": "At the recently concluded 2026 Joint Annual Review (JAR) of the health sector in Abuja, the Coordinating Minister of Health and Social Welfare, Professor Muhammad Ali Pate, asked Nigerians to do away with“the illusion that you can have a…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-e3e1cd036f",
+      "kind": "article",
+      "title": "Nasarawa Targets Improved Healthcare Access With 3,000 New Health Workers",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORmV0SXZjM1g3M1RMbVBJQlFnZ0FSZTRHbkY4aWhzWHlXd1lGckYzNG5pWUFIbVdQZVlibGdnN0lQeXFCVWxnSHg2SFBHVHBEem1YTnlNaVR4NGZBb1VPR0lGMDBsNmtMcEhRLVdPZTIxdFp1R0tSRGlhWW8zSTRuWmhPdjNrZUxfdGxwVUpucGdxQl9zOEhsWEVUOA?oc=5",
+      "date": "2026-11-22",
+      "tags": [
+       "workforce"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-619793075e",
+     "kind": "episode",
+     "title": "Dems Prepare for Healthcare Throwdown",
+     "url": "https://play.prx.org/listen?ge=prx_14448_4b2b34ff-6de5-441b-9c99-dab3ea8b73e6&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+     "date": "2026-11-19",
+     "summary": "Democrats’ big wins in the midterms present opportunities and risks for advancing a healthcare agenda. On one hand, starting in January, Democrats can pass bills to cancel GOP cuts to Medicaid and the Affordable Care Act and advance the…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "KFF Health News: What the Health?",
+     "minutes": 42
+    },
+    "listenOld": {
+     "id": "e-facb2e2f49",
+     "kind": "episode",
+     "title": "EP347: Rolling Out Healthcare Initiatives That Actually Get Uptake With the Populations You Aim to Serve, With Ian Tong, MD, About the Black Community Innovation Coalition",
+     "url": "https://healthvalue.libsyn.com/ep346",
+     "date": "2021-12-02",
+     "summary": "In Episode 347, Stacey Richter talks with Ian Tong, MD, chief medical officer at Included Health, about the Black Community Innovation Coalition — a new virtual-care program formed by Walmart, six other employers, and Included Health,…",
+     "tags": [
+      "us-health-care",
+      "health-systems",
+      "sdoh"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 34
+    },
+    "read": [
+     {
+      "id": "a-89f3d4bf77",
+      "kind": "article",
+      "title": "Researchers explore possibility of a CTE blood test",
+      "url": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss",
+      "date": "2026-11-20",
+      "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-488586e562",
+      "kind": "article",
+      "title": "Podcasts",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wVFl6Ymt0ZXJRUldmZ0tZaEs4c1pEWTU1N1hOT0l1OG9oeHZoeVQ5UE9KdEZ6aG00RVU2SVRTNnZrOU5FMlAySEVNaVBUTjg?oc=5",
+      "date": "2026-11-20",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-24ff5e6cf5",
+      "kind": "article",
+      "title": "FDA’s search for a new leader, and China’s largest drugmakers",
+      "url": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
+      "date": "2026-11-20",
+      "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-21",
    "capstone": {
@@ -8739,6 +8887,22 @@
  "radar": {
   "s-pate-insurance": [
    {
+    "id": "a-8376c203ab",
+    "kind": "article",
+    "title": "How Nigeria’s States Perform on Health Budget Releases",
+    "url": "https://nigeriahealthwatch.com/uncategorized/how-nigerias-states-perform-on-health-budget-releases/",
+    "date": "2026-11-22",
+    "summary": "At the recently concluded 2026 Joint Annual Review (JAR) of the health sector in Abuja, the Coordinating Minister of Health and Social Welfare, Professor Muhammad Ali Pate, asked Nigerians to do away with“the illusion that you can have a…",
+    "tags": [
+     "nigeria-system"
+    ],
+    "tracks": [
+     "capstone"
+    ],
+    "source": "Nigeria Health Watch",
+    "attached": "2026-11-22"
+   },
+   {
     "id": "a-17558b6951",
     "kind": "article",
     "title": "NANS Demands HMO Reforms, Threatens Protest Over NHIA Leadership",
@@ -8838,13 +9002,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "brookings-agi",
@@ -8862,7 +9026,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "ifc",
@@ -8874,7 +9038,7 @@
    "id": "peoplemove",
    "name": "World Bank People Move",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "id": "nhw",
@@ -8886,7 +9050,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "id": "nairametrics",
