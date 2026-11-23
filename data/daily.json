@@ -1,6 +1,138 @@
 {
- "updated": "2026-11-22T17:38:07+00:00",
+ "updated": "2026-11-23T21:54:39+00:00",
  "days": [
+  {
+   "date": "2026-11-23",
+   "capstone": {
+    "listenOld": {
+     "id": "e-a198e5c6f4",
+     "kind": "episode",
+     "title": "Liberia's agriculture minister on her vision for farming and food in Liberia",
+     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
+     "date": "2023-07-05",
+     "summary": "Jeanine Cooper, minister of agriculture for the Republic of Liberia, shares her transformative vision for agriculture in her country, one that is green, regenerative, appealing to youth, and promotes local consumption. A rice farmer…",
+     "tags": [
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 46
+    },
+    "read": [
+     {
+      "id": "a-243118c502",
+      "kind": "article",
+      "title": "Money Matters: US foreign aid fell 44% in 2026 — even as it began to rebuild",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWJnMTNmOEVpVVdFUDZqdVAwYldjeWlmWUZIT3IyTS1mdlhVb0xUc0czNUw4RkR0NGtyNmVYczhUT2F2YlZKbnF5aFp2M1E5c3lZS09hZlVMT3FBN19nZlBwaFlNcExISHc0MGFXMWZrMW9aTmJ2bWFlZloyME11VWZqMVFXcTRZZjk5QkdtQ2hkNGRSSEFGWWhMM0hpMTQta1dNQjZtWmRlZw?oc=5",
+      "date": "2026-11-23",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     },
+     {
+      "id": "a-86efee4960",
+      "kind": "article",
+      "title": "Caring Africa Welcomes Federal Government Approval of Nigeria’s First National Care Policy",
+      "url": "https://nigeriahealthwatch.com/articles/press-release/caring-africa-welcomes-federal-government-approval-of-nigerias-first-national-care-policy/",
+      "date": "2026-11-23",
+      "summary": "Policy establishes national childcare standards, defines care work in Nigerian law for the first time, and classifies care as a formal sector of the economy. Caring Africa welcomes the approval by the Federal Executive Council, chaired by…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-dbe1da54c3",
+      "kind": "article",
+      "title": "Global Health Architecture: Cautious Steps and Aid Collapse Spark Pushback From the Frontline",
+      "url": "https://healthpolicy-watch.news/global-health-architecture-reform/",
+      "date": "2026-11-23",
+      "summary": "As the Joint Task Force on Global Health Architecture Reform prepares its first blueprint, civil society representatives warned of mounting risks at the Geneva Health Forum. Researchers and frontline NGOs cautioned that administrative…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-421c1e8463",
+     "kind": "episode",
+     "title": "Surprise! Plans To Resolve High Medical Bills Are Still a Mess",
+     "url": "https://tradeoffs.org/2024/03/28/surprise-bill-arbitration",
+     "date": "2024-03-28",
+     "summary": "Patients are now mostly protected from surprise bills, but doctors and insurers are still fighting about the prices. Guest: Benjamin Chartock, PhD, Assistant Professor of Economics, Bentley University Learn more and read a full transcript…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 20
+    },
+    "read": [
+     {
+      "id": "a-ae3d76503a",
+      "kind": "article",
+      "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
+      "url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
+      "date": "2026-11-23",
+      "summary": "“A health AI company's market value and the medical value of its technology are two different things,” writes David Adler.",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-699a3c96b3",
+      "kind": "article",
+      "title": "Why Are Prescription Drug Prices Falling?",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORndxeW01X09MYTBuTl9LeFpUVl9QazJGNTV1UFQ0SVJ5UGUtaHIwaUFEN3hseVBPaW4yTDhCVDB1VWZxSVlWQlpkalRCMjY1QTRQYkxDQ25YaWM2WUxHZkN6dWZpOFVvaEk0NzhyOU5URmlSbnN1YWE3Uy14YXZYdW83T1dhS0pUaGpEWg?oc=5",
+      "date": "2026-11-23",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-37fbaad811",
+      "kind": "article",
+      "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
+      "url": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
+      "date": "2026-11-23",
+      "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-22",
    "capstone": {
@@ -8730,162 +8862,26 @@
      }
     ]
    }
-  },
-  {
-   "date": "2026-09-24",
-   "capstone": {
-    "listenNew": {
-     "id": "e-dff9c4d368",
-     "kind": "episode",
-     "title": "Trailblazers with Garry: a conversation with Priti Patnaik",
-     "date": "2026-09-22",
-     "summary": "\"Trailblazers with Garry\" is a series from Global Health Matters, where host Garry Aslanyan sits down with trailblazers — thinkers, leaders, and influencers shaping the future of global health — for short face-to-face conversations,…",
-     "tags": [
-      "aid-dependency"
-     ],
-     "tracks": [
-      "capstone"
-     ],
-     "show": "Global Health Matters",
-     "minutes": 43
-    },
-    "listenOld": {
-     "ref": "p-ghm-adeyi"
-    },
-    "read": [
-     {
-      "id": "a-4609ec02fd",
-      "kind": "article",
-      "title": "Accra Reset’s Plan for Health Sovereignty Includes Closing Some Global Health Bodies",
-      "url": "https://healthpolicy-watch.news/accra-resets-plan-for-health-sovereignty/",
-      "date": "2026-09-22",
-      "summary": "A blueprint to empower countries in the Global South to end their dependence on health aid, which includes the possible closure of international global health organisations, was launched by the Accra Reset on the sidelines of the UN…",
-      "tags": [
-       "comparators",
-       "aid-dependency"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Health Policy Watch"
-     },
-     {
-      "id": "a-e439e4b6e7",
-      "kind": "article",
-      "title": "Health Workers Begins Indefinite Strike Over Director’s Reinstatement",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVmxkbHVNbUpBNi1qZ0V1OTFVbC0xV2YxNWlSMHFSWlBFdzZ2WnlhUXNTVHRLZXlyaXVrZ0x2UHFSdDVIMVQxVndQMHdaZjE2SlZyZkt1YlNCR1o4bFhZbWpOdnpQVzdfWFVydWVHZkJOcU1UMUt3c1g3eld0R00yMDhkRWJlNWhreDltVE13OEFucnlJR0E?oc=5",
-      "date": "2026-09-24",
-      "tags": [
-       "workforce"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Leadership.ng"
-     },
-     {
-      "id": "a-a6a8118e4d",
-      "kind": "article",
-      "title": "Revitalised Ungwan Dosa PHC Still Faces Access Gaps",
-      "url": "https://nigeriahealthwatch.com/articles/community-health-watch/revitalised-ungwan-dosa-phc-still-faces-access-gaps/",
-      "date": "2026-09-24",
-      "summary": "Rabi Mustapha Pregnant women in Ungwan Dosa, Kaduna North Local Government Area of Kaduna State, are experiencing improved healthcare services following the revitalisation of their primary healthcare centre. However, a deteriorating access…",
-      "tags": [
-       "nigeria-system"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Nigeria Health Watch"
-     }
-    ]
-   },
-   "career": {
-    "listenNew": {
-     "id": "e-9c9f8a5a56",
-     "kind": "episode",
-     "title": "Healthcare a Vague but Potent Issue for Election 2026",
-     "url": "https://play.prx.org/listen?ge=prx_14448_7056df6d-ea5c-415c-8afe-474bd8b147ee&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
-     "date": "2026-09-24",
-     "summary": "Healthcare in general, and health costs in particular, are a top issue for voters in 2026. But it remains unclear exactly how voters want lawmakers to fix the problem. As a result, candidates in both parties are offering a wide variety of…",
-     "tags": [
-      "us-health-care",
-      "life-sciences"
-     ],
-     "tracks": [
-      "career"
-     ],
-     "show": "KFF Health News: What the Health?",
-     "minutes": 42
-    },
-    "listenOld": {
-     "id": "e-0a139925fb",
-     "kind": "episode",
-     "title": "(Almost) Everyone Is Doing It",
-     "url": "https://play.acast.com/s/tradeoffs/-almost-everyoneisdoingit",
-     "date": "2020-04-16",
-     "summary": "What's the best way to convince people to practice social distancing? Guests: Syon Bhanot , PhD, Assistant Professor of Economics, Swarthmore College Susanne Schwarz Katy Milkman , PhD, Professor of Operations, Information and Decisions,…",
-     "tags": [
-      "us-health-care",
-      "health-systems"
-     ],
-     "tracks": [
-      "career"
-     ],
-     "show": "Tradeoffs",
-     "minutes": 14
-    },
-    "read": [
-     {
-      "id": "a-2692b65e5c",
-      "kind": "article",
-      "title": "The FDA’s Overton era, and dispatches from Shanghai",
-      "url": "https://www.statnews.com/2026/09/24/chronicling-chinese-drug-development-from-shanghai-readout-loud/?utm_campaign=rss",
-      "date": "2026-09-24",
-      "summary": "The Readout LOUD is going international this week with a dispatch from Shanghai, along with notes on the FDA's Overton era.",
-      "tags": [
-       "life-sciences"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "STAT"
-     },
-     {
-      "id": "a-76a4ad8f9d",
-      "kind": "article",
-      "title": "Real-World Brinkmanship In Hospital-Insurer Negotiations",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EQ2RsNmpVcDU5OWEwbm9PVVNnckpXYlNDd2pZaUUyUlE5bUlQM0F3MTE1aFVLSTJJbTY0a3hBSDh6WklFYllhSWxWcnRVWWZSaG1DeVp4Y3pJUUlQMzhMVkxMUTBiNmlvNmk2NA?oc=5",
-      "date": "2026-09-23",
-      "tags": [
-       "us-health-care"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "Health Affairs Forefront"
-     },
-     {
-      "id": "a-562f646013",
-      "kind": "article",
-      "title": "We should copy New Zealand's malpractice policy",
-      "url": "https://www.outofpocket.health/p/copy-new-zealands-malpractice-policy",
-      "date": "2026-09-22",
-      "summary": "A surgeon's POV on malpractice",
-      "tags": [
-       "us-health-care"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "Out-Of-Pocket"
-     }
-    ]
-   }
   }
  ],
  "radar": {
   "s-pate-insurance": [
+   {
+    "id": "a-0e628df953",
+    "kind": "article",
+    "title": "How Nigeria’s States Perform on Health Budget Releases",
+    "url": "https://nigeriahealthwatch.com/articles/thought-leadership/how-nigerias-states-perform-on-health-budget-releases/",
+    "date": "2026-11-22",
+    "summary": "At the recently concluded 2026 Joint Annual Review (JAR) of the health sector in Abuja, the Coordinating Minister of Health and Social Welfare, Professor Muhammad Ali Pate, asked Nigerians to do away with“the illusion that you can have a…",
+    "tags": [
+     "nigeria-system"
+    ],
+    "tracks": [
+     "capstone"
+    ],
+    "source": "Nigeria Health Watch",
+    "attached": "2026-11-23"
+   },
    {
     "id": "a-8376c203ab",
     "kind": "article",
@@ -9008,7 +9004,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "brookings-agi",
@@ -9020,13 +9016,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "id": "ifc",
@@ -9068,7 +9064,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "id": "oop",
@@ -9080,7 +9076,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 13
+   "count": 15
   },
   {
    "id": "cure",
