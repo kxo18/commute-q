@@ -1,6 +1,139 @@
 {
- "updated": "2026-11-23T21:54:39+00:00",
+ "updated": "2026-11-24T20:30:11+00:00",
  "days": [
+  {
+   "date": "2026-11-24",
+   "capstone": {
+    "listenOld": {
+     "id": "e-5a5e92c313",
+     "kind": "episode",
+     "title": "Build the Rails: Welcome to Season 2 of The Cure",
+     "date": "2026-05-29",
+     "summary": "Season 1 proved African healthcare innovation is real and led by Africans. Season 2 asks why it doesn't scale. Host Temitope Coker introduces Build the Rails. Great ideas keep dying at pilot, and startups still can't plug into the public…",
+     "tags": [
+      "nigeria-system",
+      "investment"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "The Cure",
+     "minutes": 14
+    },
+    "read": [
+     {
+      "id": "a-876edd30dd",
+      "kind": "article",
+      "title": "Form Should Follow Function: Five Options for a New Foreign Assistance Architecture",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlJFUGNxSTQ2bklSSW1CN2h4MUxVa19wcy1qMGZ3Wm5tTkFxbzl2UHV1WkZQcmJTZ2VuWlJjOFpUSXBsaktGcmdxSUkzb1gzUThCdlRqRW15NnZxTkFub2Q2Y014NGlnVy1laDl0X0dJYko4SVVrNndGcGlVd1Y1VDV6ZGU0ZUJESFplTXR6c0w2aXU3QTQwajV0MDZKamdpWDcyMDVR?oc=5",
+      "date": "2026-11-24",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "CGD"
+     },
+     {
+      "id": "a-5f108012c4",
+      "kind": "article",
+      "title": "South Africa Urges Africa to Back Local Manufacturing Talk with Purchasing Commitments",
+      "url": "https://healthpolicy-watch.news/south-africa-urges-africa-to-back-local-manufacturing-talk-with-purchasing-commitments/",
+      "date": "2026-11-24",
+      "summary": "South African Health Minister Aaron Motsoaledi challenged African countries to move beyond talk of “local manufacturing” of medical products to committing to buying goods produced on the continent. ‘There’s a weakness in Africa where we…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-47447c9a36",
+      "kind": "article",
+      "title": "Where former USAID workers have landed, from beekeeping to fashion",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPak9qQ2VZZ2xlUUNqM3dWRUZFRUZBaFEzWWJoR2NzLUYzajlBWWJtSE1mVUtOQlhOd2k4NVExNUFYUlFFZFlmcnJXeDFFMFFoR1diSmxIVS15MkotVl9HeWpTalpxWnd1TWs2UHVtMXVvbW1VSW9uRzhvM0pkUjFreVF3TXFHWUN3bGo3R0Q1VHU1ejUzVVR3SHZPbXlTaGh6?oc=5",
+      "date": "2026-11-24",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenOld": {
+     "id": "e-4ba7ff2559",
+     "kind": "episode",
+     "title": "EP500: This Is Episode 500, and It's All About You, Tribe",
+     "url": "https://cc-lnk.com/EP500",
+     "date": "2026-02-12",
+     "summary": "10 Years and 500 Episodes: What Listeners Say Actually Changed in Healthcare (EP500) Ten Years, 500 Episodes, and the Listener Stories Proving Healthcare Can Change. Episode 500. To mark 10 years and 500 episodes, Stacey Richter turns the…",
+     "tags": [
+      "us-health-care",
+      "life-sciences",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 38
+    },
+    "read": [
+     {
+      "id": "a-c6fd6123a9",
+      "kind": "article",
+      "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
+      "url": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
+      "date": "2026-11-24",
+      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-d41c4fd7fa",
+      "kind": "article",
+      "title": "The Biggest Healthcare Business Stories We Missed in 2026",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EdTFmbzQtTHJsMW52LVJQdHpjVkoxTGZlemhiWVAxOWI4UGxod0VHVk5TakVyb2pCcWRGOW84Wk5RcG9XS1haZy1IaFF3SnIwSDNvMkx1dmZFZnFtaENid0MzbmVfMThUdjd3V3hlcWc?oc=5",
+      "date": "2026-11-19",
+      "tags": [
+       "us-health-care",
+       "health-systems"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Health Affairs Forefront"
+     },
+     {
+      "id": "a-68bc788e13",
+      "kind": "article",
+      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
+      "date": "2026-11-24",
+      "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-23",
    "capstone": {
@@ -8713,155 +8846,6 @@
      }
     ]
    }
-  },
-  {
-   "date": "2026-09-25",
-   "capstone": {
-    "listenNew": {
-     "id": "e-1491ae5ca3",
-     "kind": "episode",
-     "title": "Shifting US perspectives on Africa: A conversation with Rep. Sara Jacobs",
-     "url": "https://www.brookings.edu/tags/foresight-africa-podcast/",
-     "date": "2026-09-10",
-     "summary": "In the final episode of season 5, host Landry Signé sits with the Hon. Sara Jacobs, representative for California's 51st district and ranking member of the Subcommittee on Africa of the U.S. House Foreign Affairs Committee. Amidst the…",
-     "tags": [
-      "investment"
-     ],
-     "tracks": [
-      "capstone"
-     ],
-     "show": "Foresight Africa",
-     "minutes": 18
-    },
-    "listenOld": {
-     "ref": "p-foresight-adeyi"
-    },
-    "read": [
-     {
-      "id": "a-4be5f5b2c5",
-      "kind": "article",
-      "title": "Kano Upgrades 5 PHCs To General Hospitals",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqTnhWNXlIOG9uNmFXc3pYNG9MdGg4dlhxV3VRdWFfVnNJRWRkR3F6VFl3ang4UFc5VV93YVJuOWlKRU9LaEVzWl9qOVZNeW5xRVREUjc5cnFGNFRVbGgxVEpzUVN1OWU2ZDFseEprSmRmdw?oc=5",
-      "date": "2026-09-25",
-      "tags": [
-       "nigeria-system"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Leadership.ng"
-     },
-     {
-      "id": "a-f88c3c2812",
-      "kind": "article",
-      "title": "Maternal Health Roundtable Report: Investing in Mothers- Aligning Finance, Policy and Innovation for Improved Maternal Outcomes for Improved Maternal Outcome",
-      "url": "https://nigeriahealthwatch.com/article/resources/maternal-health-resources/maternal-health-roundtable-report-investing-in-mothers-investing-in-mothers-aligning-finance-policy-and-innovation-for-improved-maternal-outcomes-for-improved-maternal-outcome/",
-      "date": "2026-09-24",
-      "tags": [
-       "nigeria-system"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Nigeria Health Watch"
-     },
-     {
-      "id": "a-4af1d8ed66",
-      "kind": "article",
-      "title": "Impact investing goes mainstream, but who gets left behind?",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcU1JQWNsLTVSM29XWnJBT2txdnRPXzJnakNjWHRhOVRNRGZxSnY5V0ZUdGhwaUc0ZXFPU2RGQi1yOXJuVHVteUx1bVNFNUItMTlINU9FVElpMFUyekZSZHRfN0tvYjZ0ZDRBQ25HOURtRFN2dk1DbmJqSnJKQmZPaFI4d2JvcTFOM3ltTE5wZHUxWk00ekE?oc=5",
-      "date": "2026-09-24",
-      "tags": [
-       "investment"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Devex"
-     }
-    ]
-   },
-   "career": {
-    "listenNew": {
-     "id": "e-88bff981b0",
-     "kind": "episode",
-     "title": "A Wildly Underappreciated Point: Overpaying for Infusions Means Overpaying for Stop-Loss Coverage, With Jake Velie and Keith Hartman, RPh",
-     "url": "https://cc-lnk.com/EP530",
-     "date": "2026-09-23",
-     "summary": "The Hidden Link Between Expensive Infusions and Rising Stop-Loss Renewal Premiums. Episode 530. When an infusion claim lands on a self-insured plan's high-cost claims report, it's tempting to treat the price tag as fixed — but the exact…",
-     "tags": [
-      "us-health-care",
-      "life-sciences"
-     ],
-     "tracks": [
-      "career"
-     ],
-     "show": "Relentless Health Value",
-     "minutes": 38
-    },
-    "listenOld": {
-     "id": "e-7f54e33eb2",
-     "kind": "episode",
-     "title": "Too Healthy for the Hospital, Too Sick for the Streets",
-     "url": "https://tradeoffs.org/2022/04/28/medical-respite-homelessness/",
-     "date": "2022-08-25",
-     "summary": "Why are a growing number of private insurance companies starting to invest in medical respite — a decades-old idea to care for homeless people who are too healthy to be in the hospital, but too sick to be on the streets? Guests: Henry…",
-     "tags": [
-      "us-health-care"
-     ],
-     "tracks": [
-      "career"
-     ],
-     "show": "Tradeoffs",
-     "minutes": 22
-    },
-    "read": [
-     {
-      "id": "a-9466b9ea58",
-      "kind": "article",
-      "title": "How Big Tobacco flooded the FDA with public comments to kill a menthol cigarette ban",
-      "url": "https://www.statnews.com/2026/09/25/fake-grassroots-campaign-jama-study-rutgers-researchers-fda-menthol-ban/?utm_campaign=rss",
-      "date": "2026-09-25",
-      "summary": "Virtually all of the 175,000 public comments on a 2022 FDA proposal to ban menthol cigarettes were form letters, most echoing tobacco industry talking points.",
-      "tags": [
-       "life-sciences"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "STAT"
-     },
-     {
-      "id": "a-7818986367",
-      "kind": "article",
-      "title": "Congress Weighs How, Not Whether, To Rein In Private Equity In Health Care",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVJJWFJXc3ZYdzhTa2ZVa21VOFJvVWtrcEswMVllaldjbWpvbGMxdUFfZGtTWE5MYThyZi0ybHZfUFk2enlGZjRrTmM3d0VOZ3QyNXRyY3FOamJudXRjY2tLNnk3RDZvdjluMl9yQVRiX0FUaEpFZnI4NlhzUTRKbGdEVkhsdDlwOVNMX1R2TUEwYlBsMkJhOG5uSnZQTnk2NGFhM2V1aFdyQTg?oc=5",
-      "date": "2026-09-24",
-      "tags": [
-       "us-health-care"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "Health Affairs Forefront"
-     },
-     {
-      "id": "a-49769911ff",
-      "kind": "article",
-      "title": "How much our baby’s birth was",
-      "url": "https://www.outofpocket.health/p/pregnancy-cost-breakdown",
-      "date": "2026-09-24",
-      "summary": "This is a fun exercise in learning how billing works!",
-      "tags": [
-       "us-health-care"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "Out-Of-Pocket"
-     }
-    ]
-   }
   }
  ],
  "radar": {
@@ -8998,7 +8982,7 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 3
+   "count": 6
   },
   {
    "id": "devex",
@@ -9010,13 +8994,13 @@
    "id": "brookings-agi",
    "name": "Brookings",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "id": "giin",
@@ -9076,7 +9060,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 15
+   "count": 12
   },
   {
    "id": "cure",
