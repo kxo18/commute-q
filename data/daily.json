@@ -1,6 +1,159 @@
 {
- "updated": "2026-11-24T20:30:11+00:00",
+ "updated": "2026-11-25T19:46:56+00:00",
  "days": [
+  {
+   "date": "2026-11-25",
+   "capstone": {
+    "listenOld": {
+     "id": "e-94d17d5ffc",
+     "kind": "episode",
+     "title": "How remittances and philanthropy meet development challenges in Africa",
+     "url": "https://www.brookings.edu/series/foresight-africa-podcast/",
+     "date": "2023-04-12",
+     "summary": "Una Osili, associate dean for research and international programs and Efroymson Chair in Philanthropy at Indiana University's Lilly Family School of Philanthropy, explains the role that remittances and philanthropy play in meeting…",
+     "tags": [
+      "remittances"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Foresight Africa",
+     "minutes": 39
+    },
+    "read": [
+     {
+      "id": "a-aa9b78852b",
+      "kind": "article",
+      "title": "Slipping Nutrition Targets: Country Taxes, Labels and Budgets Point the Way Post-2030",
+      "url": "https://healthpolicy-watch.news/collapsing-nutrition-targets/",
+      "date": "2026-11-25",
+      "summary": "With 2030 nutrition targets off track and donor aid falling, countries are deploying domestic taxes, marketing bans, and decentralised budgets. In Geneva, leaders are drawing on these national models to overhaul post-2030 multilateral…",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Health Policy Watch"
+     },
+     {
+      "id": "a-d50ba56142",
+      "kind": "article",
+      "title": "One Health, One Threat: What Does Data Reveal About Nigeria’s Readiness to Tackle Antimicrobial Resistance?",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/one-health-one-threat-what-does-data-reveal-about-nigerias-readiness-to-tackle-antimicrobial-resistance/",
+      "date": "2026-11-25",
+      "summary": "Zubaida Baba Ibrahim and Timothy Kovonah (Lead writers) Nigeria faces a significant public health threat from antimicrobial resistance (AMR), ranking 20th globally for age- standardised deaths due to AMR. In 2021, over 50,000 deaths were…",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-783b657be9",
+      "kind": "article",
+      "title": "‘Diaspora Health Insurance Will Change Nigeria’s Poor Health Indices’",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzNhaGRXZWZ6eFQ4LXRqeDRHcF9CMDZPd3ZQTWFVTkZXYTZvN2tTNFlVVkM0SVBMQURabExoLUN3T0RBM0plekdZVzZjVklUa0JYNGFTTEFjWjlESi1lQmVvSEw0eVJJTVU3cU1NN2hjRy05UUVLc0l5TldGYWQ4cjNScE5OMEtreENYX3JzX0JWVHM?oc=5",
+      "date": "2026-11-25",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-2e64ce2db0",
+     "kind": "episode",
+     "title": "EP539: Proof the Healthcare Industry Can Change—We've Done It Before, With Alex Jung",
+     "url": "https://cc-lnk.com/EP539",
+     "date": "2026-11-25",
+     "summary": "The 1990s HMO Reckoning: Lessons From AIDS Litigation and Capitation for Healthcare Reform Today. Episode 539. It's the end of the year, a time of reflection and regrouping, and Stacey Richter wants to give the Relentless Tribe a ray of…",
+     "tags": [
+      "us-health-care",
+      "consulting-craft",
+      "life-sciences",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 12
+    },
+    "listenOld": {
+     "id": "e-59b451964b",
+     "kind": "episode",
+     "title": "Pain, Fear and Waste: The Costs of Unnecessary Care",
+     "url": "https://tradeoffs.org/2022/03/03/cascades-low-value-care/",
+     "date": "2022-06-09",
+     "summary": "We explore “cascades of care” — how a clinician's desire to be thorough can snowball into a harmful spiral of unnecessary care. Guests: Meredith Niess, MD, MPH , Clinical Academic Resource Director, University of North Carolina School of…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 20
+    },
+    "read": [
+     {
+      "id": "a-97a7a867ea",
+      "kind": "article",
+      "title": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
+      "url": "https://www.statnews.com/2026/11/25/health-news-rfk-jr-weighs-in-on-plan-to-detonate-toxic-material-in-iowa/?utm_campaign=rss",
+      "date": "2026-11-25",
+      "summary": "This morning, the Army plans to detonate a cache of “dangerously degraded” toxic material in Iowa, with experts warning of dangerous health consequences:",
+      "tags": [
+       "us-health-care",
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-f4de23b271",
+      "kind": "article",
+      "title": "The gray area of medicine and the new era of guidelines",
+      "url": "https://www.outofpocket.health/p/gray-area-medicine",
+      "date": "2026-11-25",
+      "summary": "The line between “interesting in research” and care guidelines is getting blurrier",
+      "tags": [
+       "us-health-care"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "Out-Of-Pocket"
+     },
+     {
+      "id": "a-05ed79556b",
+      "kind": "article",
+      "title": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
+      "url": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
+      "date": "2026-11-25",
+      "summary": "“Data show that the U.S.-China contest in biotechnology is not one race but several,” writes Michael S. Kinch.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-24",
    "capstone": {
@@ -8694,162 +8847,25 @@
      }
     ]
    }
-  },
-  {
-   "date": "2026-09-26",
-   "capstone": {
-    "listenNew": {
-     "id": "e-ad13867955",
-     "kind": "episode",
-     "title": "Mid-season video trailer",
-     "date": "2026-09-17",
-     "summary": "In this video trailer, Host Garry Aslanyan shares a mid‑season update on Season 5 of Global Health Matters , highlighting the four types of episodes the show now offers — Signature deep‑dives, Dialogue interviews, Trailblazers recorded…",
-     "tags": [
-      "aid-dependency"
-     ],
-     "tracks": [
-      "capstone"
-     ],
-     "show": "Global Health Matters",
-     "minutes": 2
-    },
-    "listenOld": {
-     "ref": "p-cure-telemed"
-    },
-    "read": [
-     {
-      "id": "a-6901c73738",
-      "kind": "article",
-      "title": "From $250m To $947m: CBN Reforms Transform Nigeria’s Diaspora Remittance Inflows",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm1YQmMzWURFZ0dXcjZXMEhkUlVscDRmV0ZvcTV1WUJkV3VqZDV0c0Z1V3hTOGQ3MVBDSGFZdjJ6QVFxcHJnWEpJcmZjZElVMS1uUVdhbmpfNDE2ckNaTGZCallYYkNTZFp0X2FnX2RWemhseHJRclIzVVdOdkJJQjgyRk5wRkpZMHJrNDhNeGc0ZG1RX0xxS2NlSFFKbmQy?oc=5",
-      "date": "2026-09-26",
-      "tags": [
-       "remittances",
-       "nigeria-system"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Leadership.ng"
-     },
-     {
-      "id": "a-baa43d50f8",
-      "kind": "article",
-      "title": "World Contraception Day: A Safe Start Begins Long Before Birth",
-      "url": "https://nigeriahealthwatch.com/articles/thought-leadership-africa/world-contraception-day-a-safe-start-begins-long-before-birth/",
-      "date": "2026-09-26",
-      "summary": "Marie Ba and Dr Alain Damiba (Guest writers) On 31 October, Dakar will open the 2026 Youth Olympic Games, the first Olympic sporting event ever held in Africa. When young athletes enter the arena, most spectators will see only the final…",
-      "tags": [
-       "nigeria-system"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Nigeria Health Watch"
-     },
-     {
-      "id": "a-78672e27fe",
-      "kind": "article",
-      "title": "As WHO Nominations For Next Director-General Close, Six Contenders Emerge – But More May Remain Under Seal",
-      "url": "https://healthpolicy-watch.news/who-nominations-close-six-candidates/",
-      "date": "2026-09-25",
-      "summary": "Following the statutory WHO nomination deadline for the next Director-General, six candidates have now been publicly declared on the agency’s prospective candidate page. While oncologist Dr Gevorg Tamamyan has been proposed in a…",
-      "tags": [
-       "aid-dependency"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Health Policy Watch"
-     }
-    ]
-   },
-   "career": {
-    "listenNew": {
-     "id": "e-061eff9fba",
-     "kind": "episode",
-     "title": "States Weigh In on Medicaid Fraud",
-     "url": "https://tradeoffs.org/2026/09/24/states-weigh-in-on-medicaid-fraud",
-     "date": "2026-09-24",
-     "summary": "A live conversation with a bipartisan group of state Medicaid leaders on the impact of the Trump administration’s aggressive anti-fraud push. Guests: Amir Bassiri , Medicaid Director, New York State Department of Health Paula Chatterjee ,…",
-     "tags": [
-      "us-health-care"
-     ],
-     "tracks": [
-      "career"
-     ],
-     "show": "Tradeoffs",
-     "minutes": 60
-    },
-    "listenOld": {
-     "id": "e-83f49dff48",
-     "kind": "episode",
-     "title": "The Aducanumab Aftermath: The Payer",
-     "url": "https://play.acast.com/s/tradeoffs/theaducanumabaftermath-thepayer",
-     "date": "2021-06-24",
-     "summary": "A controversial new $56,000 Alzheimer’s drug could wreak financial havoc on insurers, seniors and taxpayers. This episode is part of a special weeklong series examining the potentially sweeping consequences this drug, known as aducanumab,…",
-     "tags": [
-      "us-health-care",
-      "life-sciences"
-     ],
-     "tracks": [
-      "career"
-     ],
-     "show": "Tradeoffs",
-     "minutes": 15
-    },
-    "read": [
-     {
-      "id": "a-e8b8c4f3b5",
-      "kind": "article",
-      "title": "Federal judge rolls back landmark disability protections",
-      "url": "https://www.statnews.com/2026/09/25/health-news-federal-judge-rolls-back-landmark-disability-protections/?utm_campaign=rss",
-      "date": "2026-09-25",
-      "summary": "The Justice Department said in June that it would no longer enforce laws that prioritized people with disabilities living and receiving services in their communities, rather than in nursing homes…",
-      "tags": [
-       "us-health-care",
-       "life-sciences"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "STAT"
-     },
-     {
-      "id": "a-1d014ac4a6",
-      "kind": "article",
-      "title": "Departicipation By Hospital Insurer Market Share",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0M5Z1NTWXlJNTMyWHZpd1hRdHJtWHBTODN3aFRnX1pNR3QwWXc4SXpCZVZNRmtua0hfUVgwc095bDdvNnpja2JUT09wY3VNamEtb3otRUJsWFNKVU8yZWhibllLeEdCNzZZc05LTHJadnp6Uk9yRW5uSkttRjl1NVM5dFZHOXpHcWhXaTZib3JnQzlEZUh2aGN2UUFKM3NUWkZFd21iNA?oc=5",
-      "date": "2026-09-25",
-      "tags": [
-       "us-health-care"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "Health Affairs Forefront"
-     },
-     {
-      "id": "a-3f33fa89b4",
-      "kind": "article",
-      "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
-      "url": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
-      "date": "2026-09-25",
-      "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
-      "tags": [
-       "us-health-care"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "STAT"
-     }
-    ]
-   }
   }
  ],
  "radar": {
   "s-pate-insurance": [
+   {
+    "id": "a-783b657be9",
+    "kind": "article",
+    "title": "‘Diaspora Health Insurance Will Change Nigeria’s Poor Health Indices’",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzNhaGRXZWZ6eFQ4LXRqeDRHcF9CMDZPd3ZQTWFVTkZXYTZvN2tTNFlVVkM0SVBMQURabExoLUN3T0RBM0plekdZVzZjVklUa0JYNGFTTEFjWjlESi1lQmVvSEw0eVJJTVU3cU1NN2hjRy05UUVLc0l5TldGYWQ4cjNScE5OMEtreENYX3JzX0JWVHM?oc=5",
+    "date": "2026-11-25",
+    "tags": [
+     "nigeria-system"
+    ],
+    "tracks": [
+     "capstone"
+    ],
+    "source": "Leadership.ng",
+    "attached": "2026-11-25"
+   },
    {
     "id": "a-0e628df953",
     "kind": "article",
@@ -8982,13 +8998,13 @@
    "id": "cgd",
    "name": "CGD",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 6
+   "count": 3
   },
   {
    "id": "brookings-agi",
@@ -9000,13 +9016,13 @@
    "id": "hpw",
    "name": "Health Policy Watch",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "id": "ifc",
@@ -9030,7 +9046,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "id": "nairametrics",
@@ -9048,7 +9064,7 @@
    "id": "stat",
    "name": "STAT",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "id": "oop",
@@ -9060,7 +9076,7 @@
    "id": "haf",
    "name": "Health Affairs Forefront",
    "ok": true,
-   "count": 12
+   "count": 6
   },
   {
    "id": "cure",
@@ -9096,7 +9112,7 @@
    "id": "wth",
    "name": "KFF Health News: What the Health?",
    "ok": true,
-   "count": 476
+   "count": 477
   },
   {
    "id": "readout",
