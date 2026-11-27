@@ -1,6 +1,140 @@
 {
- "updated": "2026-11-26T19:25:39+00:00",
+ "updated": "2026-11-27T19:21:40+00:00",
  "days": [
+  {
+   "date": "2026-11-27",
+   "capstone": {
+    "listenOld": {
+     "id": "e-40dcd41c1f",
+     "kind": "episode",
+     "title": "Trailblazers with Garry: a conversation with Lena Nanushyan",
+     "date": "2025-10-28",
+     "summary": "\" Trailblazers with Garry\" is a new series from Global Health Matters, where host Dr Garry Aslanyan sits down with trailblazers — thinkers, leaders, and influencers shaping the future of global health — for short face-to-face…",
+     "tags": [
+      "aid-dependency"
+     ],
+     "tracks": [
+      "capstone"
+     ],
+     "show": "Global Health Matters",
+     "minutes": 31
+    },
+    "read": [
+     {
+      "id": "a-66b59bded0",
+      "kind": "article",
+      "title": "Curated Conversations: Winnie Byanyima on How Debt and Aid Cuts Threaten Nigeria’s HIV Response",
+      "url": "https://nigeriahealthwatch.com/articles/thought-leadership/curated-conversations-winnie-byanyima-on-how-debt-and-aid-cuts-threaten-nigerias-hiv-response/",
+      "date": "2026-11-27",
+      "summary": "Trained as an aeronautical engineer and offered a path into scientific research, Winnie Byanyima chose activism over academia as Uganda’s politics shifted.“My country was falling apart”, she recalled. “Young people were all flocking…",
+      "tags": [
+       "nigeria-system",
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Nigeria Health Watch"
+     },
+     {
+      "id": "a-1a4a9c87ab",
+      "kind": "article",
+      "title": "FG, Kano Launch Health Insurance For 20,000 Vulnerable Women, Children",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONXdUV2ZHUHd5TzNqSHJSTklMVVhfWlhvLTR6V0h2b0gwb294dXJMNGhDMGt3YjBYRWVuMENmR19yS1ZmbHNKUmlyaVZxOXhaRWZUbkZwRENPdU5jWXA4YklfVGF4WFlHaVJaLTdrTS00T0VEdFdYZC1nbV81U0RUYlVPaVBPX0luN3RHRWQwSTVtVWZz?oc=5",
+      "date": "2026-11-26",
+      "tags": [
+       "nigeria-system"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Leadership.ng"
+     },
+     {
+      "id": "a-98e530a208",
+      "kind": "article",
+      "title": "USAID files go public, igniting a firestorm over disinformation work",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3c3RmhnRVFYTVRTWjBCR3dCR1hNXy1JcjNWZmw1eUtaT1VLdWk0RWZPX1BnZG1xdGRBTXZGRUMxdk9lNHVsaWMxWjNncnQ3YlhTcXU1Sm9wVEdYYVZPWjFMVGdDRlVMUkNvWHlXZFJlUUdoTVBPcWZYWGhoOEsxSHkweEdocVBTeVd0ZDc4dFFGc1VIQXdOaEpfNjBSTjNPOUV3?oc=5",
+      "date": "2026-11-25",
+      "tags": [
+       "aid-dependency"
+      ],
+      "tracks": [
+       "capstone"
+      ],
+      "source": "Devex"
+     }
+    ]
+   },
+   "career": {
+    "listenNew": {
+     "id": "e-cf1fe3fb4b",
+     "kind": "episode",
+     "title": "The People Fighting to Save Health Care in Rural America",
+     "url": "https://tradeoffs.org/2026/11/26/the-people-fighting-to-save-health-care-in-rural-america/",
+     "date": "2026-11-26",
+     "summary": "Our friends at The Pulse from WHYY explore the rural health care crisis and emerging solutions to preserve and increase access to care. Learn more: Read the full transcript and explore additional resources on our website . Want more…",
+     "tags": [
+      "us-health-care",
+      "health-systems"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Tradeoffs",
+     "minutes": 52
+    },
+    "listenOld": {
+     "id": "e-cde0642103",
+     "kind": "episode",
+     "title": "EP434: 5 Surprises About Bundled Payments, With Benjamin Schwartz, MD, MBA",
+     "url": "https://cc-lnk.com/EP434",
+     "date": "2024-04-25",
+     "summary": "Most people who listen to this show know enough about bundled payments to be dangerous — which is exactly why Stacey Richter asked Ben Schwartz, MD, MBA, an orthopedic surgeon still in full-time clinical practice, what actually surprises…",
+     "tags": [
+      "us-health-care"
+     ],
+     "tracks": [
+      "career"
+     ],
+     "show": "Relentless Health Value",
+     "minutes": 40
+    },
+    "read": [
+     {
+      "id": "a-2eb53d87cf",
+      "kind": "article",
+      "title": "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks",
+      "url": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/?utm_campaign=rss",
+      "date": "2026-11-27",
+      "summary": "Montana has become the first state to have its own ‘right to try’ law, but important questions remain, researchers write.",
+      "tags": [
+       "life-sciences"
+      ],
+      "tracks": [
+       "career"
+      ],
+      "source": "STAT"
+     },
+     {
+      "id": "a-1c7745cb15",
+      "kind": "article",
+      "title": "Events",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BZUFvOXZ2NHRINzg1U2EzbHcwN1lzMnZsUE5TOUUxRVEzWVdmdTRrOVZyWHhkU0t1Q3Q3NXYzU2xkX1JpTkw3c0xB?oc=5",
+      "date": "2026-11-03",
+      "tags": [
+       "investment",
+       "development-finance"
+      ],
+      "tracks": [
+       "capstone",
+       "career"
+      ],
+      "source": "GIIN"
+     }
+    ]
+   }
+  },
   {
    "date": "2026-11-26",
    "capstone": {
@@ -8681,172 +8815,6 @@
      }
     ]
    }
-  },
-  {
-   "date": "2026-09-28",
-   "capstone": {
-    "listenNew": {
-     "id": "e-8c11bb5109",
-     "kind": "episode",
-     "title": "Behind the scenes of the pandemic agreement",
-     "date": "2026-09-08",
-     "summary": "In May 2025, the world adopted a landmark agreement to prepare for future pandemics. It was the product of 3 years of negotiation across deep political divisions, including the withdrawal of the United States from the World Health…",
-     "tags": [
-      "aid-dependency"
-     ],
-     "tracks": [
-      "capstone"
-     ],
-     "show": "Global Health Matters",
-     "minutes": 45
-    },
-    "listenOld": {
-     "id": "e-f668f65997",
-     "kind": "episode",
-     "title": "The CHAG Model: A Blueprint for Universal Health Coverage in Africa",
-     "date": "2026-06-15",
-     "summary": "What does it take to deliver healthcare at scale and still reach the underserved?At WHX Lagos, Dr. Peter Yeboah shares how the Christian Health Association of Ghana (CHAG) has become a cornerstone of healthcare delivery providing nearly…",
-     "tags": [
-      "nigeria-system",
-      "investment"
-     ],
-     "tracks": [
-      "capstone"
-     ],
-     "show": "The Cure",
-     "minutes": 27
-    },
-    "read": [
-     {
-      "id": "a-28b1761c1d",
-      "kind": "article",
-      "title": "Lagos Coastal Highway: Stella Okengwu Thanks Tinubu, Seeks Compensation For Diaspora Investors",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1FWaEdUeHVkM0tyTmhOSG9YZF81YkJoem1vMW1DNXVQT1B5OU96QkFHNEJNMWIyVVFOMmVPMGtVRHFEcHRKa1B1emFLc0pmd0ZPTmtGNjZKaUpkMlJQTDdpUFpHRC1yQVZnUmdzS1JXcHIxd1VJWDYwV2ZvcFlHR0FKeE9Hd2xKT3BiZ0ZSU00tOHRKUG43aGFLTzgwc2ZYZWtGT3pRc3dBSmY0TndlbW5zSjZUdw?oc=5",
-      "date": "2026-09-21",
-      "tags": [
-       "nigeria-system",
-       "investment"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Leadership.ng"
-     },
-     {
-      "id": "a-b67dd1f19a",
-      "kind": "article",
-      "title": "Nigeria receives $11.12 billion in personal transfers in first half of 2026",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGVkaC1YY3cxbnU1UUNweUpFVkxmQXp4YUUxWTQ2QWkzM2xzSFZPbXJXajI3T0pTdDQ2amtLcFhETEtXOW11Q0dWUnUzYU1LYU11S19pcXlYX1ZaVVhpZTF5bEItcWJzMjRyejR5cGZrdkEwbEZ5cTFYSmhyVlpmS0JscXl4V1FjendQN0V0TmdfU0xOTWJmcTlNVlpuVE1nMEpPLXdoNEVTTzg5ckVfSg?oc=5",
-      "date": "2026-09-21",
-      "tags": [
-       "remittances",
-       "nigeria-system"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Nairametrics"
-     },
-     {
-      "id": "a-646e4bb28a",
-      "kind": "article",
-      "title": "Real-Time Patient Feedback Is Helping Shape Safer and Better Maternity Care",
-      "url": "https://nigeriahealthwatch.com/articles/torchlight/patient-feedback-is-helping-shape-safer-and-better-maternity-care/",
-      "date": "2026-09-23",
-      "summary": "At Sango Primary Health Centre (PHC) in Lagos, Dorathy Ochenehi, the senior nursing officer, leans toward a new mother, gently guiding her through one final step before she leaves the facility. “Please, help us scan this and drop your…",
-      "tags": [
-       "nigeria-system"
-      ],
-      "tracks": [
-       "capstone"
-      ],
-      "source": "Nigeria Health Watch"
-     }
-    ]
-   },
-   "career": {
-    "listenNew": {
-     "id": "e-9a83ced2ea",
-     "kind": "episode",
-     "title": "How Stark Law, Stipends, and Noncompetes Drive Hospital Consolidation, With Eric Bricker, MD",
-     "url": "https://cc-lnk.com/EP529",
-     "date": "2026-09-16",
-     "summary": "The Chain Reactions Wrecking Healthcare Affordability: Facility Fees, Stark Law, and Noncompetes. Episode 529. Why do hospital facility fees keep pace with inflation while professional fees fall behind—and how did a law meant to stop…",
-     "tags": [
-      "us-health-care",
-      "health-systems"
-     ],
-     "tracks": [
-      "career"
-     ],
-     "show": "Relentless Health Value",
-     "minutes": 39
-    },
-    "listenOld": {
-     "id": "e-f6ea3083c0",
-     "kind": "episode",
-     "title": "Encore! EP450: When Your Health Plan Is $9 Million in the Hole, Who Are You Going to Call? A CPA. And Tell Them to Bring Their Spreadsheets, With Marilyn Bartlett, CPA, CMA, CFM, CGMA",
-     "url": "https://cc-lnk.com/EncoreEP450",
-     "date": "2025-12-18",
-     "summary": "From $9 Million in the Hole to $112 Million in the Black: How Marilyn Bartlett Turned Around Montana's State Employee Health Plan. What happens when a self-funded health plan is headed for bankruptcy and a CPA with a spreadsheet and her…",
-     "tags": [
-      "us-health-care",
-      "life-sciences",
-      "health-systems"
-     ],
-     "tracks": [
-      "career"
-     ],
-     "show": "Relentless Health Value",
-     "minutes": 35
-    },
-    "read": [
-     {
-      "id": "a-cb53360436",
-      "kind": "article",
-      "title": "Same Care, Different Score: Medicare’s Quality Bonuses Are About To Reprice On Data, Not Medicine",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzZJdHZFZzhoRU1xRFRKdlZaTzhPeE9BXzM1MkRqMlY2TEpDeVBNSDhKYmdkTzNkVkVWamlpRFJTS2t0Qm9aVTBVUlVLamxqNzRyUlQwdEtRMnFaSW9LUGRQbzFLOXJVNW5Ya1dreXdLR1VJV2MydkV4WGlXdmpDTXhiaDlJaFA4U20xS3Y5T0tJNVItV3p0WVBSMXU1YWJnUmRiTUZkZHpXSU56LU9ZN2R1c05Od1NFMHB1cFZGTDNMaWp0?oc=5",
-      "date": "2026-09-25",
-      "tags": [
-       "us-health-care"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "Health Affairs Forefront"
-     },
-     {
-      "id": "a-d84ebfc775",
-      "kind": "article",
-      "title": "forefront - Health Affairs",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3QxdXZrNkhWTy1VY1B1MWEzdGZ0aXdOcXpKRHhhdlJLRmtrN05DNm5UVFZlQ2hmdUI5QXlheG1WcElCVlRuT1R5UFVrTkl0dTRQMnNuRzJOdjZPTGx0OGR4V0EzNWJfQkpWZjczTEdqMmZrMVIyRHhjYzdGZ3BrZmxtU25JUHhydWJYU0JNZUFROU1jWndWWEhJRl95WHZQTEQ4?oc=5",
-      "date": "2026-09-25",
-      "tags": [
-       "us-health-care",
-       "health-systems"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "Health Affairs Forefront"
-     },
-     {
-      "id": "a-06bdc610c2",
-      "kind": "article",
-      "title": "Rethinking Justice, One Study At A Time",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0xfbnJvMUZhaDQ5b3hlN3h2X2Z5cGxCbVpsdDFGWVlLajhBSWNLd3FNd0hheTFpdGRVWHZCQWJaRlY3bDlleFNjLS1Hb2J2TzRhTUhSNTQ5N3B1UXdwTlFMX2JycGRmcjZrQlVhaGlhWXF3SjhvLTFPdm9GY2RpUzN1YjVxdUxo?oc=5",
-      "date": "2026-09-25",
-      "tags": [
-       "us-health-care",
-       "health-systems"
-      ],
-      "tracks": [
-       "career"
-      ],
-      "source": "Health Affairs Forefront"
-     }
-    ]
-   }
   }
  ],
  "radar": {
@@ -9004,7 +8972,7 @@
    "id": "devex",
    "name": "Devex",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "id": "brookings-agi",
@@ -9022,7 +8990,7 @@
    "id": "giin",
    "name": "GIIN",
    "ok": true,
-   "count": 6
+   "count": 3
   },
   {
    "id": "ifc",
@@ -9046,7 +9014,7 @@
    "id": "leadership",
    "name": "Leadership.ng",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "id": "nairametrics",
